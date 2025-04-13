@@ -5,8 +5,8 @@
 }
 .post-thumbnail{
 	width: 100%;
-  max-height: 360px;
-	height: 360px;
+  max-height: 340px;
+	height: 340px;
 	background-position: center;
     background-size: cover;
     display: flex;
@@ -141,40 +141,40 @@ max-width: 900px;
   margin-bottom: 12px;
   margin-right: 8px;
   margin-left: 8px;
-  min-width: 360px;
+  min-width: 340px;
 
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
 
-  @media (max-width:360px) {
+  @media (max-width:340px) {
     width: 100%;
     height: 300px;
   }
 
 }
 .card-about .image{
-  width: 360px;
-  height: 360px;
+  width: 340px;
+  height: 340px;
   background-position: center;
   background-size: cover;
   margin-left: 24px;
   margin-right: 24px;
 
-  @media (max-width: 360px) {
+  @media (max-width: 340px) {
     width: 100%;
     height: 300px;
   }
 
 }
 .card-about .card-content{
-  width: 360px;
-  height: 360px;
+  width: 340px;
+  height: 340px;
   background-position: center;
   background-size: cover;
   margin: 24px;
 
-  @media (max-width: 360px) {
+  @media (max-width: 340px) {
     width: 100%;
     height: 300px;
   }
@@ -199,7 +199,7 @@ max-width: 900px;
   }*/
 
   .card-wrapper {
-    width: 360px;
+    width: 340px;
     margin-top: 12px;
     margin-bottom: 12px;
     margin-right: 8px;
@@ -223,13 +223,13 @@ max-width: 900px;
     margin-left: 8px;
 
     @media (max-width: 1288px) and (min-width: 800px) {
-      min-width: 360px;
+      min-width: 340px;
       width: 100%;
       height: 300px;
     }
 
     @media (max-width: 800px) {
-      width: 360px;
+      width: 340px;
     }
 
     &.filtered {
@@ -284,7 +284,7 @@ max-width: 900px;
 
 }
 .image-card-porftolio{
-  height: 360px;
+  height: 340px;
   width: 300px;
   display: flex;
   padding: 36px;
@@ -306,7 +306,7 @@ max-width: 900px;
 }
 
 .image-card-porftolio-illustration{
-  height: 360px;
+  height: 340px;
   width: 300px;
   display: flex;
   padding: 4px;
@@ -352,9 +352,9 @@ max-width: 900px;
   }
   
   @media (max-width: 800px) {
-    width: 360px;
-    height: 360px;
-    min-width: 360px;
+    width: 340px;
+    height: 340px;
+    min-width: 340px;
   }
   .image{
     /*height: 200px;
@@ -367,16 +367,16 @@ max-width: 900px;
     justify-content: space-between;
     align-items: flex-end;
     flex-direction: row-reverse;*/
-    width: 360px;
+    width: 340px;
     height: 588px;
     position: absolute;
     left: -25px;
     top: -14px;
 
     @media (max-width: 1288px) and (min-width: 800px) {
-      width: 360px;
+      width: 340px;
       height: 300px;
-      min-width: 360px;
+      min-width: 340px;
     }
   }
 }
