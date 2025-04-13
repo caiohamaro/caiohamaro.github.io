@@ -1,0 +1,52 @@
+---
+layout: _base
+---
+
+{% include "partials/_hero" %}
+
+
+<div class="l-grid l-grid-wide">
+
+
+  {% if pagination.items %}
+    <ul class="posts-archive list-content post-list">
+      
+      {% for post in pagination.items limit:1 %}
+        <div class="card-presentation">
+          <a class="image" 
+            style="background-image: url(/images/card-presentation1.png)" 
+            href="/about/">
+          </a>
+          
+        </div>
+        <div class="card-wrapper-principal {{ post.data.tags | join: " " }}">
+          {% render "components/full-card-principal.liquid"
+             , samePage: true
+             , image: post.data.thumbnail
+             , title: post.data.title
+             , url: post.data.permalink
+             , text: post.data.description
+             , timeread: post.data.timeread
+             , tags: post.data.tags %}
+          </div>
+      {% endfor %}
+
+      {% for post in pagination.items offset:1 %}
+          <div class="card-wrapper {{ post.data.tags | join: " " }}">
+          {% render "components/full-card.liquid"
+              , samePage: true
+             , image: post.data.thumbnail
+             , title: post.data.title
+             , url: post.data.permalink
+             , text: post.data.description
+             , timeread: post.data.timeread
+             , tags: post.data.tags %}
+          </div>
+      {% endfor %}
+    </ul>
+
+    {% include "partials/_pagination" %}
+  {% else %}
+    {{ content }}
+  {% endif %}
+</div>

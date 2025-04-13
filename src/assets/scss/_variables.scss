@@ -1,0 +1,65 @@
+// COLORS
+$color-gray: #312D2B;
+$color-purple: #602F9A;
+$color-pink: #B22AA8;
+$color-orange: #F75123;
+$color-goldenrod: #FA6D26;
+$color-yellow: #FCA22B;
+
+$background: #fafafa;
+$text: #30292f;
+
+$blue-dark: #7654f0;
+$blue-light: #4795f0;
+
+$purple-light: #b43df0;
+$purple-dark: #552bab;
+$purple-gray: #d5c0f0;
+$purple-white: #f9f2ff;
+$purple-brown: #44364d;
+
+$orange: #f07b56;
+$red-light: #f04a7d;
+
+$drop-shadow: drop-shadow(8px 8px 10px #d9d0e3);
+
+
+$color-white: #FFF;
+$color-black: color.mix($color-gray, #000);
+
+$color-background: color.mix($color-yellow, $color-white);
+$color-background-pale: #E8DBAD;/*color.mix($color-yellow, $color-white, 33%);*/
+
+// BORDERS
+$border-default: 1px solid $color-orange;
+$border-radius-default: 0;
+
+// RWD
+$breakpoints: (
+  medium: 40em,
+  nav: 50em,
+  large: 60em,
+  xlarge: 80em,
+  sm: 540px,
+  md: 768px,
+  lg: 992px,
+
+);
+
+// SPACING
+$base-spacing: 1.6rem;
+$large-spacing: $base-spacing * 2;
+$giant-spacing: $base-spacing * 4;
+$small-spacing: math.div($base-spacing, 2);
+$tiny-spacing: math.div($base-spacing, 4);
+
+// LAYOUT
+$max-width: 50rem;
+$max-width--wide: 90rem;
+
+// ANIMATION
+$duration: 0.15s;
+$easing: ease-in-out;
+
+$text: 'Nunito', sans-serif;
+$header: 'Space Grotesk', sans-serif;

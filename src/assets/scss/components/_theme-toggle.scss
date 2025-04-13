@@ -1,0 +1,67 @@
+.theme-toggle {
+  display: none;
+
+  .js & {
+    display: inline-grid;
+    grid-template-columns: repeat(3, 1fr);
+    position: relative;
+    z-index: 1;
+    transform: skewY(var(--tilt));
+  }
+
+  &:focus-within {
+    outline: 2px solid var(--color-light);
+    outline-offset: 2px;
+  }
+}
+
+.theme-toggle__input {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+
+.theme-toggle__label {
+  width: $base-spacing;
+  height: $base-spacing;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  color: var(--color-dark);
+  cursor: pointer;
+
+  &[for="light"] {
+    background-color: var(--color-accent-3);
+  }
+
+  &[for="dark"] {
+    background-color: var(--color-accent-1);
+  }
+
+  &:hover,
+  &:active {
+    color: var(--color-purple-dark);
+    outline: 2px solid var(--color-background);
+    outline-offset: -2px;
+  }
+
+  &:focus,
+  .theme-toggle__input:focus + & {
+    z-index: 2;
+    outline: 2px solid var(--color-light);
+  }
+
+  :checked + & {
+    outline: 2px solid var(--color-light);
+    outline-offset: -2px;
+  }
+
+  svg {
+    width: $small-spacing;
+    height: $small-spacing;
+    display: block;
+    fill: currentColor;
+    transform: skewY(calc(-1 * var(--tilt)));
+  }
+}

@@ -1,0 +1,21 @@
+
+<header class="post-header">
+  {% if thumbnail %}
+    <div class="post-thumbnail" style="background-image: url({{ thumbnail }})">
+      {%- for tag in tags | filterTagList %}
+		    <span><a href="/tags/{{ tag }}" class="post-tag">{{ tag }}</a></span>
+	    {%- endfor %}
+    </div>
+  {% else %}
+   <div class="post-without-thumbnail" style="background-image: url('/images/stanley-sm-300x225.jpg')">
+      {%- for tag in tags | filterTagList %}
+		    <span><a href="/tags/{{ tag }}" class="post-tag">{{ tag }}</a></span>
+	    {%- endfor %}
+    </div>
+  {% endif %}
+  <div class="post-title-container"> 
+  <p class="post-title">{{ title }}</p>
+	<p class="post-subtitle">{{ subtitle }}</p>
+  </div>
+</header>
+
