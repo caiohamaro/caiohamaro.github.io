@@ -5,7 +5,7 @@
   "main": ".eleventy.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jdsteinbach/jdsteinbach.github.io.git"
+    "url": "git+https://github.com/caiohamaro/caiohamaro.github.io.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -57,7 +57,10 @@
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/jdsteinbach/jdsteinbach.github.io/issues"
+    "url": "https://github.com/caiohamaro/caiohamaro.github.io/issues"
   },
-  "homepage": "https://github.com/jdsteinbach/jdsteinbach.github.io#readme"
+  "homepage": "https://github.com/caiohamaro/caiohamaro.github.io#readme",
+  "directories": {
+    "doc": "docs"
+  }
 }
