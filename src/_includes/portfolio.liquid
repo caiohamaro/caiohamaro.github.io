@@ -12,7 +12,7 @@ layout: _base
     <ul class="posts-archive list-content post-list-portfolio">
       {% for post in pagination.items | reverse  %}
         <div class="card-wrapper-portfolio {{ post.data.tags | join: " " }}">
-          {% render "components/full-card-portfolio.liquid"
+          {% render "components/full-card-portfolio.liquid" 
                   , samePage: true
                   , image: post.data.cover
                   , title: post.data.title
