@@ -1,0 +1,22 @@
+{
+  "name": "Caio Amaro",
+  "short_name": "CA",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/images/site-picture.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/site-picture.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#492e63",
+  "background_color": "#492e63",
+  "display": "standalone",
+  "splash_pages": null
+}
