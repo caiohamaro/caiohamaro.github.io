@@ -3,6 +3,7 @@
     margin-top: 51px;
     width: 100%;
 }
+//Estilos de Textos/Posts
 .post-thumbnail{
 	width: 100%;
   max-height: 340px;
@@ -38,24 +39,20 @@
   margin-top: 68px;
 }
 .post-header{
-
-margin-top: 51px;
-width: 100%;
- 
+  margin-top: 51px;
+  width: 100%;
 }
 .post-title-container{
-max-width: 900px;
- margin: auto;
-
+  max-width: 900px;
+  margin: auto;
 }
 .post-title{
-	margin-bottom: 12px;
-   margin-top: 30px;
-   font-size: 40px;
-   font-family: var(--ff-title);
+  margin-bottom: 12px;
+  margin-top: 30px;
+  font-size: 40px;
+  font-family: var(--ff-title);
   text-align: center;
   font-weight: bold;
-
 }
 .post-subtitle{
     font-weight: 300;
@@ -63,6 +60,7 @@ max-width: 900px;
 	margin: 0;
   text-align: center;
 }
+//Estilos do componente QUOTE para Textos/Posts
 .quote{
   margin-bottom: 20px;
 }
@@ -89,6 +87,7 @@ max-width: 900px;
   margin: 0 auto;
 }
 
+//Estilos do componente QUOTE para itens do Portfolio
 .quote-portfolio{
   margin-bottom: 20px;
   margin-top: 12px;
@@ -115,6 +114,7 @@ max-width: 900px;
   margin: 0 auto;
 }
 
+//Estilos para Imagens que estão dentro dos Textos/Posts
 .img-inside > img{
   max-width: 100%;
   height: auto;
@@ -128,20 +128,14 @@ max-width: 900px;
   font-size: 60%;
 }
 
-.list-content {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
+//Estilos da página Sobre mim/About Me
 .card-about{
   width: 100%;
   margin-top: 12px;
   margin-bottom: 12px;
   margin-right: 8px;
   margin-left: 8px;
-  min-width: 340px;
+  min-width: var(ss-min-widht);
 
   display: flex;
   justify-content: space-around;
@@ -149,13 +143,13 @@ max-width: 900px;
 
   @media (max-width:340px) {
     width: 100%;
-    height: 300px;
+    height: var(--ss-default-card-height);
   }
 
 }
 .card-about .image{
-  width: 340px;
-  height: 340px;
+  width: 400px;
+  height: 400px;
   background-position: center;
   background-size: cover;
   margin-left: 24px;
@@ -163,21 +157,30 @@ max-width: 900px;
 
   @media (max-width: 340px) {
     width: 100%;
-    height: 300px;
+    height: var(--ss-default-card-height);
   }
 
 }
 .card-about .card-content{
-  width: 340px;
-  height: 340px;
+  width: 400px;
+  height: 400px;
   background-position: center;
   background-size: cover;
   margin: 24px;
 
   @media (max-width: 340px) {
     width: 100%;
-    height: 300px;
+    height: var(--ss-default-card-height);
   }
+}
+
+//Estilo para páginas gerais com conteúdo listado (home, portfolio, textos, tags)
+
+.list-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .post-list {
@@ -193,13 +196,9 @@ max-width: 900px;
   @media (max-width: 800px) {
     justify-content:space-evenly;
   }
-/*
-  @media (max-width: 500px) {
-    flex-direction: column;
-  }*/
 
   .card-wrapper {
-    width: 340px;
+    width: 400px;
     margin-top: 12px;
     margin-bottom: 12px;
     margin-right: 8px;
@@ -207,14 +206,16 @@ max-width: 900px;
 
     @media (max-width: 1288px) and (min-width: 800px) {
       width: 100%;
-      height: 300px;
+      height: var(--ss-default-card-height);
+      min-width: var(--ss-min-width);
     }
 
     &.filtered {
       display: none;
     }
   }
-  
+
+  //Especificidade para o primeiro card da HOME
   .card-wrapper-principal {
     width: calc(100% - 375px);
     margin-top: 12px;
@@ -223,13 +224,14 @@ max-width: 900px;
     margin-left: 8px;
 
     @media (max-width: 1288px) and (min-width: 800px) {
-      min-width: 340px;
+      min-width: var(--ss-min-width);
       width: 100%;
-      height: 300px;
+      height: var(--ss-default-card-height);
     }
 
     @media (max-width: 800px) {
-      width: 340px;
+      width: var(--ss-default-card-width);
+      min-width: var(--ss-min-width);
     }
 
     &.filtered {
@@ -237,6 +239,102 @@ max-width: 900px;
     }
   }
 }
+
+//Estilos para tags em Textos/Posts
+.post-tag{
+  font-size: 14px;
+  font-family: var(--ff-title);
+  letter-spacing: 1.8px;
+  text-decoration: none;
+  --color-link:var(--color-link-post-tag);
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+//Estilos para Item de Apresentação da HOME
+
+.card-presentation{
+  width: 310px;
+  height: 588px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-right: 8px;
+  margin-left: 8px;
+  position: relative;
+
+  @media (max-width: 1288px) and (min-width: 800px) {
+    width: 100%;
+    min-width: 780px;
+    max-height: var(--ss-default-card-height);
+  }
+  
+  @media (max-width: 800px) {
+    width: 100%;
+    height: 340px;
+    min-width: var(ss-min-widht);
+  }
+  .image{
+    /*height: 200px;
+    width: 100px;
+    width: 100%;
+    height: 232px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: row-reverse;*/
+    width: 400px;
+    height: 588px;
+    position: absolute;
+    left: -25px;
+    top: -14px;
+
+    @media (max-width: 1288px) and (min-width: 800px) {
+      width: var(--ss-min-width);
+      height: var(--ss-default-card-height);
+      min-width: var(--ss-min-width);
+    }
+  }
+}
+/*
+.spikes{
+  background-color: var(--color-background-card-presentation);
+  position: relative;
+}
+.spikes::after{
+  content:'';
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  background-color: var(--color-background-page);
+  -webkit-mask-image: url('/images/icons/triangle.svg');
+  
+  @media (max-width: 1288px) and (min-width: 800px) {
+    height: 100%;
+    width: 60px;
+    -webkit-mask-image: url('/images/icons/triangle-reverse.svg');
+  }
+  @media (max-width: 800px) {
+    -webkit-mask-image: none;
+  }
+}
+
+.spikes::after{
+  bottom: 0;
+  right: 0;
+  transform: rotate(.5turn);
+
+  @media (max-width: 1288px) and (min-width: 800px) {
+    right:0;
+  }
+  @media (max-width: 800px) {
+    height: 0;
+  }
+}
+*/
+
+//Estilos para a página de portfolio
 
 .portfolio-menu-selected{
     background-color: red;
@@ -284,7 +382,7 @@ max-width: 900px;
 
 }
 .image-card-porftolio{
-  height: 340px;
+  height: 400px;
   width: 300px;
   display: flex;
   padding: 36px;
@@ -306,7 +404,7 @@ max-width: 900px;
 }
 
 .image-card-porftolio-illustration{
-  height: 340px;
+  height: 416px;
   width: 300px;
   display: flex;
   padding: 4px;
@@ -336,94 +434,5 @@ max-width: 900px;
     margin-top: 4px;
   }
 }
-.card-presentation{
-  width: 310px;
-  height: 588px;
-  margin-top: 12px;
-  margin-bottom: 12px;
-  margin-right: 8px;
-  margin-left: 8px;
-  position: relative;
 
-  @media (max-width: 1288px) and (min-width: 800px) {
-    width: 100%;
-    min-width: 780px;
-    max-height: 300px;
-  }
-  
-  @media (max-width: 800px) {
-    width: 340px;
-    height: 340px;
-    min-width: 340px;
-  }
-  .image{
-    /*height: 200px;
-    width: 100px;
-    width: 100%;
-    height: 232px;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    flex-direction: row-reverse;*/
-    width: 340px;
-    height: 588px;
-    position: absolute;
-    left: -25px;
-    top: -14px;
 
-    @media (max-width: 1288px) and (min-width: 800px) {
-      width: 340px;
-      height: 300px;
-      min-width: 340px;
-    }
-  }
-}
-.spikes{
-  background-color: var(--color-background-card-presentation);
-  position: relative;
-}
-.spikes::after{
-  content:'';
-  position: absolute;
-  width: 100%;
-  height: 100px;
-  background-color: var(--color-background-page);
-  -webkit-mask-image: url('/images/icons/triangle.svg');
-  
-  @media (max-width: 1288px) and (min-width: 800px) {
-    height: 100%;
-    width: 60px;
-    -webkit-mask-image: url('/images/icons/triangle-reverse.svg');
-  }
-  @media (max-width: 800px) {
-    -webkit-mask-image: none;
-  }
-}
-
-.spikes::after{
-  bottom: 0;
-  right: 0;
-  transform: rotate(.5turn);
-
-  @media (max-width: 1288px) and (min-width: 800px) {
-    right:0;
-    /*transform: rotate(0.25turn);*/
-  }
-  @media (max-width: 800px) {
-    height: 0;
-  }
-}
-.post-tag{
-  font-size: 14px;
-  font-family: var(--ff-title);
-  letter-spacing: 1.8px;
-  text-decoration: none;
-  --color-link:var(--color-link-post-tag);
-  font-weight: 500;
-  text-transform: uppercase;
-}
-.caioteste{
-  width: 60% !important;
-}

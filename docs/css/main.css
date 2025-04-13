@@ -161,6 +161,9 @@ table {
   --fw-medium: 550;
   --fw-bold: 700;
   --fw-heavy: 800;
+  --ss-min-width: 340px;
+  --ss-default-card-width: 400px;
+  --ss-default-card-height: 300px;
   /*
     // Text Colors
     --color-text: black;
@@ -1596,20 +1599,13 @@ svg:hover .starfield__layer {
   font-size: 60%;
 }
 
-.list-content {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
 .card-about {
   width: 100%;
   margin-top: 12px;
   margin-bottom: 12px;
   margin-right: 8px;
   margin-left: 8px;
-  min-width: 340px;
+  min-width: var(ss-min-widht);
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -1617,13 +1613,13 @@ svg:hover .starfield__layer {
 @media (max-width: 340px) {
   .card-about {
     width: 100%;
-    height: 300px;
+    height: var(--ss-default-card-height);
   }
 }
 
 .card-about .image {
-  width: 340px;
-  height: 340px;
+  width: 400px;
+  height: 400px;
   background-position: center;
   background-size: cover;
   margin-left: 24px;
@@ -1632,13 +1628,13 @@ svg:hover .starfield__layer {
 @media (max-width: 340px) {
   .card-about .image {
     width: 100%;
-    height: 300px;
+    height: var(--ss-default-card-height);
   }
 }
 
 .card-about .card-content {
-  width: 340px;
-  height: 340px;
+  width: 400px;
+  height: 400px;
   background-position: center;
   background-size: cover;
   margin: 24px;
@@ -1646,8 +1642,15 @@ svg:hover .starfield__layer {
 @media (max-width: 340px) {
   .card-about .card-content {
     width: 100%;
-    height: 300px;
+    height: var(--ss-default-card-height);
   }
+}
+
+.list-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .post-list {
@@ -1658,10 +1661,6 @@ svg:hover .starfield__layer {
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  /*
-    @media (max-width: 500px) {
-      flex-direction: column;
-    }*/
 }
 @media (max-width: 800px) {
   .post-list {
@@ -1669,7 +1668,7 @@ svg:hover .starfield__layer {
   }
 }
 .post-list .card-wrapper {
-  width: 340px;
+  width: 400px;
   margin-top: 12px;
   margin-bottom: 12px;
   margin-right: 8px;
@@ -1678,7 +1677,8 @@ svg:hover .starfield__layer {
 @media (max-width: 1288px) and (min-width: 800px) {
   .post-list .card-wrapper {
     width: 100%;
-    height: 300px;
+    height: var(--ss-default-card-height);
+    min-width: var(--ss-min-width);
   }
 }
 .post-list .card-wrapper.filtered {
@@ -1693,20 +1693,115 @@ svg:hover .starfield__layer {
 }
 @media (max-width: 1288px) and (min-width: 800px) {
   .post-list .card-wrapper-principal {
-    min-width: 340px;
+    min-width: var(--ss-min-width);
     width: 100%;
-    height: 300px;
+    height: var(--ss-default-card-height);
   }
 }
 @media (max-width: 800px) {
   .post-list .card-wrapper-principal {
-    width: 340px;
+    width: var(--ss-default-card-width);
+    min-width: var(--ss-min-width);
   }
 }
 .post-list .card-wrapper-principal.filtered {
   display: none;
 }
 
+.post-tag {
+  font-size: 14px;
+  font-family: var(--ff-title);
+  letter-spacing: 1.8px;
+  text-decoration: none;
+  --color-link:var(--color-link-post-tag);
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.card-presentation {
+  width: 310px;
+  height: 588px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-right: 8px;
+  margin-left: 8px;
+  position: relative;
+}
+@media (max-width: 1288px) and (min-width: 800px) {
+  .card-presentation {
+    width: 100%;
+    min-width: 780px;
+    max-height: var(--ss-default-card-height);
+  }
+}
+@media (max-width: 800px) {
+  .card-presentation {
+    width: 100%;
+    height: 340px;
+    min-width: var(ss-min-widht);
+  }
+}
+.card-presentation .image {
+  /*height: 200px;
+  width: 100px;
+  width: 100%;
+  height: 232px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-direction: row-reverse;*/
+  width: 400px;
+  height: 588px;
+  position: absolute;
+  left: -25px;
+  top: -14px;
+}
+@media (max-width: 1288px) and (min-width: 800px) {
+  .card-presentation .image {
+    width: var(--ss-min-width);
+    height: var(--ss-default-card-height);
+    min-width: var(--ss-min-width);
+  }
+}
+
+/*
+.spikes{
+  background-color: var(--color-background-card-presentation);
+  position: relative;
+}
+.spikes::after{
+  content:'';
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  background-color: var(--color-background-page);
+  -webkit-mask-image: url('/images/icons/triangle.svg');
+
+  @media (max-width: 1288px) and (min-width: 800px) {
+    height: 100%;
+    width: 60px;
+    -webkit-mask-image: url('/images/icons/triangle-reverse.svg');
+  }
+  @media (max-width: 800px) {
+    -webkit-mask-image: none;
+  }
+}
+
+.spikes::after{
+  bottom: 0;
+  right: 0;
+  transform: rotate(.5turn);
+
+  @media (max-width: 1288px) and (min-width: 800px) {
+    right:0;
+  }
+  @media (max-width: 800px) {
+    height: 0;
+  }
+}
+*/
 .portfolio-menu-selected {
   background-color: red;
 }
@@ -1755,7 +1850,7 @@ svg:hover .starfield__layer {
 }
 
 .image-card-porftolio {
-  height: 340px;
+  height: 400px;
   width: 300px;
   display: flex;
   padding: 36px;
@@ -1777,7 +1872,7 @@ svg:hover .starfield__layer {
 }
 
 .image-card-porftolio-illustration {
-  height: 340px;
+  height: 416px;
   width: 300px;
   display: flex;
   padding: 4px;
@@ -1806,111 +1901,6 @@ svg:hover .starfield__layer {
 }
 .card-content-porftolio h2 {
   margin-top: 4px;
-}
-
-.card-presentation {
-  width: 310px;
-  height: 588px;
-  margin-top: 12px;
-  margin-bottom: 12px;
-  margin-right: 8px;
-  margin-left: 8px;
-  position: relative;
-}
-@media (max-width: 1288px) and (min-width: 800px) {
-  .card-presentation {
-    width: 100%;
-    min-width: 780px;
-    max-height: 300px;
-  }
-}
-@media (max-width: 800px) {
-  .card-presentation {
-    width: 340px;
-    height: 340px;
-    min-width: 340px;
-  }
-}
-.card-presentation .image {
-  /*height: 200px;
-  width: 100px;
-  width: 100%;
-  height: 232px;
-  background-position: center;
-  background-size: cover;
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
-  flex-direction: row-reverse;*/
-  width: 340px;
-  height: 588px;
-  position: absolute;
-  left: -25px;
-  top: -14px;
-}
-@media (max-width: 1288px) and (min-width: 800px) {
-  .card-presentation .image {
-    width: 340px;
-    height: 300px;
-    min-width: 340px;
-  }
-}
-
-.spikes {
-  background-color: var(--color-background-card-presentation);
-  position: relative;
-}
-
-.spikes::after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 100px;
-  background-color: var(--color-background-page);
-  -webkit-mask-image: url("/images/icons/triangle.svg");
-}
-@media (max-width: 1288px) and (min-width: 800px) {
-  .spikes::after {
-    height: 100%;
-    width: 60px;
-    -webkit-mask-image: url("/images/icons/triangle-reverse.svg");
-  }
-}
-@media (max-width: 800px) {
-  .spikes::after {
-    -webkit-mask-image: none;
-  }
-}
-
-.spikes::after {
-  bottom: 0;
-  right: 0;
-  transform: rotate(0.5turn);
-}
-@media (max-width: 1288px) and (min-width: 800px) {
-  .spikes::after {
-    right: 0;
-    /*transform: rotate(0.25turn);*/
-  }
-}
-@media (max-width: 800px) {
-  .spikes::after {
-    height: 0;
-  }
-}
-
-.post-tag {
-  font-size: 14px;
-  font-family: var(--ff-title);
-  letter-spacing: 1.8px;
-  text-decoration: none;
-  --color-link:var(--color-link-post-tag);
-  font-weight: 500;
-  text-transform: uppercase;
-}
-
-.caioteste {
-  width: 60% !important;
 }
 
 .archive-item {
@@ -2213,16 +2203,10 @@ svg:hover .starfield__layer {
   font-family: var(--ff-body);
 }
 
-/*@use 'utilities/colors' as color;
-@use 'utilities/breakpoints' as breakpoint;
-@use 'utilities/fonts' as font;
-*/ /*
-@import "variables";
-*/
 .full-card-link {
   text-decoration: none;
   color: "Nunito", sans-serif;
-  min-width: 340px;
+  min-width: var(ss-min-with);
   width: 100%;
   height: 588px;
 }
@@ -2251,7 +2235,7 @@ svg:hover .starfield__layer {
 }
 .full-card .image-card {
   width: 100%;
-  min-width: 340px;
+  min-width: var(ss-min-width);
   height: 300px;
   overflow: hidden;
   background-position: center;
@@ -2383,12 +2367,12 @@ svg:hover .starfield__layer {
     font-size: 20px;
   }
 }
-.full-card .caio {
+.full-card .card-content-text {
   height: 168px;
   display: table-cell;
   vertical-align: middle;
 }
-.full-card .caio a {
+.full-card .card-content-text a {
   text-decoration: none;
 }
 .full-card .card-reading-time {
