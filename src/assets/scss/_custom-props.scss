@@ -1,0 +1,206 @@
+:root {
+  
+   // Text Colors
+   --color-text: black;
+   --color-text-alt: black;
+
+   //Link Colors
+   --color-link: #black;
+   --color-link-alt: #556A73;
+   --color-link-header-alt: black;
+   --color-link-header:black;
+   --color-link-post-tag: black;
+   --color-card-tag-text: white;
+
+
+   //Background Colors
+   --color-background-header:  white;
+   --color-background-page: white;
+   --color-background-card: white;
+   --color-background-card-tag: #8c0e48;
+   --color-background-card-presentation:#99822d;
+   //Header Colors
+
+   //Dark Theme
+   [data-theme="dark"] {
+    
+   // Text Colors
+    --color-text: white;
+    --color-text-alt: white;
+
+    //Link Colors
+    --color-link: white;
+    --color-link-alt: #556A73;
+    --color-link-header-alt: white;
+    --color-link-header:white;
+    --color-link-post-tag: white;
+    --color-card-tag-text: white;
+ 
+    //Background Colors
+    --color-background-header:  black;
+    --color-background-page: black;
+    --color-background-card: black;
+    --color-background-card-tag: #8c0e48;
+    --color-background-card-presentation:#99822d;
+  }
+
+  --ff-body: "Lora", serif;
+  --ff-title: "Yrsa", serif;
+  --ff-tag: "Wix Madefor Text", sans-serif;
+ 
+  // Line heights
+  --lh-body: 1.5;
+  --lh-title: 1;
+  --lh-heading: 1.2;
+
+  // Font Weights
+  --fw-lightest: 250;
+  --fw-light: 320;
+  --fw-body: 375;
+  --fw-medium: 550;
+  --fw-bold: 700;
+  --fw-heavy: 800;
+  /*
+  // Text Colors
+  --color-text: black;
+  --color-text-alt: Black;
+  --color-link: #99822d;
+  --color-link-alt: #80AB99;
+  
+  //Background Colors
+  --color-background-page: #ffeac6;
+
+  //Header Colors
+  --color-background-header:  #8C0E48;
+  --color-link-header-alt: #80AB99;
+  --color-link-header: #E8DBAD;
+
+  //Card Colors
+  --color-card-tag-text: #ffeac6;
+  --color-card-tag-background: #8C0E48;
+*/
+
+
+
+  
+  /*--color-text: #{$color-gray};*/
+  /*--color-text-accent: red;*/
+  /*--color-text-light: #{$color-background-pale};*/
+  /*--color-page-title: #{$color-background};*/
+  /*--color-dark: #{$color-black};*/
+  /*--color-light: #{$color-background};*/
+
+  // Background Colors
+  /*--color-background: #{$color-background};*/
+  /*--color-background-page: #ffeac6;/*#{$color-background-pale};*/
+  /*--color-background-fade: #{rgba($color-background, 0.9)};*/
+  /*--color-background-header:  #8C0E48;*/
+  /*--color-background-hero:  #8C0E48;/*var(--color-purple-dark);*/
+  /*--color-background-dark: #{$color-gray};*/
+  /*--color-background-code: #{rgba($color-gray, 0.15)};*/
+  /*--color-purple-dark: #{color.mix($color-purple, $color-gray)};*/
+
+  // Accent Colors
+  /*--color-accent-1: #{$color-orange};
+  --color-accent-2: #{$color-goldenrod};
+  --color-accent-3: #{$color-yellow};*/
+
+  // Interaction Colors
+ /* --color-link: #99822d;/*#{$color-purple};*/
+  /*--color-link-alt: #80AB99;/*#{$color-pink};*/
+  /*--color-link-header-alt: #80AB99;*/
+  /*--color-link-header: #E8DBAD;*/
+  /*--color-link-2: #b32b48;*/
+  /*--color-link-light: #E8DBAD/*#{$color-background};-*
+  --color-link-light-alt: #{$color-yellow};
+  /*--color-focus: #{$color-purple};*/
+  /*--color-highlight: #{$color-goldenrod};
+  --color-highlight-alt: #{$color-orange};
+  --color-highlight-pale: #{rgba($color-orange, 0.15)};*/
+
+  // Tilt Values
+  /*
+  --tilt: -10deg;
+  --tilt-tan: 0.176;
+*/
+  // Type Sizes
+  /*
+  --fs-ratio: 1.25;
+  --fs-body: 1rem;
+  --fs-blockquote: calc(var(--fs-body) * (((var(--fs-ratio) - 1) / 2) + 1));
+  --fs-subheading: calc(var(--fs-body) * var(--fs-ratio));
+  --fs-heading: calc(var(--fs-subheading) * var(--fs-ratio));
+  --fs-title: calc(var(--fs-heading) * var(--fs-ratio) * var(--fs-ratio) * var(--fs-ratio));
+  --fs-hero: calc(var(--fs-title) * var(--fs-ratio));
+  --fs-small: calc(var(--fs-body) / var(--fs-ratio));
+*/
+
+
+  // Font Families
+ // --ff-title: Plage /*Georgia Serif*/;
+  //--ff-body: Georgia Serif;
+  //--ff-code: monospace;
+
+
+
+  // Spacing
+//  --horizontal-spacing: #{$small-spacing};
+
+/*
+  [data-theme="dark"] {
+
+    --color-text: #{$color-background};
+    --color-text-alt: #{$color-background-pale};
+    --color-text-accent: #{$color-pink};
+
+
+    --color-background: #{$color-gray};
+    --color-background-page: #{$color-black};
+    --color-background-fade: #{rgba($color-gray, 0.9)};
+    --color-background-hero: var(--color-purple-dark);
+    --color-background-dark: #{$color-gray};
+    --color-background-code: #{rgba($color-goldenrod, 0.15)};
+    --color-purple-dark: #{color.mix($color-purple, $color-black, 35%)};
+
+
+    --color-accent-1: #{color.mix($color-orange, $color-gray, 75%)};
+    --color-accent-2: #{color.mix($color-goldenrod, $color-gray, 75%)};
+    --color-accent-3: #{color.mix($color-yellow, $color-gray, 75%)};
+
+
+    --color-link: #{rgba($color-yellow, 0.75)};
+    --color-link-2: #{$color-pink};
+    --color-link-2-alt: #{color.mix($color-purple, $color-white)};
+    --color-focus: var(--color-link-alt);
+    --blend-mode: lighten;
+  }
+*/
+  // Notch Support
+/*
+  @supports (padding: env(safe-area-inset-left)) {
+    --horizontal-spacing: calc(#{$small-spacing} + env(safe-area-inset-right));
+  }
+*/
+  // Variable Font Support
+
+  //@supports (font-variation-settings: normal) {
+    /* stylelint-disable value-keyword-case */
+  //  --ff-body: "Lora", serif;
+  //  --ff-title:  "Wix Madefor Text", sans-serif;
+    /* stylelint-enable value-keyword-case */
+  //}
+
+  // Media Queries
+/*
+  @include bp(medium) {
+    --fs-body: calc(21rem / 16);
+    --fs-ratio: 1.3;
+    --lh-body: 1.6;
+  }
+
+  @include bp(large) {
+    --fs-body: calc(24rem / 16);
+    --fs-ratio: 1.4;
+    --lh-body: 1.7;
+  }*/
+}

@@ -1,0 +1,34 @@
+.skip-link {
+  --wght: var(--fw-body);
+  --smcp: 1;
+
+  margin: $small-spacing;
+  padding: $tiny-spacing $base-spacing;
+  display: inline-block;
+  position: fixed;
+  top: -100%;
+  left: 0;
+  z-index: -1;
+  font-size: var(--fs-small);
+  text-decoration: none;
+  color: var(--color-purple-dark);
+  background-color: var(--color-page-title);
+  outline: 2px solid var(--color-accent-1);
+  outline-offset: -2px;
+  transition: outline-offset $duration;
+
+  &:focus {
+    top: 0;
+    z-index: 10;
+    color: var(--color-purple-dark);
+    box-shadow: 0 0 0 2px var(--color-background-hero);
+    outline-color: var(--color-accent-3);
+    outline-offset: 2px;
+  }
+
+  &:hover,
+  &:active {
+    color: var(--color-purple-dark);
+    outline-offset: 0;
+  }
+}

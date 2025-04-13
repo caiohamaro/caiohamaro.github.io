@@ -1,0 +1,53 @@
+---
+title: Sobre Caio Amaro
+author: Caio Amaro
+layout: page
+permalink: /about/
+menu_order: 40
+menu_title: Sobre Mim
+---
+
+{% include "partials/_hero" %}
+
+<div class="l-grid l-grid-wide">
+    <ul class="posts-archive list-content post-list">
+        <div class="card-about">
+            <a 
+                class="image" 
+                style="background-image: url('/images/about-me.jpg')" 
+                {% unless samePage %}
+                target="_blank"
+                {% endunless %}
+                href={{ url | replace: ".html", "" }}
+            ></a> 
+            <div class="card-content">
+            <div class="caio">
+                <h2>SOBRE MIM</h2>
+                <span class="content-description">
+                Caio Henrique Amaro é escritor, quadrinista e ilustrador. Também é co-fundador do podcast Leia Novos BR, onde divulga autores e obras nacionais. Desde 2017 publica seus trabalhos em coletâneas de quadrinhos e de contos, tendo lançado recentemente seu primeiro livreto "A Revelação do Príncipe deste Mundo".
+                </span>
+                <div class="about-links">
+                    <p>
+                    <a href="https://bsky.app/profile/{{ site.bluesky_username }}.bsky.social" rel="me">
+                    <span class="icon icon--github">
+                    {% include "images/icon-bluesky" %}
+                    </span>
+                    <span class="">No Bluesky eu sou o </span>
+                    <span class="">{{ site.bluseky_username }}</span>
+                    </a>
+                    <p>
+                    <a href="mailto:someone@example.com" rel="me">
+                    <span class="icon icon--github">
+                    {% include "images/icon-email" %}
+                    </span>
+                    <span class="">Me mande um e-mail via: </span>
+                    <span class="">{{ site.email }}</span>
+                    </a>
+                </div.
+            </div>
+            </div>
+        </div>
+    </ul>
+</div>
+
+  

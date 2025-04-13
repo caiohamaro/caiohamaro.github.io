@@ -1,0 +1,198 @@
+/*@use 'utilities/colors' as color;
+@use 'utilities/breakpoints' as breakpoint;
+@use 'utilities/fonts' as font;
+*//*
+@import "variables";
+*/
+$image-height: 180px;
+$score-height: calc($image-height * 0.4);
+$content-height: 560px;
+$content-padding: 20px;
+
+.full-card-link {
+  text-decoration: none;
+  color: $text;
+  min-width: 400px;
+  width: 100%;
+  height: 588px;
+  @media (max-width: 1288px) and (min-width: 800px) {
+    width: 100%;
+    min-width: 780px;
+    max-height: 300px;
+  }
+}
+
+.full-card {
+  width: 100%;
+  height: 100%;
+
+  @media (max-width: 1288px) and (min-width: 800px) {
+    display: flex;
+    height: 100%;
+  }
+
+  @media (min-width: 800px) {
+    filter: drop-shadow;
+  }
+ .image-card{
+  width: 100%;
+  min-width: 400px;
+  height: 300px;
+  overflow: hidden;
+
+  background-position: center;
+  background-size: cover;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-direction: row-reverse;
+
+  @media (max-width: 1288px) and (min-width: 800px) {
+    width: 400px;
+  }
+ }
+  .image:hover{
+    transform: scale(1.3);
+  }
+  .image{
+    transition: 1s ease;
+  }
+
+  .image {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .card-content {
+    background-color: var(--color-background-card);
+    font-size: .75em;
+    height: 288px;
+    width:100%;
+    overflow: hidden;
+
+    @media (max-width: lg) {
+      border: 1px solid $blue-dark;
+      border-top: none;
+      padding-top: 0px;
+    }
+    @media (max-width: 1288px) and (min-width: 800px) {
+      width: calc(100% - 420px);
+      padding-left: 20px;
+      height: 300px;
+    }
+
+    .card-tags {
+      height: 28px;
+      width: 100%;
+      overflow: hidden;
+      margin-top: 16px;
+
+      @media (max-width: 1288px) and (min-width: 800px) {
+        width: 100%;
+        margin-top: 0;
+        height: 28px;
+      }
+
+      span {
+        background-color: var(--color-background-card-tag);
+        font-weight: 600;
+        color: var(--color-card-tag-text);
+        height: 28px;
+        display: inline-block;
+
+        @media (max-width: 1288px) and (min-width: 800px) {
+          margin-top: 0;
+        }
+
+        &:not(:last-child) {
+          margin-right: 6px;
+        }
+      
+        padding: 4px 8px;
+        font-size: 12px;
+        cursor: pointer;
+
+        font-family: var(--ff-tag);
+        letter-spacing: 1.8px;
+        text-decoration: none;
+        --color-link: var(--color-link-2);
+        font-weight: 500;
+        text-transform: uppercase;
+      }
+    }
+
+    h2, p {
+      margin: 0;
+      font-weight: 600;
+      font-size: 24px;
+      
+
+      @media (max-width: 1288px) and (min-width: 800px) {
+        font-size: 28px;
+      }
+    }
+
+    h2 {
+      margin-top: 16px;
+      margin-bottom: 8px;
+      overflow: hidden;
+      max-height: 116px;
+      display: table-cell;
+      vertical-align: middle;
+      font-family: var(--ff-title);
+      font-size: 36px;
+      font-weight: 500;
+      
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 3;
+      -webkit-box-pack: center;
+      overflow: hidden;
+      
+      @media (max-width: 1288px) and (min-width: 800px) {
+        max-height: 136px;
+      }
+      
+
+    }
+    .content-description{
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 3;
+      -webkit-box-pack: center;
+      overflow: hidden;
+      font-family: var(--ff-body);
+      font-size: 16px;
+      /*max-height: 128px*/
+      margin-top: 16px;
+
+      @media (max-width: 1288px) and (min-width: 800px) {
+        font-size: 20px;
+      }
+    }
+  }
+  .caio{
+    height: 168px;
+    display: table-cell;
+    vertical-align: middle;
+
+    a {
+      text-decoration: none;
+    }
+
+
+  }
+  .card-reading-time{
+    font-size: 12px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    -webkit-box-pack: center;
+    overflow: hidden;
+    font-family: var(--ff-title);
+    color: var(--color-link-alt);
+  }
+}

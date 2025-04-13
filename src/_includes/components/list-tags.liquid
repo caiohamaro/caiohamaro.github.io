@@ -1,0 +1,46 @@
+
+
+<div class="l-grid l-grid-wide">
+    <ul class="posts-archive list-content post-list">
+    {% for post in collection %}
+          <div class="card-wrapper {{ post.data.tags | join: " " }}">
+        
+                      <div class="full-card-link">
+                      <div class="full-card">
+                          <a
+                            class="image" 
+                            style="background-image: url('/images/stanley-sm-300x225.jpg')" 
+                            href={{ url | replace: ".html", "" }}
+                          > 
+                        </a>
+
+                        <div class="card-content">
+                          <div class="card-tags">
+                            {% for tag in tags %}
+                              <span onclick="window.location='/tags/{{ tag }}'" >{{ tag }}</span>
+                            {% endfor %}
+                          </div>
+                          <div class="caio">
+                            <a
+                              {% unless samePage %}
+                                target="_blank"
+                              {% endunless %}
+                              href={{ url | replace: ".html", "" }}
+                            >
+                              <h2>{{ title }}</h2>
+                              <span class="card-reading-time">
+                                {% if timeread %} 
+                                  {{ timeread }} min de leitura
+                                {% endif %}
+                              </span>
+                              <span class="content-description">{{ text }}</span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+          </div>
+      {% endfor %}
+ </ul>
+</div>
+

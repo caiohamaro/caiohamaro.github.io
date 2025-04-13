@@ -1,0 +1,25 @@
+/* stylelint-disable media-query-no-invalid */
+// Breakpoint MQ function
+
+@mixin bp($name) {
+  @if $name == "default" {
+    @content;
+  }
+
+  @else if list.index(map.keys($breakpoints), $name) {
+    @media (min-width: map.get($breakpoints, $name)) {
+      @content;
+    }
+  }
+
+  @else if meta.type-of($name) == number {
+    @media (min-width: #{$name}) {
+      @content;
+    }
+  }
+
+  @else {
+    @warn "Invalid breakpoint `#{$name}`.";
+  }
+}
+/* stylelint-enable media-query-no-invalid */

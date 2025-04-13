@@ -1,0 +1,13 @@
+<div class="full-card-portfolio" style="background-color: {{ backgroundcolor }}">
+   <div class="image-card-porftolio-illustration">
+       <a
+         class="image" 
+         style="background-image: url({{ image }})"
+         {% unless samePage %}
+           target="_blank"
+         {% endunless %}
+         href={{ url | replace: ".html", "" }}
+       > 
+     </a>
+   </div>
+</div>

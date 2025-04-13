@@ -1,0 +1,51 @@
+<div
+  class="full-card-link">
+  
+  <div class="full-card">
+    <div class="image-card">
+      {% if image %} 
+        <a 
+          class="image" 
+          style="background-image: url({{ image }})" 
+          {% unless samePage %}
+            target="_blank"
+          {% endunless %}
+          href={{ url | replace: ".html", "" }}
+        >
+      {% else %}
+        <a
+          class="image" 
+          style="background-image: url('/images/stanley-sm-300x225.jpg')" 
+          {% unless samePage %}
+            target="_blank"
+          {% endunless %}
+          href={{ url | replace: ".html", "" }}
+        > 
+      {% endif %}
+      </a>
+    </div>
+    <div class="card-content">
+      <div class="card-tags">
+        {% for tag in tags %}
+          <span onclick="window.location='/tags/{{ tag }}'" >{{ tag }}</span>
+        {% endfor %}
+      </div>
+      <div class="caio">
+        <a
+          {% unless samePage %}
+            target="_blank"
+          {% endunless %}
+          href={{ url | replace: ".html", "" }}
+        >
+          <h2>{{ title }}</h2>
+          <span class="card-reading-time">
+            {% if timeread %} 
+              {{ timeread }} min de leitura
+            {% endif %}
+          </span>
+          <span class="content-description">{{ text }}</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

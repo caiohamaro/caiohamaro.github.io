@@ -1,0 +1,63 @@
+@use "sass:color";
+@use "sass:list";
+@use "sass:math";
+@use "sass:map";
+@use "sass:meta";
+
+// Start CSS
+
+@charset "utf-8";
+
+// Functions
+
+@import "functions/text-shadow";
+
+// Mixins
+
+@import "mixins/bp";
+@import "mixins/fonts";
+@import "mixins/ha";
+
+// Reset CSS
+
+@import "reset";
+
+// Variables
+
+@import "variables";
+@import "custom-props";
+
+// Global Styles
+
+@import "globals/fonts";
+@import "globals/typography";
+@import "globals/code";
+@import "globals/links";
+@import "globals/buttons";
+@import "globals/media";
+@import "globals/forms";
+// Layout Styles
+
+@import "layout";
+
+// Component Styles
+
+@import "components/starfield";
+@import "components/pagination";
+@import "components/site-header";
+@import "components/site-portfolio-header";
+@import "components/site-footer";
+@import "components/header-nav";
+@import "components/hero";
+@import "components/archive-item";
+@import "components/skip-link";
+@import "components/toc";
+@import "components/drop-cap";/*caio remover coisas relacionadas a isso no final*/
+@import "components/theme-toggle";
+@import "components/anchor-link";
+@import "components/newsletter";
+@import "components/full-card";
+
+// Support Queries
+
+@import "supports";

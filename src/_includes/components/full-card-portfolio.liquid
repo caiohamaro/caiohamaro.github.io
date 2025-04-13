@@ -1,0 +1,24 @@
+<div class="full-card-portfolio" style="background-color: {{ backgroundcolor }}">
+   <div class="image-card-porftolio">
+       <a
+         class="image" 
+         style="background-image: url({{ image }})"
+         {% unless samePage %}
+           target="_blank"
+         {% endunless %}
+         href={{ url | replace: ".html", "" }}
+       > 
+     </a>
+   </div>
+   <div class="card-content-porftolio">
+      <span style="color: {{ textcolor }}">Livro - {{year}}</span>
+      <h2 style="color: {{ titlecolor }}">{{ title }}</h2>
+      <span style="color: {{ textcolor }}">{{subtitle}}</span>
+      {% render "components/quote-portfolio" 
+                quote: quote
+                markcolor: titlecolor
+                quotecolor: quotecolor
+      %}
+      <span class="content-description-porftolio" style="color: {{ textcolor }}">{{ text }}</span>
+   </div>
+</div>

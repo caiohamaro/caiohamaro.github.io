@@ -1,0 +1,56 @@
+// @TODO - maybe better place for this?
+.l-main {
+  padding-bottom: calc(200vw * var(--tilt-tan));
+  max-width: 100vw;
+  overflow-x: hidden;
+  background-color: var(--color-background-page);
+}
+
+.l-grid {
+  display: grid;
+  column-gap: var(--horizontal-spacing);
+  position: relative;
+
+  > * {
+    grid-column: 2 / -2;
+  }
+}
+
+.l-grid-normal {
+  grid-template-columns: 1fr minmax(0, var(--max-width, #{$max-width})) 1fr;
+}
+
+.l-grid-wide{
+  grid-template-columns: 1fr minmax(0, var(--max-width, #{$max-width--wide})) 1fr;
+}
+
+
+.l-grid--content {
+  > iframe {
+    margin:auto
+  }
+  > h2 {
+    display: grid;
+    grid-template-columns: var(--horizontal-spacing) 1fr auto;
+    align-items: center;
+    grid-column: 1 / -1;
+    column-gap: inherit;
+    font-family: Georgia Serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    &::before {
+      content: "";
+      height: 3 * $base-spacing;
+      grid-column: 1 / span 1;
+      background-color: #80AB99;
+      /*background-image:url("/images/stanley-sm.jpg");*/
+      /*transform: skew(0, var(--tilt));*/
+      transform-origin: right center;
+    }
+
+    @include bp(medium) {
+      grid-template-columns: inherit;
+    }
+  }
+}
