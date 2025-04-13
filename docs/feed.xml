@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Caio Amaro</title>
+  <subtitle>Front-end architect. Speaker &amp; writer. React &amp; Vue, Sass &amp; CSS, performance &amp; accessibility.</subtitle>
+  <link href="https://jdsteinbach.com/feed.xml" rel="self"/>
+  <link href="https://jdsteinbach.com"/>
+  <updated>2025-04-13T01:36:01.952-03:00</updated>
+  <id>https://jdsteinbach.com</id>
+  <author>
+    <name>Caio Amaro</name>
+    <email>caio.h.amaro@gmail.com</email>
+  </author>
+  <entry>
+    <title>Wolverine vs Ninjas</title>
+    <link href="https://jdsteinbach.com/posts/ilustracao-wolverine-ninjas/"/>
+    <updated>2025-04-13T01:36:01.952-03:00</updated>
+    <id>https://jdsteinbach.com/posts/ilustracao-wolverine-ninjas/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>The Last Jedi</title>
+    <link href="https://jdsteinbach.com/posts/ilustracao-the-last-jedi/"/>
+    <updated>2025-04-13T01:36:01.951-03:00</updated>
+    <id>https://jdsteinbach.com/posts/ilustracao-the-last-jedi/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Rocket Raccon</title>
+    <link href="https://jdsteinbach.com/posts/ilustracao-rocket-raccon/"/>
+    <updated>2025-04-13T01:36:01.949-03:00</updated>
+    <id>https://jdsteinbach.com/posts/ilustracao-rocket-raccon/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Ornitorrincthulhu</title>
+    <link href="https://jdsteinbach.com/posts/ilustracao-ornitorrincthulhu/"/>
+    <updated>2025-04-13T01:36:01.947-03:00</updated>
+    <id>https://jdsteinbach.com/posts/ilustracao-ornitorrincthulhu/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Mago</title>
+    <link href="https://jdsteinbach.com/posts/ilustracao-mago/"/>
+    <updated>2025-04-13T01:36:01.945-03:00</updated>
+    <id>https://jdsteinbach.com/posts/ilustracao-mago/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Magneto</title>
+    <link href="https://jdsteinbach.com/posts/ilustracao-magneto/"/>
+    <updated>2025-04-13T01:36:01.942-03:00</updated>
+    <id>https://jdsteinbach.com/posts/ilustracao-magneto/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>A Revelação do Príncipe deste Mundo - A Escuridão na Redenção</title>
+    <link href="https://jdsteinbach.com/posts/ilustracao-livro-revelacao-4/"/>
+    <updated>2025-04-13T01:36:01.940-03:00</updated>
+    <id>https://jdsteinbach.com/posts/ilustracao-livro-revelacao-4/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>A Revelação do Príncipe deste Mundo - Anjos caem na Terra</title>
+    <link href="https://jdsteinbach.com/posts/ilustracao-livro-revelacao-3/"/>
+    <updated>2025-04-13T01:36:01.938-03:00</updated>
+    <id>https://jdsteinbach.com/posts/ilustracao-livro-revelacao-3/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>A Revelação do Príncipe deste Mundo - Lúcifer ascende aos Céus</title>
+    <link href="https://jdsteinbach.com/posts/ilustracao-livro-revelacao-2/"/>
+    <updated>2025-04-13T01:36:01.936-03:00</updated>
+    <id>https://jdsteinbach.com/posts/ilustracao-livro-revelacao-2/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>A Revelação do Príncipe deste Mundo - Audiência com o Diabo</title>
+    <link href="https://jdsteinbach.com/posts/ilustracao-livro-revelacao-1/"/>
+    <updated>2025-04-13T01:36:01.934-03:00</updated>
+    <id>https://jdsteinbach.com/posts/ilustracao-livro-revelacao-1/</id>
+    <content type="html"></content>
+  </entry>
+</feed>
