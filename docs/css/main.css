@@ -2251,7 +2251,7 @@ svg:hover .starfield__layer {
 }
 .full-card .image-card {
   width: 100%;
-  min-width: 400px;
+  min-width: 380px;
   height: 300px;
   overflow: hidden;
   background-position: center;

@@ -55,7 +55,7 @@
 
     </button>
     <div id="header-menu" class="header-menu" aria-hidden="true">
-      <nav class="header-nav" name="Primary"><a class="header-nav__link" href="/about/">Sobre Mim</a><a class="header-nav__link" href="/portfolio-livros/">Portfolio</a><a class="header-nav__link" href="/Posts/">Textos</a></nav>
+      <nav class="header-nav" name="Primary"><a class="header-nav__link" href="/about/">Sobre Mim</a><a class="header-nav__link" href="/portfolio-livros/">Portfolio</a><a class="header-nav__link" href="/posts/">Textos</a></nav>
 
       <div class="header-nav__toggle">
         <form name="Theme Picker">
@@ -1211,7 +1211,7 @@
           class="image" 
           style="background-image: url('/images/stanley-sm-300x225.jpg')" 
           
-          href=Posts/{{ pagination.pageNumber | paginate_better }}
+          href=posts/{{ pagination.pageNumber | paginate_better }}
         > 
       
       </a>
@@ -1224,7 +1224,7 @@
       <div class="caio">
         <a
           
-          href=Posts/{{ pagination.pageNumber | paginate_better }}
+          href=posts/{{ pagination.pageNumber | paginate_better }}
         >
           <h2>Posts</h2>
           <span class="card-reading-time">
