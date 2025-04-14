@@ -149,6 +149,7 @@ table {
   --color-background-card: white;
   --color-background-card-tag: #8c0e48;
   --color-background-card-presentation:#99822d;
+  --color-line: #8c0e48;
   --ff-body: "Lora", serif;
   --ff-title: "Yrsa", serif;
   --ff-tag: "Wix Madefor Text", sans-serif;
@@ -1054,12 +1055,13 @@ svg:hover .starfield__layer {
   }
 }
 .pagination {
-  margin-top: 1.6rem;
   padding: 1.6rem 0;
   display: grid;
   grid-template: "left center right" auto/1fr 1fr 1fr;
   font-size: var(--fs-small);
-  border-top: 1px solid #F75123;
+  font-family: var(--ff-body);
+  border-top: var(--color-line);
+  border-style: solid;
 }
 .pagination .previous {
   --dir: -1;
@@ -1170,6 +1172,9 @@ svg:hover .starfield__layer {
   line-height: var(--lh-title);
   text-decoration: none;
   font-family: var(--ff-title);
+  font-size: 28px;
+  margin-top: 4px;
+  margin-left: 4px;
 }
 
 .site-header__menu-toggle {
@@ -1338,7 +1343,7 @@ svg:hover .starfield__layer {
 }
 
 .site-footer__copyright {
-  margin-top: 3.2rem;
+  margin-top: 0.8rem;
   font-size: var(--fs-small);
   text-align: center;
   font-style: italic;
@@ -1423,6 +1428,7 @@ svg:hover .starfield__layer {
   text-transform: lowercase;
   text-decoration: none;
   font-family: var(--ff-title);
+  font-size: 20px;
 }
 .header-nav__link[href*=hire] {
   --wght: var(--fw-bold);
@@ -1655,7 +1661,6 @@ svg:hover .starfield__layer {
 
 .post-list {
   width: 100%;
-  padding-bottom: 50px;
   margin-top: 68px;
   display: flex;
   align-items: center;
@@ -1803,7 +1808,11 @@ svg:hover .starfield__layer {
 }
 */
 .portfolio-menu-selected {
-  background-color: red;
+  color: var(--color-text-alt);
+}
+.portfolio-menu-selected::before {
+  transform: skew(0, var(--tilt)) scaleY(1);
+  opacity: 0.5;
 }
 
 .post-list-portfolio-illustration {
@@ -1818,7 +1827,6 @@ svg:hover .starfield__layer {
 
 .post-list-portfolio {
   width: 100%;
-  padding-bottom: 50px;
   margin-top: 127px;
   /*background-color: red;*/
   grid-column: 1/-1;

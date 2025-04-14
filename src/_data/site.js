@@ -4,7 +4,7 @@ module.exports = {
   description: 'Front-end architect. <br />Speaker & writer. <br />React & Vue, Sass & CSS, performance & accessibility.',
   baseurl: '',
   url: 'https://caiohamaro.github.io',
-  bluesky_username: 'caiohamaro',
+  blueskyusername: 'caiohamaro',
   author_name: 'Caio Amaro',
   about_pic: '/images/about-me.jpg',
   site_pic: '/images/site-picture.jpg',

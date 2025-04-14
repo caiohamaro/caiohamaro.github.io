@@ -1,12 +1,13 @@
 .pagination {
-  margin-top: $base-spacing;
   padding: $base-spacing 0;
   display: grid;
   grid-template:
     "left center right" auto /
     1fr 1fr 1fr;
   font-size: var(--fs-small);
-  border-top: $border-default;
+  font-family: var(--ff-body);
+  border-top: var(--color-line);
+  border-style: solid;
 
   .previous {
     --dir: -1;
