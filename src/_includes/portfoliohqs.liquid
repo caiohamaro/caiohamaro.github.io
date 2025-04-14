@@ -1,0 +1,40 @@
+---
+layout: _base
+---
+
+{% render "partials/_site-portfolio-header" active-hqs: true %}
+
+{%- assign title = title | append: " Archive" -%}
+{% include "partials/_hero" %}
+
+<div class="l-grid l-grid-wide">
+  {% if pagination.items %}
+    <ul class="posts-archive list-content post-list-portfolio">
+      {% for post in pagination.items | reverse  %}
+        <div class="card-wrapper-portfolio {{ post.data.tags | join: " " }}">
+          {% render "components/full-card-portfolio.liquid" 
+                  , samePage: true
+                  , image: post.data.cover
+                  , title: post.data.title
+                  , subtitle: post.data.subtitle
+                  , year: post.data.year
+                  , url: post.data.permalink
+                  , text: post.data.description
+                  , timeread: post.data.timeread
+                  , tags: post.data.tags 
+                  , backgroundcolor: post.data.backgroundcolor
+                  , titlecolor: post.data.titlecolor
+                  , textcolor: post.data.textcolor
+                  , quotecolor: post.data.quotecolor
+                  , quote: post.data.quote %}
+        </div>
+      {%- endfor %}
+    </ul>
+  {% else %}
+    {{ content }}
+  {% endif %}
+  {% include "partials/_pagination" %}
+</div>
+
+
+

@@ -42,11 +42,13 @@
 
 .site-header__title {
   --wght: var(--fw-medium);
-
   display: inline-block;
   line-height: var(--lh-title);
   text-decoration: none;
   font-family: var(--ff-title);
+  font-size: 28px;
+  margin-top: 4px;
+  margin-left: 4px;
 }
 
 .site-header__menu-toggle {

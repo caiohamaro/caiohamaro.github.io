@@ -4,80 +4,197 @@
   <subtitle>Front-end architect. Speaker &amp; writer. React &amp; Vue, Sass &amp; CSS, performance &amp; accessibility.</subtitle>
   <link href="https://caiohamaro.github.io/feed.xml" rel="self"/>
   <link href="https://caiohamaro.github.io"/>
-  <updated>2025-04-13T01:36:01.952-03:00</updated>
+  <updated>2025-04-12T21:00:00-03:00</updated>
   <id>https://caiohamaro.github.io</id>
   <author>
     <name>Caio Amaro</name>
     <email>caio.h.amaro@gmail.com</email>
   </author>
   <entry>
-    <title>Wolverine vs Ninjas</title>
-    <link href="https://caiohamaro.github.io/posts/ilustracao-wolverine-ninjas/"/>
-    <updated>2025-04-13T01:36:01.952-03:00</updated>
-    <id>https://caiohamaro.github.io/posts/ilustracao-wolverine-ninjas/</id>
+    <title>Batman e Coringa</title>
+    <link href="https://caiohamaro.github.io/posts/2025-04-13-ilustracao-demolidor-renascido/"/>
+    <updated>2025-04-12T21:00:00-03:00</updated>
+    <id>https://caiohamaro.github.io/posts/2025-04-13-ilustracao-demolidor-renascido/</id>
     <content type="html"></content>
   </entry>
   <entry>
-    <title>The Last Jedi</title>
-    <link href="https://caiohamaro.github.io/posts/ilustracao-the-last-jedi/"/>
-    <updated>2025-04-13T01:36:01.951-03:00</updated>
-    <id>https://caiohamaro.github.io/posts/ilustracao-the-last-jedi/</id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Rocket Raccon</title>
-    <link href="https://caiohamaro.github.io/posts/ilustracao-rocket-raccon/"/>
-    <updated>2025-04-13T01:36:01.949-03:00</updated>
-    <id>https://caiohamaro.github.io/posts/ilustracao-rocket-raccon/</id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Ornitorrincthulhu</title>
-    <link href="https://caiohamaro.github.io/posts/ilustracao-ornitorrincthulhu/"/>
-    <updated>2025-04-13T01:36:01.947-03:00</updated>
-    <id>https://caiohamaro.github.io/posts/ilustracao-ornitorrincthulhu/</id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Mago</title>
-    <link href="https://caiohamaro.github.io/posts/ilustracao-mago/"/>
-    <updated>2025-04-13T01:36:01.945-03:00</updated>
-    <id>https://caiohamaro.github.io/posts/ilustracao-mago/</id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Magneto</title>
-    <link href="https://caiohamaro.github.io/posts/ilustracao-magneto/"/>
-    <updated>2025-04-13T01:36:01.942-03:00</updated>
-    <id>https://caiohamaro.github.io/posts/ilustracao-magneto/</id>
-    <content type="html"></content>
+    <title>Narrativa e Trilha Sonora em The Last of Us</title>
+    <link href="https://caiohamaro.github.io/sass/rwd-sass-media-queries1/"/>
+    <updated>2025-04-07T21:00:00-03:00</updated>
+    <id>https://caiohamaro.github.io/sass/rwd-sass-media-queries1/</id>
+    <content type="html"><p><strong>Spoiler abaixo</strong></p>
+<p>Um dos principais motivos para The <strong>Last of Us</strong> de 2a013 ser um jogo tão bem avaliado e popular é certamente a forma com que sua história é contada. Para além de um jogo com uma temática genérica de apocalipse zumbi, ele tenta se diferenciar trazendo uma linguagem mais próxima do cinema com inspirações em <strong>A Estrada</strong> (The Road, 2009), <strong>Onde os Fracos Não Têm Vez</strong> (No Country for Old Men, 2007) e <strong>Extermínio</strong> (28 days later, 2003), de um projeto que começou com a ideia de um jogo que combinasse a jogabilidade <strong>ICO</strong> (2001), o clima do quadrinho <strong>Sin City</strong> (1991) e a ambientação de <strong>A Noite dos Mortos Vivos</strong> (Night of the Living Dead, 1968).</p>
+<div class="img-inside">
+  <img src='/images/lastofus-0.png' alt="Apresentação do diretor Neil Druckmann no International Game Developers Association de Toronto em 2013 em que ele está em um auditório apresentando uma tela com suas três principais influências para a concepção de The Last Of Us, sendo elas o jogo de Playstation 2 ICO, a história em quadrinhos Sin City e o filme A Noite dos Mortos Vivos.">
+  <p>Descrição da Imagem: Apresentação do diretor Neil Druckmann no International Game Developers Association de Toronto em 2013 em que ele está em um auditório apresentando uma tela com suas três principais influências para a concepção de The Last Of Us, sendo elas o jogo de Playstation 2 ICO, a história em quadrinhos Sin City e o filme A Noite dos Mortos Vivos.</p>
+</div>
+<h2 id="sobre-contar-hist%C3%B3rias" tabindex="-1">Sobre Contar Histórias <a class="anchor-link" href="#sobre-contar-hist%C3%B3rias">#</a></h2>
+<p>Há várias formas de uma boa história ser contada, uma delas é focando em dilemas dos protagonistas, dilemas esses que são impostos aos protagonistas diversas vezes durante a história para que a sua reação demonstre a sua evolução para aquele que está lendo, assistindo ou jogando.</p>
+<p>O medo de altura de Neo em <strong>Matrix</strong> (The Matrix, 1999) é um exemplo, pois primeiro é apresentado Neo falhando em seguir as instruções de Morpheus por ter medo de altura na beirada de um prédio e posteriormente falhando em pular entre prédios, mesmo com um outro contexto, já sabendo a realidade da Matrix e sabendo que tal pulo é possível, para então a cena final do filme mostrar não só um Neo que não tem medo de pular, mas que consegue voar.</p>
+<p>Outro filme que demonstra a superação de uma provação é <strong>Homem-aranha</strong> (Spider-man, 2002). Nele, uma das principais provações de Peter Parker é ter coragem de se declarar para a mulher que ama, ao longo da jornada ele consegue coragem o suficiente para se declarar para ela sem a máscara do homem-aranha para esconder sua timidez, porém quando este momento chega nos minutos finais do filme, Peter entende que precisa negar seu sonho de uma vida ao lado da pessoa que ama para que possa continuar sendo o homem-aranha. Assim a lição altruísta ensinada pelo seu tio serve como aquilo que vai fazer da sua vida um eterno sacrifício, tornando-o um herói que poe a preocupação pela segurança dos outros acima de suas vontades pessoais.</p>
+<p>Voltando a <strong>The Last of Us</strong>, a história foi organizada mostrando as provações do protagonista Joel, porém o mesmo não é altruísta e muito menos um herói, então porque essa história pode ser interessante de acompanhar? A resposta está no fato de existirem temas universais que servem como ótimas motivações para humanizar personagens, a exemplo da eterna busca pelo saber/conhecimento; a paixão pela pessoa amada; ou, no caso em questão, a paternidade/maternidade com amor irracional/incondicional. Não é a toa que diversas jurisdições pelo mundo que atenuam punições para pais e mães que cometem crimes em razão dos filhos.</p>
+<div class="img-inside">
+  <img src='/images/lastofus-1.png' alt="Joel abraçando sua filha Sarah após ela morrer no prólogo do jogo.">
+  <p>Descrição da Imagem: Joel abraçando sua filha Sarah após ela morrer no prólogo do jogo.</p>
+</div>
+<p>Desta forma o trauma de Joel é o que traz empatia ao personagem e é o momento principal da história e também a sua provação inicial, parcial e final, que se repetirá várias vezes durante a jogabilidade e será a razão dos conflitos mais profundos da narrativa.</p>
+<h2 id="prova%C3%A7%C3%B5es-e-o-fim-da-linha" tabindex="-1">Provações e o Fim da Linha <a class="anchor-link" href="#prova%C3%A7%C3%B5es-e-o-fim-da-linha">#</a></h2>
+<p>É preciso, logo, ressaltar alguns pontos chaves dessa história, algo que <strong>Neil Druckmann</strong> diretor do jogo fez em uma  <a href="https://www.youtube.com/watch?v=Le6qIz7MjSk">palestra em 2013</a> no <strong>International Game Developers Association</strong> em Toronto. Nela, Neil conta que o projeto mudou muito desde 2004 quando teve a primeira ideia e teve vários aprendizados que moldaram o que <strong>The Last of Us</strong> se tornou, como as diversas rejeições que recebeu de estúdios, o feedback feminino da equipe da <strong>Naughty Dog</strong> e o nascimento de sua filha.</p>
+<p>Outro ponto de virada foi a leitura de <strong>Story — Substância, Estrutura, Estilo e os princípios da Escrita de Roteiro</strong> de <strong>Robert Mckee</strong>, especificamente um trecho em específico lhe fez entender o que faltava para o protótipo evoluir para uma história com uma verdade que a tornasse uma história boa:</p>
+<div class="quote">
+  <p class="quote-quotation-mark">
+  <label>
+     <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" zoomAndPan="magnify" viewBox="0 0 30 30.000001" height="40" preserveAspectRatio="xMidYMid meet" version="1.0"><defs><clipPath id="0dd1d9640a"><path d="M 15 2.015625 L 29.515625 2.015625 L 29.515625 26.691406 L 15 26.691406 Z M 15 2.015625 " clip-rule="nonzero"/></clipPath><clipPath id="2cc73f8b31"><path d="M 0.484375 2.015625 L 15 2.015625 L 15 26.691406 L 0.484375 26.691406 Z M 0.484375 2.015625 " clip-rule="nonzero"/></clipPath></defs><g clip-path="url(#0dd1d9640a)"><path fill="currentColor" d="M 15.933594 2.371094 C 16.046875 2.21875 16.1875 2.113281 16.367188 2.054688 C 16.472656 2.03125 16.578125 2.019531 16.6875 2.023438 C 20.640625 2.03125 24.589844 2.011719 28.542969 2.019531 C 28.644531 2.019531 28.734375 2.019531 28.820312 2.027344 C 29.019531 2.070312 29.1875 2.175781 29.316406 2.335938 C 29.445312 2.492188 29.507812 2.675781 29.507812 2.878906 L 29.507812 14.222656 C 29.507812 14.464844 29.421875 14.671875 29.25 14.84375 C 29.074219 15.015625 28.867188 15.101562 28.621094 15.101562 L 23.648438 15.101562 C 23.6875 15.734375 23.835938 16.34375 24.089844 16.925781 C 24.304688 17.417969 24.652344 18.097656 25.332031 18.679688 C 26.125 19.359375 27.148438 19.71875 28.332031 19.816406 C 29.003906 19.871094 29.289062 20.089844 29.28125 20.761719 C 29.269531 22.339844 29.308594 23.921875 29.3125 25.5 C 29.316406 26.457031 29.085938 26.691406 28.140625 26.539062 C 25.265625 26.082031 25.433594 26.132812 24.742188 25.839844 C 22.601562 24.933594 16.234375 20.777344 15.78125 14.375 C 15.773438 14.324219 15.769531 14.273438 15.769531 14.226562 L 15.769531 2.878906 C 15.769531 2.691406 15.824219 2.523438 15.933594 2.371094 Z M 15.933594 2.371094 " fill-opacity="1" fill-rule="nonzero"/></g><g clip-path="url(#2cc73f8b31)"><path fill="currentColor" d="M 0.65625 2.371094 C 0.765625 2.21875 0.910156 2.113281 1.089844 2.054688 C 1.195312 2.03125 1.300781 2.019531 1.410156 2.023438 C 5.359375 2.03125 9.3125 2.011719 13.261719 2.019531 C 13.367188 2.019531 13.457031 2.019531 13.539062 2.027344 C 13.742188 2.070312 13.90625 2.175781 14.035156 2.335938 C 14.164062 2.492188 14.230469 2.675781 14.230469 2.878906 L 14.230469 14.222656 C 14.230469 14.464844 14.144531 14.671875 13.96875 14.84375 C 13.796875 15.015625 13.585938 15.101562 13.34375 15.101562 L 8.371094 15.101562 C 8.410156 15.734375 8.558594 16.34375 8.8125 16.925781 C 9.027344 17.417969 9.375 18.097656 10.050781 18.679688 C 10.847656 19.359375 11.871094 19.71875 13.054688 19.816406 C 13.726562 19.871094 14.011719 20.089844 14.003906 20.761719 C 13.992188 22.339844 14.03125 23.921875 14.035156 25.5 C 14.035156 26.457031 13.808594 26.691406 12.863281 26.539062 C 9.988281 26.082031 10.15625 26.132812 9.460938 25.839844 C 7.320312 24.933594 0.953125 20.777344 0.503906 14.375 C 0.496094 14.324219 0.492188 14.273438 0.492188 14.226562 L 0.492188 2.878906 C 0.492188 2.691406 0.546875 2.523438 0.65625 2.371094 Z M 0.65625 2.371094 " fill-opacity="1" fill-rule="nonzero"/></g></svg>
+  </label>
+  </p>
+  <p class="quote-text">
+    O Protagonista tem a força de vontade e a capacidade de buscar o objeto de seu desejo consciente e/ou inconsciente até o fim da linha, no limite humano estabelecido pelo ambiente e pelo gênero
+  </p>
+  <p class="quote-author">
+    (MCKEE, 2006, p. 139)
+  </p>
+<p>E para que esse limite humano seja alcançado no fim do jogo com o fechamento dos arcos de Ellie e Joel na última conversa, ela é construído com as diversas provações que, principalmente Joel, precisa enfrentar nessa história sobre laços entre pai e filha. E justamente por isso que essas provações precisam ser tão bem construídas não existe melhor forma de conectá-las e demonstrar sua progressão do que usando o recurso que por muitas vezes passa batido em videogames: a trilha sonora.</p>
+<h2 id="criando-uma-identidade-sonora" tabindex="-1">Criando uma Identidade Sonora <a class="anchor-link" href="#criando-uma-identidade-sonora">#</a></h2>
+<div class="img-inside">
+  <img src='/images/lastofus-2.png' alt="Gustavo Santaolalla, compositor de The Last of Us, tocando um violão.">
+  <p>Descrição da Imagem: Gustavo Santaolalla, compositor de The Last of Us, tocando um violão.</p>
+</div>
+<p>Durante a produção inicial do jogo, na busca por uma identidade musical minimalista, havia um nome que predominava na lista de referências musicais dos diretores: <strong>Gustavo Santaolalla</strong>, compositor de cinema premiado e reconhecido pelos filmes <strong>O Segredo de Brokeback Mountain</strong> (Brokeback Mountain, 2005) e <strong>Babel</strong> (2006).</p>
+<div class="quote">
+  <p class="quote-quotation-mark">
+  <label>
+     <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" zoomAndPan="magnify" viewBox="0 0 30 30.000001" height="40" preserveAspectRatio="xMidYMid meet" version="1.0"><defs><clipPath id="0dd1d9640a"><path d="M 15 2.015625 L 29.515625 2.015625 L 29.515625 26.691406 L 15 26.691406 Z M 15 2.015625 " clip-rule="nonzero"/></clipPath><clipPath id="2cc73f8b31"><path d="M 0.484375 2.015625 L 15 2.015625 L 15 26.691406 L 0.484375 26.691406 Z M 0.484375 2.015625 " clip-rule="nonzero"/></clipPath></defs><g clip-path="url(#0dd1d9640a)"><path fill="currentColor" d="M 15.933594 2.371094 C 16.046875 2.21875 16.1875 2.113281 16.367188 2.054688 C 16.472656 2.03125 16.578125 2.019531 16.6875 2.023438 C 20.640625 2.03125 24.589844 2.011719 28.542969 2.019531 C 28.644531 2.019531 28.734375 2.019531 28.820312 2.027344 C 29.019531 2.070312 29.1875 2.175781 29.316406 2.335938 C 29.445312 2.492188 29.507812 2.675781 29.507812 2.878906 L 29.507812 14.222656 C 29.507812 14.464844 29.421875 14.671875 29.25 14.84375 C 29.074219 15.015625 28.867188 15.101562 28.621094 15.101562 L 23.648438 15.101562 C 23.6875 15.734375 23.835938 16.34375 24.089844 16.925781 C 24.304688 17.417969 24.652344 18.097656 25.332031 18.679688 C 26.125 19.359375 27.148438 19.71875 28.332031 19.816406 C 29.003906 19.871094 29.289062 20.089844 29.28125 20.761719 C 29.269531 22.339844 29.308594 23.921875 29.3125 25.5 C 29.316406 26.457031 29.085938 26.691406 28.140625 26.539062 C 25.265625 26.082031 25.433594 26.132812 24.742188 25.839844 C 22.601562 24.933594 16.234375 20.777344 15.78125 14.375 C 15.773438 14.324219 15.769531 14.273438 15.769531 14.226562 L 15.769531 2.878906 C 15.769531 2.691406 15.824219 2.523438 15.933594 2.371094 Z M 15.933594 2.371094 " fill-opacity="1" fill-rule="nonzero"/></g><g clip-path="url(#2cc73f8b31)"><path fill="currentColor" d="M 0.65625 2.371094 C 0.765625 2.21875 0.910156 2.113281 1.089844 2.054688 C 1.195312 2.03125 1.300781 2.019531 1.410156 2.023438 C 5.359375 2.03125 9.3125 2.011719 13.261719 2.019531 C 13.367188 2.019531 13.457031 2.019531 13.539062 2.027344 C 13.742188 2.070312 13.90625 2.175781 14.035156 2.335938 C 14.164062 2.492188 14.230469 2.675781 14.230469 2.878906 L 14.230469 14.222656 C 14.230469 14.464844 14.144531 14.671875 13.96875 14.84375 C 13.796875 15.015625 13.585938 15.101562 13.34375 15.101562 L 8.371094 15.101562 C 8.410156 15.734375 8.558594 16.34375 8.8125 16.925781 C 9.027344 17.417969 9.375 18.097656 10.050781 18.679688 C 10.847656 19.359375 11.871094 19.71875 13.054688 19.816406 C 13.726562 19.871094 14.011719 20.089844 14.003906 20.761719 C 13.992188 22.339844 14.03125 23.921875 14.035156 25.5 C 14.035156 26.457031 13.808594 26.691406 12.863281 26.539062 C 9.988281 26.082031 10.15625 26.132812 9.460938 25.839844 C 7.320312 24.933594 0.953125 20.777344 0.503906 14.375 C 0.496094 14.324219 0.492188 14.273438 0.492188 14.226562 L 0.492188 2.878906 C 0.492188 2.691406 0.546875 2.523438 0.65625 2.371094 Z M 0.65625 2.371094 " fill-opacity="1" fill-rule="nonzero"/></g></svg>
+  </label>
+  </p>
+  <p class="quote-text">
+    Uma as melhores coisas sobre trabalhar com Neil e Jonathan (gerente musical) em The Last of Us foi a liberdade que eu tive em trazer coisas que eu considero realmente interessantes. Licença total para tentar e fazer algumas coisas fora do comum que eles amaram, foi uma experiência muito gratificante para mim
+  </p>
+  <p class="quote-author">
+    (SANTAOLALLA, 2014)
+  </p>
+<p>Gustavo nunca havia trabalhado com jogos antes e aceitou o trabalho após conhecer a premissa, além de ficar contente por ser contratado nos estágios iniciais do projeto, ponto esse que  <a href="https://www.youtube.com/watch?v=R0l7LzC_h8I&amp;t=47m11s">Neil Druckmann ressalta</a> como algo curioso pois revela que não só a música foi criada a partir do enredo, como a escrita do mesmo também foi influenciada pelos temas que Gustavo criava.</p>
+<div class="img-inside">
+  <img src='/images/lastofus-3.png' alt="Joel carregando sua filha Sarah no colo no prólogo do jogo.">
+  <p>Descrição da Imagem: Joel carregando sua filha Sarah no colo no prólogo do jogo.</p>
+</div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0GO5eHbhtjHklVKhAFvt7I?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>Dentre os diversos temas musicais criados por Gustavo para o jogo, o tema mais importante não é a música que leva o título <strong>The Last of Us</strong>, e sim aquela denominada <strong>All Gone</strong>, que tem diversas versões ao longo dos dois álbuns oficiais lançados (The Last Of Us de 2013 e The Last of Us — Vol 2 de 2014 com faixas adicionais).</p>
+<p>É esta faixa, inclusive, que aparece em um dos vídeos de bastidores onde Gustavo mostra a Neil sua adição a cena da morte de Sarah. O tema simboliza esse trauma de Joel e é tocada pela primeira vez enquanto ele está tentando em vão salvar sua filha.</p>
+<p>A partir de então o Joel muda em 20 anos e passa a ser um sobrevivente, porém ao encontrar Ellie, seu impulso é evitar que seu trauma volte a ocorrer, assim, passa a ser autoritário com ela e, principalmente, negar qualquer laço paternal, o que resulta em uma das cenas mais emocionantes do jogo com as atuações de Troy Baker e Ashley Johnson, onde os dois personagens se abrem como nunca antes. Ellie argumenta que sabe se cuidar e tomar suas próprias decisões e que todas as pessoas que ela já se apegou se foram, expondo que também tem traumas (algo melhor desenvolvido na DLC The Last of Us: Left Behind) e o principal é justamente o medo de ficar sozinha. Por outro lado, Joel se zanga ao lembrar de Sarah e alega que Ellie definitivamente não é sua filha, porém essa mentira que ele conta a si mesmo é desmascarada pelo retorno da faixa All Gone que toca durante a discussão.</p>
+<div class="img-inside">
+  <img src='/images/lastofus-4.png' alt="Joel acariciando Ellie manchada de sangue após ela matar David.">
+  <p>Descrição da Imagem: Joel acariciando Ellie manchada de sangue após ela matar David.</p>
+</div>
+<p>No início do capítulo do inverno é possível ouvir All Gone (Alone) enquanto Ellie cuida de Joel ferido, porém o próximo uso essencial da trilha ocorre quando Joel é obrigado a reviver seu trauma e é posto novamente em uma situação de estresse onde a pessoa com quem ele mais se importa está a mercê de indivíduos perigosos e o medo da sua eventual perda o faz buscá-la desesperadamente. Porém, diferente de Sarah, Ellie não é indefesa, além de forte, ela prova a Joel que sabe tomar suas próprias decisões, mesmo que no momento da cinemática, após matar David, ela esteja sob tensão e necessitando justamente da pessoa que Joel tanto negava ser: um pai.</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5NNuu93bAMMJGEzVAv8luo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>É nesta cena que Joel assume Ellie como sua filha, o que também é entregue em formato de música, uma vez que o tema traumático retorna com o nome de All Gone (Reunion) e traz uma das melhores particularidades que Gustavo Santaolalla adiciona a trilha: a inclusão de barulhos. Conforme o que o mesmo relata, sua intenção não era só fazer músicas melódicas para o jogo, mas também captar os barulhos e as texturas dos instrumentos, tanto que algumas captações sonoras foram feitas em quartos, cozinhas e banheiros.</p>
+<p>All Gone (Reunion) inicia diferente, como se a melodia tivesse dificuldade para iniciar enquanto Gustavo dedilha as notas rapidamente e Joel tenta acalmar Ellie, para, só então, quando Joel assume sua condição de pai e a chama de Baby Girl (mesmo forma que chamava por Sarah), assim não é mais possível ouvir o diálogo dos dois porque o tema cresça e junto dele a relação daqueles dois personagens.</p>
+<p>Com esta relação solidificada, o jogo se encaminha para o ato final, onde, sob essas novas condições, Joel reviverá novamente seu trauma, porém agora de forma mais integrada com a jogabilidade, pois, junto dele, o jogador também não saberá o real estado de Ellie. A situação inicia de forma similar, com Ellie afogada, Joel tentando reanimá-la e um indivíduo armado os ameaçando, a partir daí está nas mãos do jogador percorrer todo o cenário do hospital em busca da garota e inclusive assassinar os médicos responsáveis por sua cirurgia, mecânica sugerida a Neil pelo Designer de Nível Peter Field. pois uma vez que o conflito estava tão bem construído, os sentimentos transmitidos para o jogador o fariam agir da mesma forma que Joel.</p>
+<div class="img-inside">
+  <img src='/images/lastofus-5.png' alt="Joel aflito carregando Ellie desacordada no colo enquanto está no elevador do Hospital.">
+  <p>Descrição da Imagem: Joel aflito carregando Ellie desacordada no colo enquanto está no elevador do Hospital.</p>
+</div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6zezOLouSWKEfMizbzcsad?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>Após vários minutos de tensão, Joel carrega Ellie, da mesma forma que carregava Sarah, fugindo dos vaga-lumes aramados e obtém o sucesso que nunca teve em salvar sua filha, portanto, o tema ganha uma nova versão mais envolvente e com adição de um novo arranjo, simbolizando o fim daquele conflito.</p>
+<p>Joel havia enfim tomado sua decisão, que é reafirmada pela última cena do jogo onde ambos os personagens cruzam o <strong>fim da Linha</strong> em consonância com o que Robert Mckee ensinou ao diretor Neil Druckmann, que explica que a mentira de Joel sobre a cura significa que ele decide arriscar a coisa mais preciosa do mundo para ele, o relacionamento com sua própria filha, devido ao seu amor irracional de pai, enquanto Ellie ao dizer “Okay” sabe que ele está mentindo, o ama pelo que ele fez por ela, mas o odeia por tirar dela o poder de decisão sobre suas próprias escolhas, percebendo neste momento que precisará deixá-lo e encarar seu medo de ficar sozinha no mundo, mas dessa vez por opção própria.</p>
+<div class="img-inside">
+  <img src='/images/lastofus-6.png' alt="Ellie olhando para Joel na cena final do jogo.">
+  <p>Descrição da Imagem: Ellie olhando para Joel na cena final do jogo.</p>
+</div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1hdDnQRPinE8hxYhW3uy6u?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>Desta forma, o tema All Gone não se encaixa mais, logo Gustavo Santaolalla cria um novo, encerrando a narrativa com uma faixa com um nome que simboliza tudo que o último momento propoe: <strong>The Path (A New Beginning).</strong></p>
+<h2 id="trilhas-da-hist%C3%B3rias" tabindex="-1">Trilhas da histórias <a class="anchor-link" href="#trilhas-da-hist%C3%B3rias">#</a></h2>
+<p>Inegavelmente, <strong>The Last of Us</strong>, por ser um jogo, é um produto que traz discussões sobre arte. Ele está inserido em um contexto de uma indústria que estimula o consumo, cria às pressas e explora funcionários (principalmente a própria Naughty Dog), ao mesmo tempo que proporciona novas formas de criação, com o jogador não sendo apenas um receptador de informação, mas capaz de interagir e se emocionar com o resultado do trabalho de milhares de profissionais.</p>
+<p>Nesse sentido, a preocupação em conciliar narrativa e trilha sonora é um dos diferenciais que proporciona uma forma agradável de se contar uma história e de transmitir suas mensagens. Não é à toa que Gustavo Santolalla além de ser responsável pela trilha de <strong>The Last of Us — Part II</strong> (2020), também irá compor para a futura série da HBO sobre o jogo.</p>
+<p>Assim como Neil disse, sua música é parte da história, assim como The Last of Us é fruto de sua música.</p>
+</content>
   </entry>
   <entry>
     <title>A Revelação do Príncipe deste Mundo - A Escuridão na Redenção</title>
-    <link href="https://caiohamaro.github.io/posts/ilustracao-livro-revelacao-4/"/>
-    <updated>2025-04-13T01:36:01.940-03:00</updated>
-    <id>https://caiohamaro.github.io/posts/ilustracao-livro-revelacao-4/</id>
+    <link href="https://caiohamaro.github.io/posts/2024-04-01-ilustracao-livro-revelacao-4/"/>
+    <updated>2024-03-31T21:00:00-03:00</updated>
+    <id>https://caiohamaro.github.io/posts/2024-04-01-ilustracao-livro-revelacao-4/</id>
     <content type="html"></content>
   </entry>
   <entry>
     <title>A Revelação do Príncipe deste Mundo - Anjos caem na Terra</title>
-    <link href="https://caiohamaro.github.io/posts/ilustracao-livro-revelacao-3/"/>
-    <updated>2025-04-13T01:36:01.938-03:00</updated>
-    <id>https://caiohamaro.github.io/posts/ilustracao-livro-revelacao-3/</id>
+    <link href="https://caiohamaro.github.io/posts/2024-04-01-ilustracao-livro-revelacao-3/"/>
+    <updated>2024-03-31T21:00:00-03:00</updated>
+    <id>https://caiohamaro.github.io/posts/2024-04-01-ilustracao-livro-revelacao-3/</id>
     <content type="html"></content>
   </entry>
   <entry>
     <title>A Revelação do Príncipe deste Mundo - Lúcifer ascende aos Céus</title>
-    <link href="https://caiohamaro.github.io/posts/ilustracao-livro-revelacao-2/"/>
-    <updated>2025-04-13T01:36:01.936-03:00</updated>
-    <id>https://caiohamaro.github.io/posts/ilustracao-livro-revelacao-2/</id>
+    <link href="https://caiohamaro.github.io/posts/2024-04-01-ilustracao-livro-revelacao-2/"/>
+    <updated>2024-03-31T21:00:00-03:00</updated>
+    <id>https://caiohamaro.github.io/posts/2024-04-01-ilustracao-livro-revelacao-2/</id>
     <content type="html"></content>
   </entry>
   <entry>
     <title>A Revelação do Príncipe deste Mundo - Audiência com o Diabo</title>
-    <link href="https://caiohamaro.github.io/posts/ilustracao-livro-revelacao-1/"/>
-    <updated>2025-04-13T01:36:01.934-03:00</updated>
-    <id>https://caiohamaro.github.io/posts/ilustracao-livro-revelacao-1/</id>
+    <link href="https://caiohamaro.github.io/posts/2024-04-01-ilustracao-livro-revelacao-1/"/>
+    <updated>2024-03-31T21:00:00-03:00</updated>
+    <id>https://caiohamaro.github.io/posts/2024-04-01-ilustracao-livro-revelacao-1/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>A Revelação do Príncipe deste mundo</title>
+    <link href="https://caiohamaro.github.io/posts/2024-01-01-Livro-O-Principe-Deste-Mundo/"/>
+    <updated>2023-12-31T21:00:00-03:00</updated>
+    <id>https://caiohamaro.github.io/posts/2024-01-01-Livro-O-Principe-Deste-Mundo/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Filhos da Noite</title>
+    <link href="https://caiohamaro.github.io/posts/2024-01-01-HQ-Terror-Universal/"/>
+    <updated>2023-12-31T21:00:00-03:00</updated>
+    <id>https://caiohamaro.github.io/posts/2024-01-01-HQ-Terror-Universal/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Os méritos de “Dark” A atmosfera certa para uma viagem incerta. Os méritos de “Dark” A atmosfera certa para uma viagem incerta</title>
+    <link href="https://caiohamaro.github.io/sass/rwd-sass-media-queries12/"/>
+    <updated>2022-01-21T21:00:00-03:00</updated>
+    <id>https://caiohamaro.github.io/sass/rwd-sass-media-queries12/</id>
+    <content type="html"><p><strong>Spoiler abaixo</strong></p>
+<p>Como exercício de roteiro, planejar <strong>Dark</strong>, a primeira série alemã original da <strong>Netflix</strong>, deve ter sido desafiador. Afinal, uma das grandes dificuldades de quem escreve/produz sobre algum mistério é entregar as informações aos poucos a quem consome a obra. Neste sentido, há muito mérito em <strong>Dark</strong>, pois, embora algumas respostas tornem-se logo perceptíveis, a experiência de acompanhar os personagens descobrindo-as é empolgante.</p>
+<p>Seja esperar pelo momento em que <strong>Jonas</strong> perceba que ele é o estranho viajante do tempo, ou como <strong>Helge</strong> conseguirá sua cicatriz, e, até mesmo, entender porque as relações entre os habitantes de <strong>Winden</strong> no presente são como são devido a acontecimentos de 33 anos atrás.</p>
+<div class="img-inside">
+  <img src='/images/dark-2.png' alt="Parede coberta de fotos dos personagens da série com fios indicando a relação deles.">
+  <p>Descrição da Imagem: Parede coberta de fotos dos personagens da série com fios indicando a relação deles.</p>
+</div>
+<p>Os conceitos utilizados são apresentados aos poucos, no tempo de uma série de 10 episódios e, embora haja muita reclamação quanto a quantidade de personagens, basta um olhar mais atento para revelar o quanto os diretores <strong>Jantje Friese</strong> e <strong>Baran bo Odar</strong> preocuparam-se com esse ponto: em toda a série, os únicos nomes ditos são dos personagens relevantes, cientes da quantidade de nomes que a audiência precisa conhecer. Também preocupam-se em apresentar claramente a linha temporal de 1986 antes de viajar para 1953, utilizando de cenas que comparam as feições dos personagens no presente e no passado (o que também ressalta o acerto na escolha do elenco que é incrivelmente semelhante).</p>
+<div class="img-inside">
+  <img src='/images/dark-3.png' alt=" Ulrich Nielsen sujo em frente à fenda do tempo em 1986.">
+  <p>Descrição da Imagem:  Ulrich Nielsen sujo em frente à fenda do tempo em 1986.</p>
+</div>
+<p>Assistir uma série em alemão é, sem dúvida, um atrativo, principalmente para desconstruir preconceitos com o idioma, pois as atuações são certamente pontos altos da produção, justificando personagens que vivem em constantes conflitos. Dramas estes que tornam suas atitudes muito plausíveis, tornando real, principalmente, o modo com que aceitam que seja possível, sim, viajar no tempo. <strong>Jonas</strong>, <strong>Mikkel</strong> e <strong>Ulrich</strong> obviamente se negam e passam muito tempo em silêncio refletindo sobre a situação na qual se encontram.</p>
+<p>Neste momento em que o principal ponto da série surge, a atmosfera.</p>
+<p>Como os próprios diretores disseram na <a href="https://www.youtube.com/watch?v=scFjLF2y6VM">entrevista produzida pela Netflix</a>, o silêncio é essencial para a narrativa, principalmente por haver um tempo para os personagens aceitarem os acontecimentos e reagirem a eles.</p>
+<p>A chuva frequente, talvez uma consequência do misterioso acidente nuclear, acrescenta no tom melancólico, que alcança seu ápice na junção de todos esses elementos já citados à trilha sonora que encaixa perfeitamente, vide a abertura:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8c399HPb01s?si=6yDAL6SHKRHmYVP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>As composições originais formadas por cordas e distorções são intercaladas com músicas escolhidas a dedo para momentos específicos, seja <strong>“I ran(So far away)”</strong> de <strong>A Flock of Seagulls</strong> em uma sequência tradicional mostrando o dia a dia do colégio em 1986; <strong>“A quiet Life”</strong> de <strong>Teho Teardo &amp; Blixa Bargeld</strong> na sequencia do episódio final; ou o clímax do quinto episódio, marcado pela música <strong>“Me and the Devil”</strong> de <strong>Soap&amp;Skin</strong>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xd9LpME3jnk?si=LvRKMkOak7jKgrMG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>Além do clima, a constante desconfiança sobre um incidente nuclear é fielmente retratado devido à experiência pessoal dos diretores alemães Jantje Friese e Baran bo Odar que quando crianças viveram o medo de Chernobyl em 1986: eles foram puxados do parquinho ao ar livre para dentro de casa a fim de evitar contato com a chuva: “Para nós esta foi a primeira vez que a nossa infância foi roubada. Nós tivemos essa sensação de: Meu Deus, talvez o mundo acabe e todos nós vamos morrer”.</p>
+<div class="img-inside">
+  <img src='/images/dark-5.png' alt="Entrevista dos diretores em um programa da Netflix entitulado ‘Dark Aftershow’">
+  <p>Descrição da Imagem: Entrevista dos diretores em um programa da Netflix entitulado ‘Dark Aftershow’</p>
+</div>
+<p>Para explicar o conceito de viagem no tempo da série, os diretores poem em conflito a <strong>liberdade</strong> encontrada em <strong>“De Volta para o Futuro”</strong> e o determinismo em <strong>“Harry Potter e o Prizioneiro de Azkaban”</strong>, o que resulta em um <strong>determinismo casual</strong> onde os personagens tentam constantemente escapar, porém estão presos em um ciclo fechado.</p>
+<p>Justamente esse concepção é responsável tanto por momentos ótimos quanto decepcionantes.</p>
+<p>Infelizmente o final tende somente a realizar o que a trama já tinha entregue e não traz uma situação nova ou transgressora, mantendo muito dos mistérios carentes de resolução. Embora a história mostrada seja intrigante e interessante o suficiente, é inevitável o gosto amargo no último episódio que, ao invés de resolver estes conflitos e trazer novos para instigar a futura temporada, apenas encerra o ciclo temporal e deixa muitas questões essenciais abertas, a exemplo de Noah e também da trajetória de Charlotte na história. Dark peca em não funcionar como uma temporada fechada tornando-se, portanto, dependente de uma próxima.</p>
+<div class="img-inside">
+  <img src='/images/dark-4.png' alt="Entrevista dos diretores em um programa da Netflix entitulado ‘Dark Aftershow’">
+  <p>Descrição da Imagem: Entrevista dos diretores em um programa da Netflix entitulado ‘Dark Aftershow’</p>
+</div>
+<p>A experiência, porém, compensa o tempo gasto, e os showrunners <strong>Jantje Friese e Baran bo Odar</strong> merecem o voto de confiança pela competência com que dirigiram <strong>Dark</strong>, uma série que aposta e destaca-se entre os “originais Netflix”. Definitivamente ela vale um olhar mais atento e uma discussão posterior maior sobre sua trama e qualidades que vá além do já manjado “é tipo um Stranger Things para adultos” encontrado em diversas críticas.</p>
+</content>
+  </entry>
+  <entry>
+    <title>Acórdão da Corte de Azathoth</title>
+    <link href="https://caiohamaro.github.io/posts/2021-01-01-HQ-Mitos-Lovecraft/"/>
+    <updated>2020-12-31T21:00:00-03:00</updated>
+    <id>https://caiohamaro.github.io/posts/2021-01-01-HQ-Mitos-Lovecraft/</id>
     <content type="html"></content>
   </entry>
 </feed>

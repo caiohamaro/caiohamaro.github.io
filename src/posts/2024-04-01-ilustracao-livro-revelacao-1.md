@@ -1,7 +1,7 @@
 ---
 title: A Revelação do Príncipe deste Mundo - Audiência com o Diabo
 author: Caio Amaro
-year: 2018
+year: 2024
 description: 
 categories:
   - Ilustracoes

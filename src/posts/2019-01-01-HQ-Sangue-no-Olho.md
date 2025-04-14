@@ -7,7 +7,7 @@ description: Em meio à guerra, três soldados buscam abrigo em um castelo na Tr
 quote: Enfim, espero que estejam saciados... Agora, é a minha hora de cear.
 categories:
   - HQS
-cover: "/images/livro-sangue-no-olho.png"
+cover: "/images/livro-sangue-no-olho.jpg"
 backgroundcolor: "#e96324"
 titlecolor: "#930304"
 textcolor: "#ffffff"
