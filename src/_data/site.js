@@ -3,7 +3,7 @@ module.exports = {
   email: 'caio.h.amaro@gmail.com',
   description: 'Front-end architect. <br />Speaker & writer. <br />React & Vue, Sass & CSS, performance & accessibility.',
   baseurl: '',
-  url: 'https://caiohamaro.com',
+  url: 'https://caiohamaro.github.io',
   bluesky_username: 'caiohamaro',
   author_name: 'Caio Amaro',
   about_pic: '/images/about-me.jpg',

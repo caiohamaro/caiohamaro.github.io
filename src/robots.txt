@@ -1,4 +1,4 @@
-Sitemap: https://caiohamaro.com/sitemap.xml
+Sitemap: https://caiohamaro.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
