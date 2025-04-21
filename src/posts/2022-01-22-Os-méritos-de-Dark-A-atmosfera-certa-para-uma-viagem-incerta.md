@@ -1,6 +1,6 @@
 ---
 title: Os méritos de “Dark” A atmosfera certa para uma viagem incerta. Os méritos de “Dark” A atmosfera certa para uma viagem incerta 
-author: James Steinbach
+author: Caio Amaro
 layout: post
 permalink: /sass/rwd-sass-media-queries12/
 description: Os méritos de “Dark” A atmosfera certa  de “Dark” A atmosfera c de “Dark” A atmosfera c  de “Dark” A atmosfera c  de “Dark” A atmosfera cpara uma viagem incerta. Os méritos de “Dark” A atmosfera certa  de “Dark” A atmosfera c de “Dark” A atmosfera c  de “Dark” A atmosfera c  de “Dark” A atmosfera cpar

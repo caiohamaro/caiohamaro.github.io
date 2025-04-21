@@ -1,1 +1,2 @@
 # caiohamaro.github.io
+Esse site foi criado para fins de aprendizado individual e divulgação pessoal de trabalhos. Ele foi feito com Eleventy, usando Visual Studio Code e baseado nos sites de https://jdsteinbach.com/ e https://www.gabtoschi.com/!
