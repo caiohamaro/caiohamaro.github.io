@@ -10,12 +10,17 @@
   display: grid;
   column-gap: var(--horizontal-spacing);
   position: relative;
-
   > * {
     grid-column: 2 / -2;
   }
 }
 
+.main-content{
+  @media (max-width: 800px) {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
 .l-grid-normal {
   grid-template-columns: 1fr minmax(0, var(--max-width, #{$max-width})) 1fr;
 }

@@ -967,6 +967,13 @@ button svg path, a svg path {
   grid-column: 2/-2;
 }
 
+@media (max-width: 800px) {
+  .main-content {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
 .l-grid-normal {
   grid-template-columns: 1fr minmax(0, var(--max-width, 50rem)) 1fr;
 }
@@ -1499,6 +1506,12 @@ svg:hover .starfield__layer {
   font-weight: bold;
   margin-right: 20px;
   margin-bottom: -1px;
+}
+@media (max-width: 800px) {
+  .post-thumbnail span, .post-without-thumbnail span {
+    padding: 4px 10px;
+    margin-right: 5px;
+  }
 }
 
 .post {

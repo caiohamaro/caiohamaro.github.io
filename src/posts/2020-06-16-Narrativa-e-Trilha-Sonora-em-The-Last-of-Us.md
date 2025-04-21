@@ -1,6 +1,6 @@
 ---
 title: Narrativa e Trilha Sonora em The Last of Us
-author: James Steinbach
+author: Caio Amaro
 layout: post
 permalink: /sass/rwd-sass-media-queries/
 categories:
