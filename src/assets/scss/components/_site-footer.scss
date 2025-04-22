@@ -5,6 +5,9 @@
   --color-focus: var(--color-link-light-alt);
   --field-bg-alt: var(--color-background-code);
 
+  border-top: var(--color-line);
+  border-style: solid;
+
   margin: calc(-50vw * var(--tilt-tan)) 0 0;
   padding: calc(50vw * var(--tilt-tan) + #{3 * $base-spacing}) 0 calc(100vw * var(--tilt-tan));
   height: 100%;

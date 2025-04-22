@@ -857,8 +857,6 @@ svg:hover .starfield__layer {
   grid-template: "left center right" auto/1fr 1fr 1fr;
   font-size: var(--fs-small);
   font-family: var(--ff-body);
-  border-top: var(--color-line);
-  border-style: solid;
 }
 .pagination .previous {
   --dir: -1;
@@ -1045,6 +1043,8 @@ svg:hover .starfield__layer {
   --color-link-alt: var(--color-link-light-alt);
   --color-focus: var(--color-link-light-alt);
   --field-bg-alt: var(--color-background-code);
+  border-top: var(--color-line);
+  border-style: solid;
   margin: calc(-50vw * var(--tilt-tan)) 0 0;
   padding: calc(50vw * var(--tilt-tan) + 4.8rem) 0 calc(100vw * var(--tilt-tan));
   height: 100%;
@@ -2023,6 +2023,7 @@ svg:hover .starfield__layer {
 }
 
 .nl-header {
+  padding-top: 12px;
   width: 100%;
   position: relative;
   align-items: center;
