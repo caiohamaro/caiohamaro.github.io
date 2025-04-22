@@ -14,8 +14,10 @@ permalink: /tags/{{ tag }}/
 {% include "partials/_hero" %}
 
 <div class="l-grid l-grid-wide">
-  {% if pagination.items %}
     <ul class="posts-archive list-content post-list">
+    <div class="tags-header">
+      <h2>Textos que abordam: {{ tag }}</h2>
+    </div>
       {% for post in collections[ tag ] | reverse %}
         <div class="card-wrapper {{ post.data.tags | join: " " }}">
           {% render "components/full-card.liquid"
@@ -29,8 +31,4 @@ permalink: /tags/{{ tag }}/
         </div>
       {% endfor %}
     </ul>
-    {% include "partials/_pagination" %}
-  {% else %}
-    {{ content }}
-  {% endif %}
 </div>

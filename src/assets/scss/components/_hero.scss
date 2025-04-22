@@ -442,5 +442,23 @@
     margin-top: 4px;
   }
 }
+.tags-header{
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding-left: 12px;
+  padding-right: 12px;
+  background-color: var(--color-background-card-tag);
 
+  @media (max-width: 630px) {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+
+  h2{
+    font-size: 32px;
+    color: white;
+  }
+}
 

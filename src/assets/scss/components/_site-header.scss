@@ -53,7 +53,9 @@
 
 .site-header__menu-toggle {
   display: none;
-
+  border: none;
+  color: var(--color-link);
+  
   svg {
     width: $small-spacing;
     height: $small-spacing;

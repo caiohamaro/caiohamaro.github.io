@@ -32,11 +32,11 @@
   cursor: pointer;
 
   &[for="light"] {
-    background-color: var(--color-accent-3);
+    /*background-color: var(--color-accent-3);*/
   }
 
   &[for="dark"] {
-    background-color: var(--color-accent-1);
+    /*background-color: var(--color-accent-1);*/
   }
 
   &:hover,
