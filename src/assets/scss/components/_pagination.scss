@@ -91,6 +91,7 @@
 
   grid-area: center;
   justify-self: center;
+  font-family: var(--ff-body);
 
   &::before {
     content: "[";
