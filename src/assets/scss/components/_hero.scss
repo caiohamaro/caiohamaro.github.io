@@ -270,12 +270,14 @@
     width: 100%;
     min-width: 780px;
     max-height: var(--ss-default-card-height);
+
   }
   
   @media (max-width: 800px) {
     width: 100%;
     height: 340px;
     min-width: var(ss-min-widht);
+
   }
   .image{
     /*height: 200px;
@@ -293,11 +295,16 @@
     position: absolute;
     left: -25px;
     top: -14px;
+    background-image: url(/images/card-presentation-vertical.png);
 
-    @media (max-width: 1288px) and (min-width: 800px) {
+    @media (max-width: 1288px) {
       width: var(--ss-min-width);
       height: var(--ss-default-card-height);
       min-width: var(--ss-min-width);
+      background-image: url(/images/card-presentation-horizontal.png);
+      position: absolute;
+      left: -10px;
+      top: -16px;
     }
   }
 }
