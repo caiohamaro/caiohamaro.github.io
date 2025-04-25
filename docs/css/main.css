@@ -775,31 +775,6 @@ button svg path, a svg path {
 .l-grid--content > iframe {
   margin: auto;
 }
-.l-grid--content > h2 {
-  display: grid;
-  grid-template-columns: var(--horizontal-spacing) 1fr auto;
-  align-items: center;
-  grid-column: 1/-1;
-  -moz-column-gap: inherit;
-       column-gap: inherit;
-  font-family: Georgia Serif;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-.l-grid--content > h2::before {
-  content: "";
-  height: 4.8rem;
-  grid-column: 1/span 1;
-  background-color: #80AB99;
-  /*background-image:url("/images/stanley-sm.jpg");*/
-  /*transform: skew(0, var(--tilt));*/
-  transform-origin: right center;
-}
-@media (min-width: 40em) {
-  .l-grid--content > h2 {
-    grid-template-columns: inherit;
-  }
-}
 
 .starfield__bg {
   fill: var(--color-purple-dark);
@@ -1052,6 +1027,7 @@ svg:hover .starfield__layer {
   z-index: 1;
   color: var(--color-text-light);
   background-color: var(--color-background-dark);
+  margin-top: 12px;
 }
 .site-footer::before {
   content: "";
@@ -1636,11 +1612,15 @@ svg:hover .starfield__layer {
   background-color: black;
   grid-column: 1/-1;
 }
+@media (max-width: 800px) {
+  .post-list-portfolio-illustration {
+    margin-top: 144px;
+  }
+}
 
 .post-list-portfolio {
   width: 100%;
   margin-top: 127px;
-  /*background-color: red;*/
   grid-column: 1/-1;
   display: flex;
   align-items: center;
@@ -1650,6 +1630,7 @@ svg:hover .starfield__layer {
 @media (max-width: 800px) {
   .post-list-portfolio {
     justify-content: space-evenly;
+    margin-top: 144px;
   }
 }
 .post-list-portfolio .card-wrapper-portfolio {

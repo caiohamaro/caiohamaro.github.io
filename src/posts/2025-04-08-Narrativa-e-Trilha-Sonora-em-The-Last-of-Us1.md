@@ -14,12 +14,18 @@ thumbnail: "/images/lastofus.png"
 
 **Spoiler abaixo**
 
+
+## Criando uma Identidade Sonora
+
 Um dos principais motivos para The **Last of Us** de 2a013 ser um jogo tão bem avaliado e popular é certamente a forma com que sua história é contada. Para além de um jogo com uma temática genérica de apocalipse zumbi, ele tenta se diferenciar trazendo uma linguagem mais próxima do cinema com inspirações em **A Estrada** (The Road, 2009), **Onde os Fracos Não Têm Vez** (No Country for Old Men, 2007) e **Extermínio** (28 days later, 2003), de um projeto que começou com a ideia de um jogo que combinasse a jogabilidade **ICO** (2001), o clima do quadrinho **Sin City** (1991) e a ambientação de **A Noite dos Mortos Vivos** (Night of the Living Dead, 1968).
 
 {% render "components/image" 
 img-url: "/images/lastofus-0.png"
 img-description: "Apresentação do diretor Neil Druckmann no International Game Developers Association de Toronto em 2013 em que ele está em um auditório apresentando uma tela com suas três principais influências para a concepção de The Last Of Us, sendo elas o jogo de Playstation 2 ICO, a história em quadrinhos Sin City e o filme A Noite dos Mortos Vivos."  
 %}
+
+## Criando uma Identidade Sonora
+
 
 ## Sobre Contar Histórias
 
@@ -31,10 +37,16 @@ Outro filme que demonstra a superação de uma provação é **Homem-aranha** (S
 
 Voltando a **The Last of Us**, a história foi organizada mostrando as provações do protagonista Joel, porém o mesmo não é altruísta e muito menos um herói, então porque essa história pode ser interessante de acompanhar? A resposta está no fato de existirem temas universais que servem como ótimas motivações para humanizar personagens, a exemplo da eterna busca pelo saber/conhecimento; a paixão pela pessoa amada; ou, no caso em questão, a paternidade/maternidade com amor irracional/incondicional. Não é a toa que diversas jurisdições pelo mundo que atenuam punições para pais e mães que cometem crimes em razão dos filhos.
 
+
+## Criando uma Identidade Sonora
+
 {% render "components/image" 
 img-url: "/images/lastofus-1.png"
 img-description: "Joel abraçando sua filha Sarah após ela morrer no prólogo do jogo."  
 %}
+
+## Criando uma Identidade Sonora
+
 
 Desta forma o trauma de Joel é o que traz empatia ao personagem e é o momento principal da história e também a sua provação inicial, parcial e final, que se repetirá várias vezes durante a jogabilidade e será a razão dos conflitos mais profundos da narrativa.
 
@@ -42,11 +54,28 @@ Desta forma o trauma de Joel é o que traz empatia ao personagem e é o momento 
 
 É preciso, logo, ressaltar alguns pontos chaves dessa história, algo que **Neil Druckmann** diretor do jogo fez em uma  [palestra em 2013](https://www.youtube.com/watch?v=Le6qIz7MjSk) no **International Game Developers Association** em Toronto. Nela, Neil conta que o projeto mudou muito desde 2004 quando teve a primeira ideia e teve vários aprendizados que moldaram o que **The Last of Us** se tornou, como as diversas rejeições que recebeu de estúdios, o feedback feminino da equipe da **Naughty Dog** e o nascimento de sua filha.
 
+
+## Criando uma Identidade Sonora
+
+
+## Criando uma Identidade Sonora
+
 Outro ponto de virada foi a leitura de **Story — Substância, Estrutura, Estilo e os princípios da Escrita de Roteiro** de **Robert Mckee**, especificamente um trecho em específico lhe fez entender o que faltava para o protótipo evoluir para uma história com uma verdade que a tornasse uma história boa:
+
+## Criando uma Identidade Sonora
+
 
 {% render "components/quote" quote: "O Protagonista tem a força de vontade e a capacidade de buscar o objeto de seu desejo consciente e/ou inconsciente até o fim da linha, no limite humano estabelecido pelo ambiente e pelo gênero" author: "(MCKEE, 2006, p. 139)" %}
 
-E para que esse limite humano seja alcançado no fim do jogo com o fechamento dos arcos de Ellie e Joel na última conversa, ela é construído com as diversas provações que, principalmente Joel, precisa enfrentar nessa história sobre laços entre pai e filha. E justamente por isso que essas provações precisam ser tão bem construídas não existe melhor forma de conectá-las e demonstrar sua progressão do que usando o recurso que por muitas vezes passa batido em videogames: a trilha sonora.
+
+## Criando uma Identidade Sonora
+
+E para que esse limite humano seja alcançado no fim do jogo com o fechamento dos arcos de Ellie e Joel na última conversa, ela é construído com as diversas provações que, principalmente Joel, precisa enfrentar nessa história sobre laços entre pai 
+## caio
+
+e filha. E justamente por isso que essas provações precisam ser tão bem construídas não existe melhor forma de conectá-las e 
+demonstrar sua progressão do que usando o recurso que por muitas vezes passa batido em videogames: a trilha sonora.
+
 
 ## Criando uma Identidade Sonora
 
@@ -55,12 +84,20 @@ img-url: "/images/lastofus-2.png"
 img-description: "Gustavo Santaolalla, compositor de The Last of Us, tocando um violão."  
 %}
 
+
+## Criando uma Identidade Sonora
+
+
 Durante a produção inicial do jogo, na busca por uma identidade musical minimalista, havia um nome que predominava na lista de referências musicais dos diretores: **Gustavo Santaolalla**, compositor de cinema premiado e reconhecido pelos filmes **O Segredo de Brokeback Mountain** (Brokeback Mountain, 2005) e **Babel** (2006).
 
 {% render "components/quote" 
 quote: "Uma as melhores coisas sobre trabalhar com Neil e Jonathan (gerente musical) em The Last of Us foi a liberdade que eu tive em trazer coisas que eu considero realmente interessantes. Licença total para tentar e fazer algumas coisas fora do comum que eles amaram, foi uma experiência muito gratificante para mim" 
 author: "(SANTAOLALLA, 2014)" 
 %}
+
+
+## Criando uma Identidade Sonora
+
 
 Gustavo nunca havia trabalhado com jogos antes e aceitou o trabalho após conhecer a premissa, além de ficar contente por ser contratado nos estágios iniciais do projeto, ponto esse que  [Neil Druckmann ressalta](https://www.youtube.com/watch?v=R0l7LzC_h8I&t=47m11s) como algo curioso pois revela que não só a música foi criada a partir do enredo, como a escrita do mesmo também foi influenciada pelos temas que Gustavo criava.
 
@@ -74,6 +111,8 @@ img-description: "Joel carregando sua filha Sarah no colo no prólogo do jogo."
 Dentre os diversos temas musicais criados por Gustavo para o jogo, o tema mais importante não é a música que leva o título **The Last of Us**, e sim aquela denominada **All Gone**, que tem diversas versões ao longo dos dois álbuns oficiais lançados (The Last Of Us de 2013 e The Last of Us — Vol 2 de 2014 com faixas adicionais).
 
 É esta faixa, inclusive, que aparece em um dos vídeos de bastidores onde Gustavo mostra a Neil sua adição a cena da morte de Sarah. O tema simboliza esse trauma de Joel e é tocada pela primeira vez enquanto ele está tentando em vão salvar sua filha.
+
+## Criando uma Identidade Sonora
 
 A partir de então o Joel muda em 20 anos e passa a ser um sobrevivente, porém ao encontrar Ellie, seu impulso é evitar que seu trauma volte a ocorrer, assim, passa a ser autoritário com ela e, principalmente, negar qualquer laço paternal, o que resulta em uma das cenas mais emocionantes do jogo com as atuações de Troy Baker e Ashley Johnson, onde os dois personagens se abrem como nunca antes. Ellie argumenta que sabe se cuidar e tomar suas próprias decisões e que todas as pessoas que ela já se apegou se foram, expondo que também tem traumas (algo melhor desenvolvido na DLC The Last of Us: Left Behind) e o principal é justamente o medo de ficar sozinha. Por outro lado, Joel se zanga ao lembrar de Sarah e alega que Ellie definitivamente não é sua filha, porém essa mentira que ele conta a si mesmo é desmascarada pelo retorno da faixa All Gone que toca durante a discussão.
 
