@@ -15,7 +15,8 @@
   z-index: 1;
   color: var(--color-text-light);
   background-color: var(--color-background-dark);
-
+  margin-top: 12px;
+  
   &::before {
     content: "";
     margin: 0;

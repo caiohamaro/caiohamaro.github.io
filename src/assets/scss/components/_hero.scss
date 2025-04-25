@@ -363,11 +363,15 @@
   margin-top: 127px;
   background-color: black;
   grid-column: 1 / -1;
+
+  @media (max-width: 800px) {
+    margin-top: 144px;
+  }
+
 }
 .post-list-portfolio {
   width: 100%;
   margin-top: 127px;
-  /*background-color: red;*/
   grid-column: 1 / -1;
 
   display: flex;
@@ -377,6 +381,7 @@
 
   @media (max-width: 800px) {
     justify-content:space-evenly;
+    margin-top: 144px;
   }
 
   .card-wrapper-portfolio {
