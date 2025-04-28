@@ -257,6 +257,10 @@
   --color-link:var(--color-link-post-tag);
   font-weight: 500;
   text-transform: uppercase;
+
+  @media (max-width: 800px) {
+    font-size: 12px;
+  }
 }
 
 //Estilos para Item de Apresentação da HOME

@@ -1508,6 +1508,11 @@ svg:hover .starfield__layer {
   font-weight: 500;
   text-transform: uppercase;
 }
+@media (max-width: 800px) {
+  .post-tag {
+    font-size: 12px;
+  }
+}
 
 .card-presentation {
   width: 310px;
