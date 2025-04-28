@@ -9,7 +9,7 @@ categories:
 timeread: 16
 excerpt: Organizing media queries with Sass to keep responsive Sass code clean and maintainable.
 tags:  ["The Last of us", "Trilha Sonora", "Jogo"]
-thumbnail: "/images/lastofus.png"
+thumbnail: "/images/demolidor-origem-capa2.jpg"
 ---
 
 **Spoiler abaixo**
