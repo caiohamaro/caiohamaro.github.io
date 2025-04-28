@@ -946,7 +946,7 @@ svg:hover .starfield__layer {
   font-size: 28px;
   margin-top: 4px;
   margin-left: 4px;
-  margin-right: 16px;
+  padding-right: 16px;
 }
 
 .site-header__menu-toggle {
