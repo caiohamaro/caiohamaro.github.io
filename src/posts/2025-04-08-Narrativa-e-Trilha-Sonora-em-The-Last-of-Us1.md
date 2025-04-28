@@ -2,14 +2,14 @@
 title: Narrativa e Trilha Sonora em The Last of Us
 author: Caio Amaro
 layout: post
-permalink: /sass/rwd-sass-media-queries1/
+permalink: /the-last-of-us-narrativa/
 description: Um dos principais motivos para The Last of Us de 2013 ser um jogo tão bem avaliado e popular é certamente a forma com que sua história é contada. Para além de um jogo com uma temática genérica de apocalipse zumbi, ele tenta se diferenciar trazendo uma linguagem mais próxima do cinema com inspirações em **A Estrada** (The Road, 2009), **Onde os Fracos Não Têm Vez** (No Country for Old Men, 2007) e história é contada. Para além de um jogo com uma temática genérica de apocalipse zumbi, ele tenta se diferenciar trazendo uma linguagem mais próxima do cinema com inspirações em **A Estrada** (The Road, 2009), **Onde os Fracos Não Têm Vez** (No Country for Old Me
 categories:
   - Posts
 timeread: 16
 excerpt: Organizing media queries with Sass to keep responsive Sass code clean and maintainable.
 tags:  ["The Last of us", "Trilha Sonora", "Jogo"]
-thumbnail: "/images/demolidor-origem-capa2.jpg"
+thumbnail: "/images/the-last-of-us-narrativa-0.jpg"
 ---
 
 **Spoiler abaixo**

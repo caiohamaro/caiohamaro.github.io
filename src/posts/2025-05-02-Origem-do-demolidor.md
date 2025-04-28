@@ -1,15 +1,14 @@
 ---
-title: As cores das memórias do Homem Sem Medo
+title: A salada que foi a origem do Demolidor no Quadrinhos
 author: Caio Amaro
 layout: post
 permalink: /origem-demolidor/
-description: A Origem do Demolidor
+description: É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Teve picuinha nos créditos das histórias? O personagem é cópia de outros heróis? Afinal, o que foi que aconteceu na origem do homem sem medo? 
 categories:
   - Posts
-excerpt: Organizing media queries with Sass to keep responsive Sass code clean and maintainable.
+excerpt: 7 artistas nas 20 primeiras edições? Picuinha nos créditos? Personagem copiado? Afinal, o que foi que aconteceu?
 tags:  ["Demolidor", "Stan Lee", "Resenha", "Quadrinhos"]
-thumbnail: "/images/demolidor-origem-capa.jpg"
-minithumbnail: "/images/demolidor-origem-minicapa.jpg"
+thumbnail: "/images/demolidor-origem-0.jpg"
 ---
 
 Resenha: Demolidor Amarelo
