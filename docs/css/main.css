@@ -1511,7 +1511,7 @@ svg:hover .starfield__layer {
 }
 @media (max-width: 800px) {
   .post-tag {
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 
@@ -1924,7 +1924,7 @@ svg:hover .starfield__layer {
 }
 .js .theme-toggle {
   display: inline-grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   position: relative;
   z-index: 1;
   transform: skewY(var(--tilt));
