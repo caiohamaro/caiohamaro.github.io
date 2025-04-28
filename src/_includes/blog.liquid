@@ -35,7 +35,7 @@ layout: _base
           <div class="card-wrapper {{ post.data.tags | join: " " }}">
           {% render "components/full-card.liquid"
               , samePage: true
-             , image: post.data.thumbnail
+             , image: post.data.minithumbnail
              , title: post.data.title
              , url: post.data.permalink
              , text: post.data.description
