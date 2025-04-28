@@ -103,7 +103,7 @@
           class="image" 
           style="background-image: url('/images/stanley-sm-300x225.jpg')" 
           
-          href=/about/
+          href=posts/{{ pagination.pageNumber | paginate_better }}
         > 
       
       </a>
@@ -116,9 +116,9 @@
       <div class="card-content-text">
         <a
           
-          href=/about/
+          href=posts/{{ pagination.pageNumber | paginate_better }}
         >
-          <h2>Sobre Caio Amaro</h2>
+          <h2>Posts</h2>
           <span class="card-reading-time">
             
           </span>
@@ -179,7 +179,7 @@
           class="image" 
           style="background-image: url('/images/stanley-sm-300x225.jpg')" 
           
-          href=posts/{{ pagination.pageNumber | paginate_better }}
+          href=/about/
         > 
       
       </a>
@@ -192,9 +192,9 @@
       <div class="card-content-text">
         <a
           
-          href=posts/{{ pagination.pageNumber | paginate_better }}
+          href=/about/
         >
-          <h2>Posts</h2>
+          <h2>Sobre Caio Amaro</h2>
           <span class="card-reading-time">
             
           </span>

@@ -11,7 +11,7 @@ tags:  ["Demolidor", "Stan Lee", "Resenha", "Quadrinhos"]
 thumbnail: "/images/demolidor-origem-0.jpg"
 ---
 
-Este é o texto de estreia sobre meu projeto de leitura das histórias em quadrinhos do Demolidor! E eu encontrei o tema dele no momento em que comecei a ler <b>Marvel Comics - A História Secreta</b>, de Sean Howe. No livro, conheci mais sobre o Stan Lee real (e não o “bonzinho e genial criador do universo marvel inteiro”, como é vendido no documentário <b>“Stan Lee”</b>, lançado em em 2023 no serviço de streaming da Disney) e muitas dos elementos que envolvem as primeiras edições do nosso herói escarlate adquiriram um <b>novo sentido</b>. 
+Este é o texto de estreia sobre meu projeto de leitura das histórias em quadrinhos do Demolidor! E eu encontrei o tema dele no momento em que comecei a ler **Marvel Comics - A História Secreta**, de Sean Howe. No livro, conheci mais sobre o Stan Lee real (e não o “bonzinho e genial criador do universo marvel inteiro”, como é vendido no documentário **“Stan Lee”**, lançado em em 2023 no serviço de streaming da Disney) e muitas dos elementos que envolvem as primeiras edições do nosso herói escarlate adquiriram um **novo sentido**. 
 
 Resenha: Demolidor Amarelo
 De que forma a parceria Jeph Loeb e Tim Sale buscaria a essência do Homem Sem Medo a fim de trazer algum conforto ao dono de uma das histórias mais dramáticas do Universo Marvel?
