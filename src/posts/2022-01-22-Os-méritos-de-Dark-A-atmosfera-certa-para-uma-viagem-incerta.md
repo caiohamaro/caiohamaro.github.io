@@ -9,7 +9,7 @@ categories:
 timeread: 9
 excerpt: Organizing media queries with Sass to keep responsive Sass code clean and maintainable.
 tags:  ["Dark", "Roteiro", "Série", "Trilha Sonora"]
-thumbnail: "/images/dark-1.jpg"
+thumbnail: "/images/dark-0.jpg"
 ---
 
 **Spoiler abaixo**
