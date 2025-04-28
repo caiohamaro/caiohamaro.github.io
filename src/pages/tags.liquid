@@ -18,7 +18,7 @@ permalink: /tags/{{ tag }}/
     <div class="tags-header">
       <h2>Textos que abordam: {{ tag }}</h2>
     </div>
-      {% for post in collections[ tag ] | reverse %}
+      {% for post in collections[ tag ] reversed  %}
         <div class="card-wrapper {{ post.data.tags | join: " " }}">
           {% render "components/full-card.liquid"
                   , samePage: true
