@@ -1,5 +1,5 @@
 ---
-title: Os méritos de “Dark” A atmosfera certa para uma viagem incerta. Os méritos de “Dark” A atmosfera certa para uma viagem incerta 
+title: Os méritos de “Dark” A atmosfera certa para uma viagem incerta.
 author: Caio Amaro
 layout: post
 permalink: /sass/rwd-sass-media-queries12/
@@ -7,7 +7,7 @@ description: Os méritos de “Dark” A atmosfera certa  de “Dark” A atmosf
 categories:
   - Posts
 timeread: 9
-excerpt: Organizing media queries with Sass to keep responsive Sass code clean and maintainable.
+excerpt: Os méritos de “Dark” A atmosfera certa  de “Dark” A atmosfera c de “Dark” A atmosfera c  de “Dark” A atmosfera c  de “Dark” A atmosfera cpara uma viagem incerta. Os méritos de “Dark” A atmosfera certa  de “Dark” A atmosfera c de “Dark” A atmosfera c  de “Dark” A atmosfera c  de “Dark” A atmosfera cpar
 tags:  ["Dark", "Roteiro", "Série", "Trilha Sonora"]
 thumbnail: "/images/dark-0.jpg"
 ---
