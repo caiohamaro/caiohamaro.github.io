@@ -3,13 +3,15 @@ title: A salada que foi a origem do Demolidor no Quadrinhos
 author: Caio Amaro
 layout: post
 permalink: /origem-demolidor/
-description: É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Teve picuinha nos créditos das histórias? O personagem é cópia de outros heróis? Afinal, o que foi que aconteceu na origem do homem sem medo? 
+description: Afinal, o que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói?
 categories:
   - Posts
-excerpt: 7 artistas nas 20 primeiras edições? Picuinha nos créditos? Personagem copiado? Afinal, o que foi que aconteceu?
+excerpt: Afinal, o que foi que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói?
 tags:  ["Demolidor", "Stan Lee", "Resenha", "Quadrinhos"]
 thumbnail: "/images/demolidor-origem-0.jpg"
 ---
+
+Este é o texto de estreia sobre meu projeto de leitura das histórias em quadrinhos do Demolidor! E eu encontrei o tema dele no momento em que comecei a ler <b>Marvel Comics - A História Secreta</b>, de Sean Howe. No livro, conheci mais sobre o Stan Lee real (e não o “bonzinho e genial criador do universo marvel inteiro”, como é vendido no documentário <b>“Stan Lee”</b>, lançado em em 2023 no serviço de streaming da Disney) e muitas dos elementos que envolvem as primeiras edições do nosso herói escarlate adquiriram um <b>novo sentido</b>. 
 
 Resenha: Demolidor Amarelo
 De que forma a parceria Jeph Loeb e Tim Sale buscaria a essência do Homem Sem Medo a fim de trazer algum conforto ao dono de uma das histórias mais dramáticas do Universo Marvel?
