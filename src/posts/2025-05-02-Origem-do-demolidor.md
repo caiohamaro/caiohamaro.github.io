@@ -1,9 +1,9 @@
 ---
-title: A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos.A salada que foi a origem do Demolidor no Quadrinhos A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos
+title: A salada que foi a origem do Demolidor nos Quadrinhos.
 author: Caio Amaro
 layout: post
 permalink: /origem-demolidor/
-description: Afinal, o que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói? Afinal, o que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói? Afinal, o que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói?
+description: Afinal, o que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói?
 categories:
   - Posts
 excerpt: Afinal, o que foi que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói?
