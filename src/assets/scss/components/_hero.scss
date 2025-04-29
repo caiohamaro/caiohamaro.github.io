@@ -245,7 +245,21 @@
     &.filtered {
       display: none;
     }
+    @media (min-width: 1288px) {
+      .card-content-text > a > h2{
+        -webkit-line-clamp: 2;
+        font-size: 44px;
+        max-height: 140px;
+        margin-bottom: 0;
+        margin-top: 8px;
+      }
+      .card-content-text > a > span {
+        font-size: 20px;
+      }
+    }
   }
+
+
 }
 
 //Estilos para tags em Textos/Posts
@@ -268,8 +282,8 @@
 .card-presentation{
   width: 310px;
   height: 588px;
-  margin-top: 12px;
-  margin-bottom: 12px;
+  margin-top: 2px;
+  margin-bottom: 0;
   margin-right: 8px;
   margin-left: 8px;
   position: relative;
@@ -283,7 +297,7 @@
   
   @media (max-width: 800px) {
     width: 100%;
-    height: 340px;
+    height: 300px;
     min-width: var(ss-min-widht);
 
   }
@@ -306,7 +320,7 @@
     background-image: url(/images/card-presentation-vertical.png);
 
     @media (max-width: 1288px) {
-      width: var(--ss-min-width);
+      width: 100%;
       height: var(--ss-default-card-height);
       min-width: var(--ss-min-width);
       background-image: url(/images/card-presentation-horizontal.png);

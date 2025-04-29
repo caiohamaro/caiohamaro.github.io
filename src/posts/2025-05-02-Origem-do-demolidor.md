@@ -1,14 +1,15 @@
 ---
-title: A salada que foi a origem do Demolidor no Quadrinhos
+title: A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos.A salada que foi a origem do Demolidor no Quadrinhos A salada que foi a origem do Demolidor no Quadrinhos. A salada que foi a origem do Demolidor no Quadrinhos
 author: Caio Amaro
 layout: post
 permalink: /origem-demolidor/
-description: Afinal, o que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói?
+description: Afinal, o que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói? Afinal, o que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói? Afinal, o que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói?
 categories:
   - Posts
 excerpt: Afinal, o que foi que aconteceu na origem do homem sem medo? É o primeiro super-herói cego mesmo? Por que 7 desenhistas durante as 20 primeiras edições? Que picuinha foi essa que rolou nos créditos das histórias? Stan lee copiou o nome de outro herói?
 tags:  ["Demolidor", "Stan Lee", "Resenha", "Quadrinhos"]
 thumbnail: "/images/demolidor-origem-0.jpg"
+timeread: 14
 ---
 
 Este é o texto de estreia sobre meu projeto de leitura das histórias em quadrinhos do Demolidor! E eu encontrei o tema dele no momento em que comecei a ler **Marvel Comics - A História Secreta**, de Sean Howe. No livro, conheci mais sobre o Stan Lee real (e não o “bonzinho e genial criador do universo marvel inteiro”, como é vendido no documentário **“Stan Lee”**, lançado em em 2023 no serviço de streaming da Disney) e muitas dos elementos que envolvem as primeiras edições do nosso herói escarlate adquiriram um **novo sentido**. 
