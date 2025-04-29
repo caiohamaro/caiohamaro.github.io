@@ -117,7 +117,6 @@
       margin: 0;
       font-weight: 600;
       font-size: 24px;
-      
 
       @media (max-width: 1288px) and (min-width: 800px) {
         font-size: 28px;
@@ -125,7 +124,7 @@
     }
 
     h2 {
-      margin-top: 16px;
+      margin-top: 10px;
       margin-bottom: 8px;
       overflow: hidden;
       max-height: 116px;
@@ -156,7 +155,7 @@
       font-family: var(--ff-body);
       font-size: 16px;
       /*max-height: 128px*/
-      margin-top: 16px;
+      margin-top: 8px;
 
       @media (max-width: 1288px) and (min-width: 800px) {
         font-size: 20px;
@@ -175,7 +174,7 @@
 
   }
   .card-reading-time{
-    font-size: 12px;
+    font-size: 14px;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 1;
