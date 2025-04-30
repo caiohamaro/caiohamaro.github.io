@@ -14,51 +14,55 @@ timeread: 14
 
 Este é o texto de estreia sobre meu projeto de leitura das histórias em quadrinhos do Demolidor! E eu encontrei o tema dele no momento em que comecei a ler **Marvel Comics - A História Secreta**, de Sean Howe. No livro, conheci mais sobre o Stan Lee real (e não o “bonzinho e genial criador do universo marvel inteiro”, como é vendido no documentário **“Stan Lee”**, lançado em em 2023 no serviço de streaming da Disney) e muitas dos elementos que envolvem as primeiras edições do nosso herói escarlate adquiriram um **novo sentido**. 
 
-Resenha: Demolidor Amarelo
-De que forma a parceria Jeph Loeb e Tim Sale buscaria a essência do Homem Sem Medo a fim de trazer algum conforto ao dono de uma das histórias mais dramáticas do Universo Marvel?
 
-A história Demolidor Amarelo, lançada pela Panini Comics no Brasil em 3 volumes, de julho a agosto de 2002, contando com as edições 1 a 6 de Daredevil: Yellow de 2001, deu início à uma série de trabalhos da dupla, a exemplo de Spider-man: Blue (2002), Hulk: Gray (2003) e Captain America: White (2008).
+## Origem nem um pouco original
 
-{% render "components/image" 
-img-url: "/images/demolidoramarelo-1.jpg"
-img-description: "Jack Murdock com roupas sociais andando pelas ruas de nova york ao lado de Matt Murdock criança feliz e carregando livros. Capa Daredevil: Yellow vol. 1 #01. Fonte: marvel.wikia"  
-%}
-
-**Spoilers!**
-A narrativa baseia-se nos eventos posteriores ao arco O Diabo da Guarda (The Guardian Devil, 1998) de Kevin Smith e Joe Quesada, onde o vilão Mercenário assassina Karen Page, o amor da vida de Matt. Para lidar com este trauma, o Demolidor perambula pelos prédio da Cozinha do Inferno a esmo enquanto escreve uma carta à sua falecida amante, sendo esta narração que conduz a história. Suas recordações são referentes à quando iniciou sua carreira de advogado e vigilante, marcadas pela figura de seu pai, presente mesmo após sua morte e o surgimento de paixão por Karen.
-
-O roteiro altera a origem do personagem, que foi restabelecida por Frank Miller e John Romitta em 1993. Diante disto, a principal mudança é Jack “Batalhador” Murdock, seu pai, ser morto quando Matt já estava na faculdade de Direito, assim, a acensão do Demolidor reflete diretamente na sua procura por vingança.
-
-Seu uniforme amarelo é o roupão de boxe do falecido Jack e isso diz muito sobre como sua carreira heroica inicia. Na sua relação com o pai e nos ensinamentos que dele recebeu estão os pontos altos da história, pois Loeb e Sale ressaltam como cada recordação justifica as atitudes do Homem sem medo e a forma com que ele lida com as situações, mesmo que certas frases e bordões sejam clichês.
-
-Grande parte da beleza da narrativa estão nas cores de Matt Hollingsworth e nos traços autorais de Tim Sale. Colorização e desenho inferem diretamente na proposta da obra e engradecem muito a história, ambientando uma época antiga do Universo Marvel.
+O ano era 1964 e o que hoje conhecemos como universo marvel já estava bem estruturado na editora que voltava a ter números expressivos de vendas que não obtinha desde a segunda guerra mundial. Por 3 anos, Stan Lee, Jack Kirby, Steve Dikto e Don Heck já haviam dado vida ao Quarteto Fantástico, Hulk, Homem-aranha, Thor, Homem de Ferro, Doutor Estranho e até aos Vingadores. Porém a busca em aumentar o portfólio continuava, principalmente replicando a **“fórmula marvel”** que a diferenciava da principal concorrente (DC Comics) e vinha funcionando muito bem até então: Heróis mais humanos, com falhas/fraquezas que os caracterizam e com poderes que conseguiram de forma não intencional.
 
 {% render "components/quote" 
-quote: "Naqueles tempos, os vilões falavam demais. Eles não largavam mulheres inocentes sobre poças de sangue… eu acho. Quer dizer, nunca pensei no assunto… mas os fantasiados não costumavam matar ninguém" 
+quote: "Nós já tínhamos criado vários super-heróis antes do Demolidor, e [...] todos tinham limitações. E eu estava tentando pensar: Bem, os leitores parecem gostar de personagens que tem limitações. E qual é a maior limitação que você pode dar a alguém? E bem, qualquer um que consiga transformar um cego em um super-herói está chegando a algum lugar. E então me lembrei de que havia alguns filmes sobre um detetive cego [...] ele era um cara corpulento e tinha um cachorro branco e uma bengala. E era fascinante, esse cara que era cego e, ao mesmo tempo, detetive. Claro, naquela época, não havia a ação ou a violência que esses filmes têm hoje. Era mais cerebral. Mas ainda assim eu pensei: ok, de certa forma, isso já foi feito antes." 
+author: "(Stan Lee, 1976)" 
 %}
 
-A contextualização dos momentos recordados é um grande diferencial, seja nas inúmeras menções ao Homem-aranha, à participação do Quarteto Fantástico como primeiro cliente da Nelson & Murdock e na reação das pessoas às aparições do novo herói da Cozinha do Inferno.
+Embora, já à época. Stan Lee contasse sua inspiração para o super-herói, algumas declarações posteriores, ressaltando a originalidade do personagem, **já não são tão honestas assim**: 
 
-
-{% render "components/image" 
-img-url: "/images/demolidoramarelo-2.jpg"
-img-description: " Matt Murdock caminhando de mão dadas com Karen Page com a cidade de Nova York ao fundo em tons avermelhados. Capa Daredevil: Yellow vol. 1 #06. Fonte: marvel.wikia"  
+{% render "components/quote" 
+quote: "O bom e velho Matt Murdock foi o primeiro e, até onde sabemos, ainda é o único herói cego nos anais dos quadrinhos."
+author: "(Stan Lee, 1991)" 
 %}
 
-O foco muda quando Karen é apresentada, ela que é a motivação da história também é um dos aspectos negativos. O roteiro a trata de uma forma secundária, sem identidade, cumprindo dois esteriótipos: o de secretária ingênua e o de donzela em perigo deslumbrada pelo herói.
-
-Os próprios personagens a tratam de forma machista, mesmo não tendo nenhuma relação com ela, senão a profissional, Foggy sente-se seguro em pedi-la em casamento e posteriormente desiste e a “concede” a Matt, isto encontra fundamentação na ingenuidade característica de Foggy, mas falta uma reprovação por parte de Matt.
+Isto porque já havia um super-herói cego nos quadrinhos: o **Doutor Meia-noite**, que estreara em 1941 (22 anos antes) na revista All-American Comics n° 25, da editora que viria a ser a distinta concorrente DC Comics.
 
 {% render "components/image" 
-img-url: "/images/demolidoramarelo-3.jpg"
-img-description: " Matt Murdock em pé em um tribunal, com Foggy sentado ao seu lado, ambos de frente para o juiz e na janela atrás deles a figura do Demolidor em tons de azul acima da cidade. Capa Daredevil: Yellow vol. 1 #04. Fonte: marvel.wikia"  
-%}
-
-Quanto ao super-herói, suas motivações egoístas não são substituídas ao longo da história, ele passa de vingador de seu pai à salvador de Karen, faltando-lhe a preocupação social principalmente pelo bairro onde cresceu. Também é ignorado seu lado cristão, não sendo apresentado em nenhum momento alguma referência à sua fé ou ao conforto que ele encontra na religião.
-
-Jeph Loeb e Tim Sale conseguem retratar memórias nas páginas desta história em quadrinhos. Estas recordações não fazem quem as vive se apaixonar por Karen Page, nem acreditar no amor de Matt, porém são responsáveis por transportar com excelência o leitor ao início da carreira de um herói amargurado, um tempo em que o mundo era diferente, e o Demolidor ainda não era vermelho.
-
-{% render "components/image" 
-img-url: "/images/demolidoramarelo-4.jpg"
+img-url: "/images/demolidor-origem-1.jpg"
 img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"  
 %}
+
+Apesar disso, a Lee declarou que se inspirara no **Capitão Duncan Maclain**, detetive cego que fora adaptado dos romances de Baynard Kendrick para as os cinemas a partir de 1937. Bom, declarações à parte, o personagem ainda é bastante diferente do detetive das telas e também do Doutor Meia-Noite (que conseguia enxergar no escuro): o herói **“Daredevil”** (“Demônio Desafiador” em tradução literal, oficialmente adaptado no Brasil para Demolidor), além de ter uma deficiência física, é um acrobata que combate o crime com uma bengala! **Não havia como já existir um personagem assim, não é mesmo?**
+
+{% render "components/quote" 
+quote: "Quanto ao nome Daredevil, sinto muito em dizer que não foi uma ideia original; já havia um personagem chamado Daredevil publicado milhões de anos atrás pela Lev Gleason Publications. Basicamente, esse Daredevil era apenas acrobático. Ele tinha um traje engraçado, metade de uma cor, metade de outra, feito verticalmente. Eu gostei do nome, achei que seria um ótimo nome para um cara cego; ninguém suspeitaria jamais que ele fosse cego e por aí vai. Era um bom nome e agora estava em domínio público. Já haviam se passado tantos anos desde que foi publicado e aquela empresa já não estava mais em funcionamento."
+author: "(Stan Lee, 1976)" 
+%}
+
+Acontece que esse personagem citado pelo próprio Lee (publicado em 1940 na Silver Streak Comics nº 6) **não só se chamava Daredevil, como era um justiceiro acrobata de colã que usava uma arma similar (um bumerangue) e também era uma pessoa com deficiência: ele não falava.**
+
+{% render "components/image" 
+img-url: "/images/demolidor-origem-2.jpg"
+img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"  
+%}
+
+{% render "components/quote" 
+quote: "Agora, eu tenho uma memória ruim e pode ser que tenha acontecido de uma maneira um pouco diferente do que eu disse [...] De qualquer forma, acho que sempre gostei do nome Daredevil e quando descobri que estava disponível, quis usá-lo. Mas como não gosto de copiar (e não gosto de sentir que a Marvel copia algo) [...] Eu queria torná-lo o mais diferente possível do personagem original do Daredevil. Mudamos o traje do DD, mudamos sua origem. [...] queríamos que ele fosse 180 graus diferente; e acho que isso teve muito a ver com o motivo de ele ser cego, de ser advogado e de ser muito sério. O Daredevil original, pelo que me lembro, tinha muito humor."
+author: "(Stan Lee, 1976)" 
+%}
+
+Apesar da afirmação de Lee, tanto Matt Murdock quanto seu alter-ego são muito bem humorados (característica que perdurou por centenas de edições e era compartilhada por muitos outros heróis). Tudo isso contribuiu para o desafio de tentar replicar o sucesso do Homem-aranha, utilizando essa essência de herói urbano acrobático e piadista, mas estabelecendo novos elementos que o diferenciasse o suficiente:
+
+{% render "components/quote" 
+quote: "O conceito do novo Demolidor não tinha nada de extraordinário: Matt Murdock, estudante esforçado e filho de um boxeador [...] salva um cego de um caminhão de entregas dos Laboratórios Atômicos e é cegado por um cilindro radioativo. Como ele vivia no Universo Marvel, a radiação também aguçou seus outros sentidos, que vêm bem em conta quando ele precisa vingar o assassinato do pai. Murdock cresce e vira advogado, satisfazendo o gancho de Lee para “a justiça é cega” e dando ao Demolidor acesso fácil às ocorrências criminosas."
+author: "(Sean Howe, 2013)" 
+%}
+
+
+
