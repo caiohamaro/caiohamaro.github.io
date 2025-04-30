@@ -64,5 +64,10 @@ quote: "O conceito do novo Demolidor não tinha nada de extraordinário: Matt Mu
 author: "(Sean Howe, 2013)" 
 %}
 
+{% render "components/image" 
+img-url: "/images/demolidor-origem-3.jpg"
+img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"  
+%}
+
 
 
