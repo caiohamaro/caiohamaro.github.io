@@ -1390,6 +1390,14 @@ svg:hover .starfield__layer {
   margin-top: 12px;
 }
 
+.vertical > img {
+  max-width: 450px;
+}
+
+.horizontal > img {
+  max-height: 500px;
+}
+
 .img-inside > p {
   width: 100%;
   text-align: center;
