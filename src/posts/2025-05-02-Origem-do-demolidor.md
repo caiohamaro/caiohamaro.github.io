@@ -170,7 +170,7 @@ author: "(Gene Colan, 2008)"
 O editor da Marvel Marv Wolfman traz alguns fatores que poderiam ter contribuído para o personagem não ser tão popular como os outros, um deles é o elenco de apoio:
 
 {% render "components/quote" 
-quote: "Foggy e Matt, por exemplo: o relacionamento deles mudava a cada poucas edições; em um momento o Matt não gostava do Foggy, no outro um tinha ciúmes do outro; o Foggy, em uma edição, dizia algo como "Ele tem o mundo nas mãos, se apenas quisesse aproveitá-lo” e na edição seguinte falava sobre como o Matt era insensível. Em uma edição o Matt era frio, na seguinte já não era mais. Então, minha impressão é que faltava consistência nos personagens; era mais como escrever o que fosse conveniente para a história."
+quote: "Foggy e Matt, por exemplo: o relacionamento deles mudava a cada poucas edições; em um momento o Matt não gostava do Foggy, no outro um tinha ciúmes do outro; o Foggy, em uma edição, dizia algo como “Ele tem o mundo nas mãos, se apenas quisesse aproveitá-lo” e na edição seguinte falava sobre como o Matt era insensível. Em uma edição o Matt era frio, na seguinte já não era mais. Então, minha impressão é que faltava consistência nos personagens; era mais como escrever o que fosse conveniente para a história."
 author: "(Marv Wolfman, 1976)" 
 %}
 
