@@ -34,7 +34,7 @@ Uma declaração que não soa muito honesta, pois já havia um super-herói cego
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-1.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"
+img-description: "Página da história que apresenta a origem do Doutor Meia-Noite. Ela mostra um herói de bota, capa e capuz pulando entre prédios durante a noite. Seu capuz deixa a boca e queixo a mostra e ele usa óculos, parecidos com de natação."
 format: "vertical"  
 %}
 
@@ -49,7 +49,7 @@ Acontece que esse personagem citado (publicado em 1940 na Silver Streak Comics n
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-2.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"
+img-description: "Capa da edição nº 7 de Silver Streak Comics, com o título “Daredevil battles The Claw” mostrando um monstro com dentes afiados e longas unhas confrontando o herói Daredevil com um colã metade vermelho, metade preto, um cinto com espinhos e segurando um bumerangue."
 format: "vertical" 
 %}
 
@@ -69,7 +69,7 @@ Ele funda o escritório Nelson & Murdock junto com seu melhor amigo de faculdade
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-3.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"  
+img-description: "Trecho da primeira história do Demolidor, os campangas derrotados falando “tá bem moço... cansamos! agora, quem é você e o que quer?” e “Não é possível! Ninguém pode lutar assim! Deve ser um truque de espelhos”, enquanto o Demolidor está em pé confiante, com seu uniforme amarelo original e diz “Agora que acabou a brincadeira, vou ficar por aqui até o arranjaddor chegar! Quanto a quem sou, podem me chamad apenas de... Demolidor”"  
 %}
 
 ## A dança das cadeiras de desenhistas
@@ -78,7 +78,7 @@ A primeira edição foi lançada em abril de 1964 contando a origem trágica do 
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-4.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"  
+img-description: "Capa da primeira edição de Demolidor, com a logo “Here comes... Daredevil, The Man Without Fear” e uma ilustração do demolidor sorridente em seu uniforme amarelo. Há o texto “Remember when we introduced... Spider-man” seguido do desenho do homem-aranha e o texto “Now we continue the mighty Marvel tradicion with... Daredevil!!”. Também há uma pequena ilustração dos membros do quarteto e de Matt Murdock, Karen Page e Foggy Nelson e a capa encerra com os dizeres “Can you guess why Daredevil is different from all other crime-fighters...?”"  
 %}
 
 Porém, o que estava por trás dessa bagunça? Afinal, Bill Everet já tinha uma extensa carreira nos quadrinhos e havia criado Namor, o príncipe submarino, 25 anos antes. A particularidade é que Stan Lee, para dar conta da grande produção e manter o controle criativo sobre as tramas, utilizava uma metodologia que ficou conhecida como “Método Marvel”: ele repassava (pessoalmente ou por telefone) o que deveria acontecer na história e cabia ao desenhista criar 20 páginas com esse enredo. Depois ele recebia as folhas finalizadas e criava os textos, recordatórios e balões de fala.
@@ -115,7 +115,7 @@ Lee contribuia significativamente para pesar o clima na Marvel, vide a capa da e
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-5.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia" 
+img-description: "Capa da edição nº 5 de Demolidor, com o Demolidor agaixado com as mãos nos ouvidos enquanto o vilão “Matador” está de pé com sua roupa de toureiro e o texto destacado “Under the brilliant artistic craftsmanship of famous illustrator Wally Wood, Daredevil reaches new heights of glory!” " 
 format: "vertical" 
 %}
 
@@ -123,13 +123,13 @@ Não demorou muito para o próprio Wally Wood ficar insatisfeito. Principalmente
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-6.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"
+img-description: "Primeira página da edição nº 10 de Demolidor com quatro vilões animalescos reunidos ao lado da imagem do vilão Organizador e a sombra do Demolidor projetada no chão. No início da página está o texto: Duas grandes surpresas o aguardam nesta edição incomum! Primeira: este é o primeiro mistério de verdade do Demolidor, completo, com um zilhão de suspeitos, incontáveis pistas e reviravoltas desconcertantes. Segunda: Wally Wood sempre quis tentar escrever uma história além de desenhála, e o coração mole do Stan (que já queria descansar mesmo) aprovou! Então o que vem a seguir é uma incógnita! Você pode gostar ou não, mas esteja certo disto... será diferente!"
 format: "vertical"   
 %}
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-7.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"  
+img-description: "Trecho final da edição nº 10 de Demolidor, mostrando o recordatório do último quadro da página: “Agora que o Wally matou a vontade de escrever, deixou pro coirtado do Stan temrinar a próxima edição! Nosso líder vai conseguir? Esse é o verdadeiro mistério! Porém, enquanto você espera, veja se consegue encontrar a pista que deixamos mostrando quem é o organizador! Vai estar em pratos limps na próxima edião, quando o Stan encerrar tudo! Nos vemos lá!”"  
 %}
 
 Wood foi substituído por Bob Powell logo no número seguinte, ficando a cargo apenas da arte-final, e depois foi a vez da estreia do jovem John Romita, que Stan convenceu a voltar a trabalhar na Marvel (mesmo após ser demitido pelo próprio em 1957). Romita desenhou da edição 12 à 21, que incluíam dois crossovers do Demolidor, um com o famoso Homem-aranha e outro com o Kazar.
@@ -152,7 +152,7 @@ Uma das mudanças mais notáveis no personagem foi a cor e design do uniforme na
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-8.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"  
+img-description: "Capa da edição nº 7 de Demolidor com o herói lutando com Namor embaixo d'água. O enquadramento dá um grande destaque ao novo visual do Demolidor, com seu uniforme vermelho com fortes sombreamentos em preto."  
 format: "vertical" 
 %}
 
@@ -163,7 +163,7 @@ author: "(Stan Lee, 2003)"
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-9.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia"  
+img-description: "Trecho da edição nº 10 de Demolidor, com o personagem colocando seu uniforme e pensando “Trabalhei em segredo por meses para redesenhar meu traje de combate... Torná-lo mais confortável... Inconfundível! Mas nunca esperei usá-lo contra um oponentes tão fantástico!”"  
 %}
 
 A verdade é que, apesar do esforço editorial, a revista nunca vendeu tão bem como outras do catálogo e, sendo uma mídia que não dispunha de renda provinda de publicidade, diversas decisões se baseavam na recepção direta do público.
@@ -196,7 +196,7 @@ author: "(Marv Wolfman, 1976)"
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-10.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia" 
+img-description: "Cada da edição nº 12 de Demolidor com o personagem quase caindo, sendo subjugado pelo vilão Gladiador, que aperta a mão esquerda do herói com força. Gladiador usa um colã amarelo e verde, possui um elmo que esconde sua identidade e possui luvas com lâminas giratórias que ficam acima de seus pulsos." 
 format: "vertical"  
 %}
 
@@ -217,7 +217,7 @@ author: "(Stan Lee, 2003)"
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-11.jpg"
-img-description: "Fachada de um prédio com a placa ‘Nelson & Murdock atorneys at law’ e no céu ao fundo o rosto do demolidor em tons de amarelo. Capa Daredevil: Yellow vol. 1 #03. Fonte: marvel.wikia" 
+img-description: "Cada da edição 21 de Demolidor, com o herói se segurando em uma máquina em formato de coruja gigante voadora. Controlando a máquina está o vilão Corujam com seu sobretudo esvoaçante verde e cabelos grisalhos pisando na mão do Demolidor. Ao fundo há um vulcão em erupção." 
 format: "vertical" 
 %}
 
