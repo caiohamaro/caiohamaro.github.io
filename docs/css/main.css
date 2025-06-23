@@ -138,6 +138,8 @@ table {
 :root {
   --color-text: black;
   --color-text-alt: black;
+  --color-text-quote-mark:#8c0e48;
+  --color-text-quote:gray;
   --color-link: #black;
   --color-link-alt: #556A73;
   --color-link-header-alt: black;
@@ -1326,6 +1328,7 @@ svg:hover .starfield__layer {
 
 .quote-quotation-mark > label {
   font-size: 32px;
+  color: var(--color-text-quote-mark);
 }
 
 .quote-text {
@@ -1337,6 +1340,7 @@ svg:hover .starfield__layer {
   padding-left: 50px;
   padding-right: 50px;
   margin: 0;
+  color: var(--color-text-quote);
 }
 @media (max-width: 800px) {
   .quote-text {
@@ -1350,6 +1354,8 @@ svg:hover .starfield__layer {
   width: 100%;
   text-align: right;
   margin: 0 auto;
+  margin-top: 10px;
+  color: var(--color-text-quote-mark);
 }
 
 .quote-portfolio {
