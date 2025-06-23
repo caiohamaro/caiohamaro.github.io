@@ -75,6 +75,7 @@
 }
 .quote-quotation-mark > label {
   font-size: 32px;
+  color: var(--color-text-quote-mark);
 }
 .quote-text {
   width: 100%;
@@ -85,6 +86,7 @@
   padding-left: 50px;
   padding-right: 50px;
   margin: 0;
+  color: var(--color-text-quote);
   @media (max-width: 800px) {
     font-size: 20px;
     padding-left: 25px;
@@ -96,6 +98,8 @@
   width: 100%;
   text-align: right;
   margin: 0 auto;
+  margin-top: 10px;
+  color: var(--color-text-quote-mark);
 }
 
 //Estilos do componente QUOTE para itens do Portfolio
