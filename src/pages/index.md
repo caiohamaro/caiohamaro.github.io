@@ -1,6 +1,6 @@
 ---
-title: Últimas Publicações!
-author: James
+title: Caio Amaro
+author: Caio Amaro
 layout: blog
 permalink: "{{ pagination.pageNumber | paginate_legacy }}/index.html"
 pagination:
