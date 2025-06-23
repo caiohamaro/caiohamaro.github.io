@@ -3,11 +3,11 @@ title: Narrativa e Trilha Sonora em The Last of Us
 author: Caio Amaro
 layout: post
 permalink: /posts/the-last-of-us-narrativa/
-description: Um dos principais motivos para The Last of Us de 2013 ser um jogo tão bem avaliado e popular é certamente a forma com que sua história é contada. Para além de um jogo com uma temática genérica de apocalipse zumbi, ele tenta se diferenciar trazendo uma linguagem mais próxima do cinema com inspirações em **A Estrada** (The Road, 2009), **Onde os Fracos Não Têm Vez** (No Country for Old Men, 2007) e história é contada. Para além de um jogo com uma temática genérica de apocalipse zumbi, ele tenta se diferenciar trazendo uma linguagem mais próxima do cinema com inspirações em **A Estrada** (The Road, 2009), **Onde os Fracos Não Têm Vez** (No Country for Old Me
+description: Como The Last of Us utiliza a trilha sonora como parte essencial para uma narrativa emocionante. 
 categories:
   - Posts
 timeread: 12
-excerpt: Organizing media queries with Sass to keep responsive Sass code clean and maintainable.
+excerpt: Um dos principais motivos para The Last of Us de 2013 ser um jogo tão bem avaliado e popular é certamente a forma com que sua história é contada. Para além de um jogo com uma temática genérica de apocalipse zumbi, ele tenta se diferenciar trazendo uma linguagem mais próxima do cinema com inspirações em A Estrada (The Road, 2009), Onde os Fracos Não Têm Vez (No Country for Old Men, 2007) e Extermínio (28 days later, 2003), de um projeto que começou com a ideia de um jogo que combinasse a jogabilidade ICO (2001), o clima do quadrinho Sin City (1991) e a ambientação de **A Noite dos Mortos Vivos** (Night of the Living Dead, 1968).
 tags:  ["The Last of us", "Trilha Sonora", "Jogo"]
 thumbnail: "/images/lastofus-0.jpg"
 ---
