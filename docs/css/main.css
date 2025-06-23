@@ -138,8 +138,10 @@ table {
 :root {
   --color-text: black;
   --color-text-alt: black;
+  --color-text-title: #8c0e48;
   --color-text-quote-mark:#8c0e48;
   --color-text-quote:gray;
+  --colot-text-bottom: white;
   --color-link: #black;
   --color-link-alt: #556A73;
   --color-link-header-alt: black;
@@ -152,6 +154,8 @@ table {
   --color-background-card-tag: #8c0e48;
   --color-background-card-presentation:#99822d;
   --color-line: #8c0e48;
+  --color-background-bottom: #8c0e48;
+  --color-background-bottom-button: #99822d;
   --ff-body: "Lora", serif;
   --ff-title: "Yrsa", serif;
   --ff-tag: "Wix Madefor Text", sans-serif;
@@ -331,7 +335,7 @@ h1 {
   --wght: var(--fw-bold);
   font-size: var(--fs-title);
   line-height: var(--lh-title);
-  color: var(--color-text-alt);
+  color: var(--color-text-title);
 }
 
 h2 {
@@ -339,7 +343,7 @@ h2 {
   margin-top: 0.8rem;
   margin-bottom: 0.8rem;
   font-size: 1.5em;
-  color: var(--color-text-alt);
+  color: var(--color-text-title);
 }
 
 h3 {
@@ -347,7 +351,7 @@ h3 {
   margin-top: 3.2rem;
   margin-bottom: 0.8rem;
   font-size: var(--fs-subheading);
-  color: var(--color-text-alt);
+  color: var(--color-text-title);
 }
 
 h4 {
@@ -355,7 +359,7 @@ h4 {
   margin-top: 1.6rem;
   margin-bottom: 0.8rem;
   font-size: var(--fs-subheading);
-  color: var(--color-text-alt);
+  color: var(--color-text-title);
 }
 
 h5 {
@@ -365,7 +369,7 @@ h5 {
   font-size: var(--fs-body);
   letter-spacing: 0.0625em;
   text-transform: uppercase;
-  color: var(--color-text-alt);
+  color: var(--color-text-title);
 }
 
 h1,
@@ -1028,8 +1032,8 @@ svg:hover .starfield__layer {
   height: 100%;
   position: relative;
   z-index: 1;
-  color: var(--color-text-light);
-  background-color: var(--color-background-dark);
+  color: var(--colot-text-bottom);
+  background-color: var(--color-background-bottom);
   margin-top: 12px;
 }
 .site-footer::before {
@@ -2097,11 +2101,11 @@ svg:hover .starfield__layer {
 
 .nl-button-bt {
   box-sizing: border-box;
-  border: 2px solid rgb(140, 14, 72);
+  border: 2px solid var(--color-background-bottom);
   color: white;
   font-family: Lora;
   margin: 0px;
-  background-color: rgb(140, 14, 72);
+  background-color: var(--color-background-bottom-button);
   font-weight: 300;
   font-size: 1rem;
   line-height: 1.5rem;

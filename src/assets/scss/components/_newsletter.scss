@@ -71,11 +71,11 @@
 }
 .nl-button-bt{
   box-sizing: border-box;
-  border: 2px solid rgb(140, 14, 72);
+  border: 2px solid var(--color-background-bottom);
   color: white;
   font-family: Lora;
   margin: 0px;
-  background-color:  rgb(140, 14, 72);
+  background-color:  var(--color-background-bottom-button);
   font-weight: 300;
   font-size: 1rem;
   line-height: 1.5rem;
