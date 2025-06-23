@@ -84,7 +84,7 @@ img-alt: "Trecho da primeira história do Demolidor, os capangas derrotados fala
 
 Com todas essas “inspirações” declaradas e escondidas, junto da missão ingrata de ser o novo Homem-aranha da Marvel, o personagem só estreou oficialmente em abril de 1964. E não foi um processo tranquilo de publicação: a edição demorou muito mais do que o planejado para chegar às bancas e precisou de quatro artistas para ficar finalmente pronta! **E isso é apenas o início da dança das cadeiras que foi o cargo de desenhista dos próximos 20 números da revista!** Mas isso é assunto para o próximo texto!
 
-**Referências Bibliográficas**
+### Referências Bibliográficas
 
 - Edições 01 a 21 de Demolidor, presentes no Encadernado Demolidor: Edição Definitiva vol. 1, 2023
 - Entrevista “A Talk with the men behind the man without fear… some of them, anyway”  (1976) com - Stan Lee e Marv Wolman, por Chris Clareament.

@@ -45,7 +45,7 @@ h1 {
 
   font-size: var(--fs-title);
   line-height: var(--lh-title);
-  color: var(--color-text-alt);
+  color: var(--color-text-title);
 }
 
 h2 {
@@ -54,7 +54,7 @@ h2 {
   margin-top:  $small-spacing;
   margin-bottom: $small-spacing;
   font-size: 1.5em/*var(--fs-heading)*/;
-  color: var(--color-text-alt);
+  color: var(--color-text-title);
 }
 
 h3 {
@@ -63,7 +63,7 @@ h3 {
   margin-top: $large-spacing;
   margin-bottom: $small-spacing;
   font-size: var(--fs-subheading);
-  color: var(--color-text-alt);
+  color: var(--color-text-title);
 }
 
 h4 {
@@ -72,7 +72,7 @@ h4 {
   margin-top: $base-spacing;
   margin-bottom: $small-spacing;
   font-size: var(--fs-subheading);
-  color: var(--color-text-alt);
+  color: var(--color-text-title);
 }
 
 h5 {
@@ -83,7 +83,7 @@ h5 {
   font-size: var(--fs-body);
   letter-spacing: math.div(1em, 16);
   text-transform: uppercase;
-  color: var(--color-text-alt);
+  color: var(--color-text-title);
 }
 
 h1,
