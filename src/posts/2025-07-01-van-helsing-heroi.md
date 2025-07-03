@@ -1,5 +1,5 @@
 ---
-title: Van Helsing&#58; De professor multifunção à herói de ação preso em uma rivalidade eterna
+title: Van Helsing&#58; De professor multifunção à herói de ação (preso em uma rivalidade eterna)
 author: Caio Amaro
 layout: post
 permalink: /posts/van-helsing-heroi/
