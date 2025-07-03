@@ -136,8 +136,8 @@ table {
 
 /*color.mix($color-yellow, $color-white, 33%);*/
 :root {
-  --color-text: black;
-  --color-text-alt: black;
+  --color-text: #363737;
+  --color-text-alt: #363737;
   --color-text-title: #8c0e48;
   --color-text-quote-mark:#8c0e48;
   --color-text-quote:gray;
@@ -148,9 +148,9 @@ table {
   --color-link-header:black;
   --color-link-post-tag: black;
   --color-card-tag-text: white;
-  --color-background-header: white;
-  --color-background-page: white;
-  --color-background-card: white;
+  --color-background-header: #fff7ed;
+  --color-background-page: #fff7ed;
+  --color-background-card: #fff7ed;
   --color-background-card-tag: #8c0e48;
   --color-background-card-presentation:#99822d;
   --color-line: #8c0e48;
@@ -282,7 +282,7 @@ table {
     }*/
 }
 :root [data-theme=dark] {
-  --color-text: white;
+  --color-text: #fff7ed;
   --color-text-alt: white;
   --color-link: white;
   --color-link-alt: #556A73;
@@ -290,9 +290,9 @@ table {
   --color-link-header:white;
   --color-link-post-tag: white;
   --color-card-tag-text: white;
-  --color-background-header: black;
-  --color-background-page: black;
-  --color-background-card: black;
+  --color-background-header: #14181c;
+  --color-background-page: #14181c;
+  --color-background-card: #14181c;
   --color-background-card-tag: #8c0e48;
   --color-background-card-presentation:#99822d;
 }
