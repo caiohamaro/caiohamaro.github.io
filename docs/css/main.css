@@ -2041,10 +2041,10 @@ svg:hover .starfield__layer {
 
 .formkit-form {
   border: 0 !important;
-  max-width: 1000px !important;
+  max-width: 100% !important;
   position: relative;
   overflow: hidden;
-  padding: 20px;
+  padding: 20px !important;
 }
 
 .seva-fields {
@@ -2055,7 +2055,11 @@ svg:hover .starfield__layer {
 }
 
 .formkit-form .formkit-fields {
-  flex-wrap: nowrap !important;
+  /* flex-wrap: nowrap!important;*/
+}
+
+.formkit-form .formkit-field {
+  min-width: 216px !important;
 }
 
 .formkit-field {
