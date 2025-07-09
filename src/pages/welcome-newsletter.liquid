@@ -1,0 +1,53 @@
+---
+title: Sobre Caio Amaro
+author: Caio Amaro
+layout: page
+permalink: /welcome-newsletter/
+menu_order: 40
+menu_title: 
+---
+
+{% include "partials/_hero" %}
+
+<div class="l-grid l-grid-wide">
+    <ul class="posts-archive list-content post-list">
+        <div class="card-about">
+            <a 
+                class="image" 
+                style="background-image: url('/images/about-me.jpg')" 
+                {% unless samePage %}
+                target="_blank"
+                {% endunless %}
+                href={{ url | replace: ".html", "" }}
+            ></a> 
+            <div class="card-content">
+            <div class="caio">
+                <h2>Muito obrigado por se inscrever!</h2>
+                <span class="content-description">
+                Caso queira me acompanhar nas redes sociais, é só clicar no link abaixo!
+                </span>
+                <div class="about-links">
+                    <p>
+                    <a href="https://bsky.app/profile/{{ site.blueskyusername }}.bsky.social" rel="me">
+                    <span class="icon icon--github">
+                    {% include "images/icon-bluesky" %}
+                    </span>
+                    <span class="">No Bluesky eu sou o </span>
+                    <span class="">{{ site.blueskyusername }}</span>
+                    </a>
+                    <p>
+                    <a href="mailto:someone@example.com" rel="me">
+                    <span class="icon icon--github">
+                    {% include "images/icon-email" %}
+                    </span>
+                    <span class="">Me mande um e-mail via: </span>
+                    <span class="">{{ site.email }}</span>
+                    </a>
+                </div.
+            </div>
+            </div>
+        </div>
+    </ul>
+</div>
+
+  
