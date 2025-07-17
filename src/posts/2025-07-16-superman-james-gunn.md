@@ -9,7 +9,7 @@ categories:
 excerpt: Confesso que eu tinha a ideia desse texto já há algum tempo, mas a sua existência dependia diretamente do novo filme do Superman ser minimamente bom (e claro, do meu site finalmente estar no ar)! Então, se você está aqui, é pressuposto que adorei o longa-metragem, portanto falta explicar o que o _hype_ tem a ver com isso!
 tags:  ["Superman", "James Gunn", "Filmes","DC"]
 thumbnail: "/images/superman-gunn-00.jpg"
-timeread: 13
+timeread: 11
 ---
 
 **Spoilers abaixo sobre Superman**
@@ -38,7 +38,7 @@ img-description: "Set de filmagens de O Esquadrão Suicida (2021)."
 img-alt: "Foto do set de O Esquadrão Suicida (2021) mostrando os atores caracterizados e sujos ao lado de James Gunn. Da esquerda para a direita: A caçadora de ratos (Daniela Melchior), Arlequina (Margot Robbie), Bolinha (David Dastmalchian), James Gunn e Sanguinário (Idris Elba)."
 %}
 
-A Marvel Studios voltou atrás e o chamou para encerrar a sua trilogia dos **Guardiões da Galáxia**, onde também pode escrever e dirigir uma obra mais focada nas conclusões de arcos de seus próprios personagens. Sem nenhuma obrigação de ligação direta com a continuidade do MCU (Universo Cinematográfico Marvel) em uma fase em que cada nova série ou filme parece precisar estabelecer alguma uma promessa ou fazer alguma conexão. Guardiões da **_Galáxia Vol. 3_** foi uma emocionante conclusão para a família de heróis que se tornaram famosos pelas mãos do próprio diretor (também é responsável pela transferência da relevância da equipe para as HQs, que, até hoje não tiveram nenhuma história que chegasse perto da qualidade de qualquer um dos três filmes, mas isso é assunto para outro texto).
+A Marvel Studios voltou atrás e o chamou para encerrar a sua trilogia dos **Guardiões da Galáxia**, onde também pode escrever e dirigir uma obra mais focada nas conclusões de arcos de seus próprios personagens. Sem nenhuma obrigação de ligação direta com a continuidade do MCU (Universo Cinematográfico Marvel) em uma fase em que cada nova série ou filme parece precisar estabelecer uma promessa ou fazer alguma conexão. Guardiões da **_Galáxia Vol. 3_** foi uma emocionante conclusão para a família de heróis que se tornaram famosos pelas mãos do próprio diretor (também é responsável pela transferência da relevância da equipe para as HQs, que, até hoje não tiveram nenhuma história que chegasse perto da qualidade de qualquer um dos três filmes, mas isso é assunto para outro texto).
 
 {% render "components/image" 
 img-url: "/images/superman-gunn-02.jpg"
@@ -117,11 +117,11 @@ De que forma um filme tão importante como **_Superman_** poderia fugir disso?
 
 Na concorrente, o próprio Gunn já havia entregue um filme repleto dessas inserções de fan service barato, já que **_Guardiões da Galáxia Vol. 2_** possui 5 cenas pós-créditos, algumas com prévias de possíveis novas tramas a serem exploradas futuramente como Kraglin com a flecha de Yondu, o casulo de Adam Warlock e os Guardiões da Galáxia originais (liderados por Sylvester Stallone).
 
-E vale comentar que comentar que a série animada **_Comando das Criaturas_** já havia evitado essa armadilha, pois apesar de mostrar as silhuetas de **Superman**, **Batman** e **Mulher-Maravilha**, isso acontece como parte essencial à trama construída nos episódios e não como teaser para algo que está por vir.
+E vale comentar que a série animada **_Comando das Criaturas_** já havia evitado essa armadilha, pois apesar de mostrar as silhuetas de **Superman**, **Batman** e **Mulher-Maravilha**, isso acontece como parte essencial à trama construída nos episódios e não como teaser para algo que está por vir.
 
-Felizmente o **_Superman_** de 2025 (que não carrega mais o subtítulo Legacy com o qual havia sido anunciado) não cai nesse tipo _trope_ recente de filmes de hominho.
+Felizmente o **_Superman_** de 2025 (que não carrega mais o subtítulo Legacy com o qual havia sido anunciado) não cai nesse tipo de _trope_ recente de filmes de _hominho_.
 
-O elefante na sala é a presença da **Gangue da Justiça**, apresentada no longa, sob o constante protesto quanto a oficialidade desta alcunha. Embora o público saiba que é uma prévia à Liga da Justiça, o filme não acaba com o Superman entrando para o time, ou com uma cena pós-créditos deles mudando o nome do grupo. Caso alguma dessas situações ocorresse, a conversa do público não seria sobre o enredo, e sim para uma expectativa do que isso significa para um possível filme da Liga ainda não anunciado. O oposto ocorreu esse ano com **_Thunderbolts*_**, que fez uma campanha de marketing póstuma revelando a reviravolta do filme com equipe tornando-se os **Novos Vingadores**. Toda a discussão deixou de ser sobre o filme e passou para a especulação do que isso significaria para a continuidade do MCU e como isso se relacionaria com o vindouro **_Vingadores: O Juízo Final_**.
+O elefante na sala é a presença da **Gangue da Justiça**, apresentada no longa, sob o constante protesto quanto a oficialidade desta alcunha. Embora o público saiba que é uma prévia à Liga da Justiça, o filme não acaba com o Superman entrando para o time, ou com uma cena pós-créditos deles mudando o nome do grupo. Caso alguma dessas situações ocorresse, a conversa do público não seria sobre o enredo, e sim para uma expectativa do que isso significa para um possível filme da Liga ainda não anunciado. O oposto ocorreu esse ano com **_Thunderbolts*_**, que fez uma campanha de marketing póstuma revelando a reviravolta do filme com a equipe tornando-se os **Novos Vingadores**. Toda a discussão deixou de ser sobre o filme e passou para a especulação do que isso significaria para a continuidade do MCU e como isso se relacionaria com o vindouro **_Vingadores: O Juízo Final_**.
 
 {% render "components/image" 
 img-url: "/images/superman-gunn-06.jpg"
@@ -129,7 +129,7 @@ img-description: "A Gangue da Justiça (Superman, 2025)."
 img-alt: " Cena do filme Superman (2025) mostrando os três integrantes da Gangue da Justiça voando no céu de Metrópolis: Guy Gardner, o lanterna verde, em primeiro plano, com seu penteado loiro em forma de cuia  e segurando o anel em sua mão; a mulher-gavião voando ao fundo e segurando sua maça; e o Senhor Incrível voando sentado em sua cadeira tecnológica.."
 %}
 
-Também ocorreu a primeira aparição de **Supergirl**, uma surpresa que que serviu como complemento à trama do adorável super-cachorro **Krypto**, mas sem a inserção de um gancho para um novo conflito que ficaria em aberto. Não há novidade aqui, é público que seu filme já está em produção e que Milly Alcock era a atriz escalada (assim como Jason Momoa no papel de Lobo). Para ilustrar, em comparação com o que a Marvel faz, lembremos do final de **_Doutor Estranho no Multiverso da Loucura_**, com uma cena pós-crédito com a chegada da maga **Clea**, interpretada por Charlize Theron, chamando **Stephen Strange** para uma nova aventura. Tanto a personagem como a atriz não haviam sido anunciados à época e até hoje não se tem nenhuma notícia de uma possível série ou filme em que ela poderia aparecer novamente. Da mesma forma, outros filmes da Marvel (**_As Marvels_**, **_Homem-Formiga e a Vespa: Quantumania_**) e da antiga DC (**_Adão Negro_**, **_Liga da Justiça_**), também tinham cenas pós-créditos focadas em _hype_ ou _fan service_ que nunca levaram à nada além de teorias e especulações.
+Também ocorreu a primeira aparição de **Supergirl**, uma surpresa que serviu como complemento à trama do adorável super-cachorro **Krypto**, mas sem a inserção de um gancho para um novo conflito que ficaria em aberto. Não há novidade aqui, é público que seu filme já está em produção e que Milly Alcock era a atriz escalada (assim como Jason Momoa no papel de Lobo). Para ilustrar, em comparação com o que a Marvel faz, lembremos do final de **_Doutor Estranho no Multiverso da Loucura_**, com uma cena pós-crédito com a chegada da maga **Clea**, interpretada por Charlize Theron, chamando **Stephen Strange** para uma nova aventura. Tanto a personagem como a atriz não haviam sido anunciados à época e até hoje não se tem nenhuma notícia de uma possível série ou filme em que ela poderia aparecer novamente. Da mesma forma, outros filmes da Marvel (**_As Marvels_**, **_Homem-Formiga e a Vespa: Quantumania_**) e da antiga DC (**_Adão Negro_**, **_Liga da Justiça_**), também tinham cenas pós-créditos focadas em _hype_ ou _fan service_ que nunca levaram à nada além de teorias e especulações.
 
 {% render "components/image" 
 img-url: "/images/superman-gunn-07.jpg"
@@ -137,7 +137,7 @@ img-description: "Krypto levando bronca (Superman, 2025)."
 img-alt: "Cena do filme Superman (2025) mostrando o Superman de pé, discutindo com o cachorro Krypto que está sentado o ouvindo. Ao seu lado há um robô e todos estão em meio aos cristais da morada do Superman, a Fortaleza da Solidão, toda azul e reluzente."
 %}
 
-**_Superman_** de 2025 não tem **Batman** ou **Mulher-Maravilha**, nada que possa tirar o foco do protagonista. Sua conexão com o novo universo se dá, em grande parte, pela participação ínfima de **Rick Flag Sr.** (apresentado em **_Comando das Criaturas_**) com a função estabelecer um contexto político a esse mundo que já é  permeado pela atuação de super-seres há séculos.
+**_Superman_** de 2025 não tem **Batman** ou **Mulher-Maravilha**, nada que possa tirar o foco do protagonista. Sua conexão com o novo universo se dá, em grande parte, pela participação ínfima de **Rick Flag Sr.** (apresentado em **_Comando das Criaturas_**) com a função de estabelecer um contexto político a esse mundo que já é  permeado pela atuação de super-seres há séculos.
 
 Como resultado, o _hype_ criado para o filme basta nele próprio, não há muito o que se especular sobre o universo DC que o próprio Gunn já não tenha anunciado. O marketing ficou restrito às redes sociais, não inserido nas cenas pós-créditos. Se há alguma expectativa para produções futuras, é que mantenham a mesma qualidade alcançada aqui.
 
