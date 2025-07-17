@@ -6,14 +6,14 @@ permalink: /posts/van-helsing-heroi/
 description: Como o idoso professor Van Helsing se tornou um James Bond que luta contra monstros famosos da literatura?
 categories:
   - Posts
-excerpt: A ideia desse texto veio a partir da leitura do livro  “Van Helsing&#58; The Making of the Legend” sobre a produção do filme, mais especificamente sobre a escolha de transformar o personagem primordialmente intelectual do livro Dracula, de 1987, em um herói de ação moderno. E parando para pensar um pouco, essa ideia não é tão transgressora assim, pois essa reformulação já vinha acontecendo há anos, e eu poDsso provar!
+excerpt: A ideia desse texto veio a partir da leitura do livro  “Van Helsing&#58; The Making of the Legend” sobre a produção do filme, mais especificamente sobre a escolha de transformar o personagem primordialmente intelectual do livro Dracula, de 1987, em um herói de ação moderno. E parando para pensar um pouco, essa ideia não é tão transgressora assim, pois essa reformulação já vinha acontecendo há anos, e eu posso provar!
 tags:  ["Drácula", "Van Helsing", "Vampiro","Filmes"]
 thumbnail: "/images/van-helsing-00.jpg"
 timeread: 13
 ---
 
 
-Recentemente participei como convidado do **Podcast Nicolas** (sim, é um podcast sobre a produção artística de Nicolas Cage!), especificamente na série “Locadora do Nicolas”, na qual filmes sem a participação do prestigiado ator também são analisados, e a obra em questão foi **Van Helsing de 2003**!
+Recentemente participei como convidado do [**Podcast Nicolas**](https://iradex.net/21250) (sim, é um podcast sobre a produção artística de Nicolas Cage!), especificamente na série “Locadora do Nicolas”, na qual filmes sem a participação do prestigiado ator também são analisados, e a obra em questão foi **Van Helsing de 2003**!
 
 A ideia desse texto veio à partir da leitura do livro **“Van Helsing: The Making of the Legend”** sobre a produção do filme, mais especificamente sobre a escolha de transformar o personagem intelectual do **livro Drácula, de 1987**, em um herói de ação moderno. **E parando para pensar um pouco, essa ideia não é tão transgressora assim, pois essa reformulação já vinha acontecendo há anos, e eu posso provar!**
 
@@ -216,7 +216,7 @@ O grande desafio de Stoker foi criar alguém que explicasse aos outros personage
 - Filme Van Helsing (2004) dirigido por Stephen Sommers
 - Livro Drácula de Bram Stoker (1897), traduzido por Marcia Heloisa e ilustrado por Samuel Casal. DarkSide Books, 2018.
 - Livro Van Helsgin: The Making of The Legend com textos de Stephen Sommers e editado por Linda Sunshine. Newmarket Press, 2004.
+- Podcast Nicolas: [Locadora do Nicolas. #36 - Van Helsing: O Caçador de Monstros (2004)](https://iradex.net/21250/)
 - Texto A Sombra do Vampiro por Carlos Primati presente no Livro  Drácula de Bram Stoker (1897). DarkSide Books, 2018.
 - Texto Decodifican do Drácu la com Bram Stoker por Marcia Heloisa presente no Livro  Drácula de Bram Stoker (1897). DarkSide Books, 2018.
-
 
