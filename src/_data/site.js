@@ -5,6 +5,7 @@ module.exports = {
   baseurl: '',
   url: 'https://caiohamaro.github.io',
   blueskyusername: 'caiohamaro',
+  github: 'https://github.com/caiohamaro',
   author_name: 'Caio Amaro',
   about_pic: '/images/about-me.jpg',
   site_pic: '/images/site-picture.jpg',
