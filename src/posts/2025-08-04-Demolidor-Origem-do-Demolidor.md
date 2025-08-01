@@ -6,15 +6,19 @@ permalink: /posts/origem-do-demolidor/
 description: Primeiro super-herói cego? O negócio é provar por A + B que não dá para acreditar em tudo que o Stan Lee dizia...
 categories:
   - Posts
-excerpt:  Este é o texto de estreia sobre o meu projeto de leitura das histórias em quadrinhos do Demolidor! Apesar da obviedade do primeiro texto ser justamente sobre a origem do personagem, só pude ter uma dimensão melhor do que escrever ao conhecer mais o seu contexto no livro “Marvel Comics - A História Secreta”, de Sean Howe. Dentre todos os aspectos interessantes, um dos principais é contestar a figura construída de **Stan Lee** e sua real contribuição para os quadrinhos (não, ele não é o “bonzinho e genial criador do universo marvel inteiro”, como é vendido no documentário com seu nome, lançado em em 2023 no serviço de streaming da Disney).
+excerpt:  Este é o texto de estreia sobre o meu projeto de leitura das histórias em quadrinhos do Demolidor! Apesar da obviedade do primeiro texto ser justamente sobre a origem do personagem, só pude ter uma dimensão melhor do que escrever ao conhecer mais o seu contexto no livro “Marvel Comics - A História Secreta”, de Sean Howe. Dentre todos os aspectos interessantes, um dos principais é contestar a figura construída de Stan Lee e qual seria a sua real contribuição para os quadrinhos (ele definitivamente não é o “bonzinho e genial criador do universo marvel inteiro” e, caso você tenha essa impressão, não se culpe, essa é a imagem vendida em todo lugar, principalmente no documentário com seu nome, lançado em em 2023 no serviço de streaming da Disney).
 tags:  ["Demolidor", "Stan Lee", "Resenha", "Quadrinhos"]
 thumbnail: "/images/demolidor-origem-0.jpg"
 timeread: 8
 ---
 
-Este é o texto de estreia sobre o meu **[projeto de leitura das histórias em quadrinhos do Demolidor!](https://caiohamaro.com.br/tags/Demolidor/)** Apesar da obviedade do primeiro texto ser justamente sobre a origem do personagem, só pude ter uma dimensão melhor do que escrever ao conhecer mais o seu contexto no livro **“Marvel Comics - A História Secreta”**, de Sean Howe. Dentre todos os aspectos interessantes, um dos principais é contestar a figura construída de Stan Lee e qual seria a sua real contribuição para os quadrinhos (não, ele não é o “bonzinho e genial criador do universo marvel inteiro” e, caso você tenha essa impressão, não se culpe, essa é a imagem vendida em todo lugar, principalmente no documentário com seu nome, lançado em em 2023 no serviço de streaming da Disney).
+Este é o texto de estreia sobre o meu **[projeto de leitura das histórias em quadrinhos do Demolidor!](https://caiohamaro.com.br/tags/Demolidor/)** Apesar da obviedade do primeiro texto ser justamente sobre a origem do personagem, só pude ter uma dimensão melhor do que escrever ao conhecer mais o seu contexto no livro **“Marvel Comics - A História Secreta”**, de Sean Howe.
 
-Por esse motivo, irei trazer aqui algumas declarações do próprio Stan Lee sobre como ele teria “concebido” o Demolidor, deixando o tema “Método Marvel” e o apagamento dos criadores dos personagens da editora para o próximo texto!
+Dentre todos os aspectos interessantes, um dos principais é contestar a figura construída de Stan Lee e qual seria a sua real contribuição para os quadrinhos (ele definitivamente não é o “bonzinho e genial criador do universo marvel inteiro” e, caso você tenha essa impressão, não se culpe, essa é a imagem vendida em todo lugar, principalmente no documentário com seu nome, lançado em em 2023 no serviço de streaming da Disney).
+
+Por esse motivo, irei trazer aqui algumas declarações do próprio Stan Lee sobre como ele teria “concebido” o Demolidor, deixando para o próximo texto o tema “Método Marvel” e o apagamento dos criadores dos personagens da editora.
+
+## Começou a mentirada...
 
 No ano de 1964, o que hoje conhecemos como Universo Marvel já estava bem estruturado na editora, que voltava a ter números expressivos de vendas não  obtidos desde a Segunda Guerra Mundial. Em 3 anos, **Stan Lee**, **Jack Kirby**, **Steve Ditko** e **Don Heck** já haviam dado vida ao **Quarteto Fantástico**, **Hulk**, **Homem-aranha**, **Thor**, **Homem de Ferro**, **Doutor Estranho** e até aos **Vingadores**. Porém, a busca em aumentar o portfólio continuava, principalmente replicando a “Fórmula marvel” (não confundir com “Método Marvel”) que a diferenciava da principal concorrente (DC Comics) e vinha funcionando muito bem até então: Heróis mais humanos, com falhas/fraquezas que os caracterizavam e com poderes que conseguiram de uma maneira não intencional.
 
@@ -39,7 +43,9 @@ img-alt: "Página da história que apresenta a origem do Doutor Meia-Noite. Ela 
 format: "vertical"  
 %}
 
-Apesar disso, o personagem da Marvel ainda é bastante diferente do detetive do cinema e também do Doutor Meia-Noite (que conseguia enxergar no escuro). Afinal, o herói “Daredevil” (“Demônio Desafiador” em tradução literal, mas oficialmente nomeado no Brasil como “Demolidor”), além de ter uma deficiência física, é um acrobata que combate o crime com uma bengala! **Não havia como já existir um personagem assim, não é mesmo?** Essa pergunta o próprio Stan responde:
+Apesar disso, o personagem da Marvel ainda é bastante diferente do detetive do cinema e também do Doutor Meia-Noite (que conseguia enxergar no escuro). Afinal, o herói “Daredevil” (“Demônio Desafiador” em tradução literal, mas oficialmente nomeado no Brasil como “Demolidor”), além de ter uma deficiência física, é um acrobata que combate o crime com uma bengala!
+
+**Não havia como já existir um personagem assim, não é mesmo?** Essa pergunta o próprio Stan responde:
 
 {% render "components/quote" 
 quote: "Quanto ao nome Daredevil, sinto muito em dizer que não foi uma ideia original; já havia um personagem chamado Daredevil publicado milhões de anos atrás pela Lev Gleason Publications. Basicamente, esse Daredevil era apenas acrobático. Ele tinha um traje engraçado, metade de uma cor, metade de outra, feito verticalmente. Eu gostei do nome, achei que seria um ótimo nome para um cara cego; ninguém suspeitaria jamais que ele fosse cego e por aí vai. Era um bom nome e agora estava em domínio público."
@@ -84,7 +90,9 @@ img-description: "Sequência de Demolidor nº 1 (1964)."
 img-alt: "Trecho da primeira história do Demolidor, os capangas derrotados falando “tá bem moço... cansamos! agora, quem é você e o que quer?” e “Não é possível! Ninguém pode lutar assim! Deve ser um truque de espelhos”, enquanto o Demolidor está em pé confiante, com seu uniforme amarelo original e diz “Agora que acabou a brincadeira, vou ficar por aqui até o arranjador chegar! Quanto a quem sou, podem me chamar apenas de... Demolidor”" 
 %}
 
-Definitivamente não se pode apenas confiar nas declarações de Lee, portanto, a forma mais honesta de entender a origem do personagem é analisar suas primeiras publicações. Nesse caso há uma particularidade na origem do Demolidor que escancara o absurdo método de produção de gibis da Marvel: sua edição nº1 demorou muito mais do que o planejado para chegar às bancas e precisou de quatro artistas para ser finalizada! **E isso é apenas o início da dança das cadeiras que foi o cargo de desenhista dos próximos 20 números da revista!** Mas isso é assunto para o próximo texto!
+Definitivamente não se pode apenas confiar nas declarações de Lee. Portanto, a  forma mais honesta de entender a origem do personagem acaba sendo analisar suas primeiras publicações com cuidado. E nessa análise, é interessante como há uma particularidade na sua origem que, quando explorada, escancara o absurdo método de produção de gibis da Marvel: **sua edição nº1 demorou muito mais do que o planejado para chegar às bancas e precisou de quatro artistas para ser finalizada!**
+
+E isso é apenas o início da dança das cadeiras que foi o cargo de desenhista dos próximos 20 números da revista! Mas isso é assunto para o próximo texto!
 
 ### Referências Bibliográficas
 
