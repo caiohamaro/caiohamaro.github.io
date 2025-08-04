@@ -1,5 +1,5 @@
 ---
-title: A mentiras de Stan Lee&#58; a origem nada original do Homem sem Medo
+title: As mentiras de Stan Lee&#58; a origem nada original do Homem sem Medo
 author: Caio Amaro
 layout: post
 permalink: /posts/origem-do-demolidor/
