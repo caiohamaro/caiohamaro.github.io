@@ -16,7 +16,7 @@ Este é o texto de estreia sobre o meu **[projeto de leitura das histórias em q
 
 Dentre todos os aspectos interessantes, um dos principais é contestar a figura construída de Stan Lee e qual seria a sua real contribuição para os quadrinhos (ele definitivamente não é o “bonzinho e genial criador do universo marvel inteiro” e, caso você tenha essa impressão, não se culpe, essa é a imagem vendida em todo lugar, principalmente no documentário com seu nome, lançado em em 2023 no serviço de streaming da Disney).
 
-Por esse motivo, irei trazer aqui algumas declarações do próprio Stan Lee sobre como ele teria “concebido” o Demolidor, deixando para o próximo texto o tema “Método Marvel” e o apagamento dos criadores dos personagens da editora.
+Por esse motivo, irei trazer aqui algumas declarações do próprio Stan Lee sobre como ele teria “concebido” o Demolidor, deixando para o próximo texto o tema “Método Marvel” e como ele era problemático.
 
 ## Começou a mentirada...
 
