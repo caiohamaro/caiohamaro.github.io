@@ -90,7 +90,7 @@ img-description: "Sequência de Demolidor nº 1 (1964)."
 img-alt: "Trecho da primeira história do Demolidor, os capangas derrotados falando “tá bem moço... cansamos! agora, quem é você e o que quer?” e “Não é possível! Ninguém pode lutar assim! Deve ser um truque de espelhos”, enquanto o Demolidor está em pé confiante, com seu uniforme amarelo original e diz “Agora que acabou a brincadeira, vou ficar por aqui até o arranjador chegar! Quanto a quem sou, podem me chamar apenas de... Demolidor”" 
 %}
 
-Definitivamente não se pode apenas confiar nas declarações de Lee. Portanto, a  forma mais honesta de entender a origem do personagem acaba sendo analisar suas primeiras publicações com cuidado. E nessa análise, é interessante como há uma particularidade na sua origem que, quando explorada, escancara o absurdo método de produção de gibis da Marvel: **sua edição nº1 demorou muito mais do que o planejado para chegar às bancas e precisou de quatro artistas para ser finalizada!**
+Definitivamente não se pode apenas confiar nas declarações de Lee. Portanto, a  forma mais honesta de entender a origem do personagem acaba sendo analisar suas primeiras publicações com cuidado. E a partir desta análise é possível identificar particularidades que, somadas, escancaram o absurdo método de produção de gibis da Marvel. **A primeira pista é que sua edição nº1 demorou muito mais do que o planejado para chegar às bancas e precisou de quatro artistas (dois não creditados) para ser finalizada!**
 
 E isso é apenas o início da dança das cadeiras que foi o cargo de desenhista dos próximos 20 números da revista! Mas isso é assunto para o próximo texto!
 
