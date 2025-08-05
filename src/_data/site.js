@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Caio Amaro',
   email: 'caio.h.amaro@gmail.com',
-  description: 'Front-end architect. <br />Speaker & writer. <br />React & Vue, Sass & CSS, performance & accessibility.',
+  description: '',
   baseurl: '',
   url: 'https://caiohamaro.github.io',
   blueskyusername: 'caiohamaro',
@@ -9,7 +9,5 @@ module.exports = {
   author_name: 'Caio Amaro',
   about_pic: '/images/about-me.jpg',
   site_pic: '/images/site-picture.jpg',
-  analytics: 'UA-43397146-5',
-  mailurl: process.env.ELEVENTY_ENV === 'prod' ? 'https://api-jdsteinbach.netlify.app/.netlify/functions/email' : 'http://localhost:8888/.netlify/functions/email',
   header_shadow: '#131313',
 }
