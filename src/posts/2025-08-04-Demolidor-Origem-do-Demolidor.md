@@ -82,7 +82,7 @@ quote: "O conceito do novo Demolidor não tinha nada de extraordinário: Matt Mu
 author: "(Sean Howe, 2013)" 
 %}
 
-Matt funda o escritório Nelson & Murdock junto com seu melhor amigo de faculdade, Foggy Nelson, e eles atuam em uma Nova Iorque fictícia onde super-heróis e super-vilões tanto causam problemas jurídicos, quanto precisam de assistência para resolvê-los! E como não podia faltar, o interesse romântico (platônico) do protagonista é Karen Page, a secretária da empresa.
+Matt funda o escritório Nelson & Murdock junto com seu melhor amigo de faculdade, Foggy Nelson, e eles atuam em uma Nova Iorque fictícia onde super-heróis e super-vilões tanto causam problemas jurídicos quanto precisam de assistência para resolvê-los! E como não podia faltar, o interesse romântico (platônico) do protagonista é Karen Page, a secretária da empresa.
 
 {% render "components/image" 
 img-url: "/images/demolidor-origem-4.jpg"
