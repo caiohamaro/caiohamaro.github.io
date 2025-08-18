@@ -59,7 +59,7 @@
 
     </button>
     <div id="header-menu" class="header-menu" aria-hidden="true">
-      <nav class="header-nav" name="Primary"><a class="header-nav__link" href="/about/">Sobre Mim</a><a class="header-nav__link" href="/posts/">Textos</a><a class="header-nav__link" href="/portfolio-livros/">Portfolio</a></nav>
+      <nav class="header-nav" name="Primary"><a class="header-nav__link" href="/about/">Sobre Mim</a><a class="header-nav__link" href="/portfolio-livros/">Portfolio</a><a class="header-nav__link" href="/posts/">Textos</a></nav>
 
       <div class="header-nav__toggle">
         <form name="Theme Picker">
@@ -107,7 +107,7 @@
           class="image" 
           style="background-image: url('/images/stanley-sm-300x225.jpg')" 
           
-          href=/portfolio-livros/
+          href=posts/{{ pagination.pageNumber | paginate_better }}
         > 
       
       </a>
@@ -120,9 +120,9 @@
       <div class="card-content-text">
         <a
           
-          href=/portfolio-livros/
+          href=posts/{{ pagination.pageNumber | paginate_better }}
         >
-          <h2>Portfolio</h2>
+          <h2>Posts</h2>
           <span class="card-reading-time">
             
           </span>
@@ -145,7 +145,7 @@
           class="image" 
           style="background-image: url('/images/stanley-sm-300x225.jpg')" 
           
-          href=posts/{{ pagination.pageNumber | paginate_better }}
+          href=/portfolio-livros/
         > 
       
       </a>
@@ -158,9 +158,9 @@
       <div class="card-content-text">
         <a
           
-          href=posts/{{ pagination.pageNumber | paginate_better }}
+          href=/portfolio-livros/
         >
-          <h2>Posts</h2>
+          <h2>Portfolio</h2>
           <span class="card-reading-time">
             
           </span>
