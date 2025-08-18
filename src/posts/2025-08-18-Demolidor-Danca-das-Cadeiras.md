@@ -12,7 +12,7 @@ thumbnail: "/images/demolidor-danca-0.jpg"
 timeread: 14
 ---
 
-## A dança das cadeiras de desenhistas
+## A estreia do Homem sem Medo
 
 Em abril de 1964 o Demolidor estreava na Marvel e a própria capa da revista já era cheia de promessas: a) ele seria um personagem com a mesma relevância que o Homem-aranha b) também uma adição a um universo que já contava com figuras fabulosas, como o Quarteto Fantástico e c) iria apresentar novos personagens, como Matt Murdock, Karen Page e Foggy Nelson!
 
@@ -27,8 +27,9 @@ format: "vertical"
 
 Esta primeira revista contava com **Stan Lee** no roteiro e **Bill Everett** creditado como desenhista… No entanto, a verdade é que ele não conseguiu cumprir o prazo e, no fim, a maior parte da edição fora desenhada por **Sal Brodsky** (responsável pelo design de vários logotipos de super-heróis Marvel) com o apoio de **Steve Ditko**, um dos grandes ilustradores da Marvel à época. **Portanto, considerando que o conceito original do herói fora esboçado por Jack Kirby (utilizado na capa), temos a contribuição total de quatro desenhistas!**
 
-
 Situações assim não eram incomuns na Marvel. E até mesmo **Bill Everet**, que tinha credibilidade e uma extensa carreira nos quadrinhos (havia criado **Namor, o príncipe submarino**, 25 anos antes), também foi vítima de uma particularidade no processo criativo da editora, que com certeza merece uma explicação mais detalhada!
+
+## O Método Marvel
 
 Nessa época, o editor **Stan Lee**, para dar conta da grande produção e manter o controle criativo sobre as tramas, utilizava uma metodologia que ficou conhecida como **“Método Marvel”**: ele discutia ideias sobre as histórias (pessoalmente ou por telefone) com o desenhista e cabia a este projetar e desenhar as 20 páginas com o esse pequeno enredo. Depois, **Lee** recebia as folhas finalizadas (que nem sempre era o que ele esperava) e criava os textos, recordatórios e balões de fala.
 
@@ -64,6 +65,8 @@ img-alt: "Sexta página da edição nº 1 de Demolidor (1964), mostrando a pági
 %}
 
 Nessas páginas originais de Demolidor nº 1 é possível reparar as rasuras na folha, corroborando para uma maior influência de **Bill Everett** na concepção do personagem: Assim como **Kirby**, ele teria escrito os textos, que foram substituídos ou adaptados por **Lee** e sua equipe posteriormente. **Além disso, Bill também tinha uma filha deficiente visual, o que poderia ter sido a real influência por trás de toda a criação do herói ([diferente do que Stan Lee alegava que eram as "suas inspirações” no meu último texto](https://caiohamaro.com.br/posts/origem-do-demolidor/)).**
+
+## E começa a dança das cadeiras...
 
 Esse tão problemático **“Método Marvel”** em muito impactou as edições de Demolidor, porque além de exigir que os artistas criassem as histórias, **Lee** queria encontrar alguém que mantivesse a qualidade dos seus dois melhores (que já estavam ocupados em suas próprias publicações: Ditko com Homem-aranha e Doutor Estranho; e Kirby com **todo o resto...**):
 
