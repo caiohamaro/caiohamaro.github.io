@@ -2,7 +2,7 @@
 layout: _base
 ---
 
-{% render "partials/_site-portfolio-header" active-hqs: true %}
+{% render "partials/_site-portfolio-header" active-geral: true %}
 
 {%- assign title = title | append: " Archive" -%}
 {% include "partials/_hero" %}
@@ -26,7 +26,7 @@ layout: _base
                   , titlecolor: post.data.titlecolor
                   , textcolor: post.data.textcolor
                   , quotecolor: post.data.quotecolor
-                  , quote: post.data.quote
+                  , quote: post.data.quote 
                   , type: post.data.type %}
         </div>
       {%- endfor %}
@@ -34,7 +34,6 @@ layout: _base
   {% else %}
     {{ content }}
   {% endif %}
-
 </div>
 
 
