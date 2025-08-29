@@ -22,7 +22,6 @@ Todos esses personagens estão capa, resultando em algo que parece um catálogo 
 img-url: "/images/demolidor-danca-1.jpg"
 img-description: "Capa de Demolidor nº 1 (1964)."
 img-alt: "Capa da primeira edição de Demolidor, com a logo “Here comes... Daredevil, The Man Without Fear” e uma ilustração do demolidor sorridente em seu uniforme amarelo. Há o texto “Remember when we introduced... Spider-man” seguido do desenho do homem-aranha e o texto “Now we continue the mighty Marvel tradicion with... Daredevil!!”. Também há uma pequena ilustração dos membros do quarteto e de Matt Murdock, Karen Page e Foggy Nelson e a capa encerra com os dizeres “Can you guess why Daredevil is different from all other crime-fighters...?”"  
-format: "vertical"  
 %}
 
 Esta primeira revista contava com **Stan Lee** no roteiro e **Bill Everett** creditado como desenhista… No entanto, a verdade é que ele não conseguiu cumprir o prazo e, no fim, a maior parte da edição fora desenhada por **Sal Brodsky** (responsável pelo design de vários logotipos de super-heróis Marvel) com o apoio de **Steve Ditko**, um dos grandes ilustradores da Marvel à época. **Portanto, considerando que o conceito original do herói fora esboçado por Jack Kirby (utilizado na capa), temos a contribuição total de quatro desenhistas!**
@@ -85,8 +84,7 @@ author: "(Sean Howe, 2013)"
 {% render "components/image" 
 img-url: "/images/demolidor-danca-3.jpg"
 img-description: "Capa de Demolidor nº 3 (1964)."
-img-alt: "Capa da edição nº 3 de Demolidor com desenhos de Joe Orlando. O Demolidor está chegando correndo na sede do vilão Coruja, que senta de forma opulenta em um trono, tem dois capangas ao seu lado e Karen afugentada com a cena de ação." 
-format: "vertical"   
+img-alt: "Capa da edição nº 3 de Demolidor com desenhos de Joe Orlando. O Demolidor está chegando correndo na sede do vilão Coruja, que senta de forma opulenta em um trono, tem dois capangas ao seu lado e Karen afugentada com a cena de ação."  
 %}
 
 O próximo escolhido foi o mentor de Orlando: **Wally Wood**, que, assim com os outros, sofreu com o ritmo exaustivo de trabalho. Para piorar, **Lee** contribuiu significativamente para pesar o clima na Marvel, vide a capa da estreia de **Wood**, na qual adicionou um texto de apresentação especial (que **Kirby** e **Ditko** nunca tinham ganhado até então): _“Sob a perícia artística do famoso ilustrador Wally Wood, o Demolidor atinge novas glórias!”_. **Não bastasse isso, a capa em questão foi desenhada por Jack Kirby, não Wood.**
@@ -95,7 +93,6 @@ O próximo escolhido foi o mentor de Orlando: **Wally Wood**, que, assim com os 
 img-url: "/images/demolidor-danca-4.jpg"
 img-description: "Capa de Demolidor nº 5 (1964)."
 img-alt: " Capa da edição nº 5 de Demolidor, com o Demolidor agachado com as mãos nos ouvidos enquanto o vilão “Matador” está de pé com sua roupa de toureiro e o texto destacado “Under the brilliant artistic craftsmanship of famous illustrator Wally Wood, Daredevil reaches new heights of glory!”" 
-format: "vertical" 
 %}
 
 Não demorou muito para o próprio **Wally Wood** ficar insatisfeito e começar a questionar. Ele logo percebeu e questionou  que esse método de desenhar antes do roteiro, era criar o argumento sem ser pago por isso, além de não ganhar o devido crédito. E o que **_nosso querido editor_** fez sobre isso? Resolveu creditá-lo de forma “bem-humorada” como autor da história na edição nº 10, mas o artista sabia que era apenas uma forma jocosa de confrontá-lo:
@@ -118,7 +115,6 @@ Com esse clima pesado, **Wood** foi substituído por **Bob Powell** logo no núm
 img-url: "/images/demolidor-danca-7.jpg"
 img-description: "Capa de Demolidor nº 12 (1965)."
 img-alt: "Capa da edição nº 12 de Demolidor com desenhos de John Romita. A capa mostra Kazar, apenas de tanga em um tronco de uma alta árvore, observando a seguinte cena no chão: Demolidor encurralado por 5 inimigos que apontam armas para ele."
-format: "vertical"   
 %}
 
 Foi só na sua vigésima segunda revista que nosso super-advogado encontrou o seu artista fixo (que duraria centenas de histórias antes de ser trocado): **Gene Colan**, um aficionado por cinema, que inseriu esse interesse à composição e narrativa das páginas:
@@ -127,7 +123,6 @@ Foi só na sua vigésima segunda revista que nosso super-advogado encontrou o se
 img-url: "/images/demolidor-danca-8.jpg"
 img-description: "Página de Demolidor nº 20 (1966)."
 img-alt: " Página de Demolidor nº 20 com o primeiro quadro em plano detalhe mostrando uma mão abrindo uma fechadura com uma chave e o segundo quadro (maior na página) com 3 pessoas aramadas entrando em um quarto ao abrir a porta. Os desenhos tem muito contraste e um enquadramento Contra-Plongée."
-format: "vertical"   
 %}
 
 {% render "components/quote" 

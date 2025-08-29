@@ -112,7 +112,7 @@ module.exports = eleventyConfig => {
   })
 
   // Create Category Collections
-  Array.from(['CSS', 'Sass', 'Misc', 'WordPress', 'Performance', 'Posts', 'Livros','HQS','Ilustracoes']).map(cat => {
+  Array.from(['CSS', 'Sass', 'Misc', 'WordPress', 'Performance', 'Posts', 'Geral', 'Livros','HQS','Ilustracoes']).map(cat => {
     eleventyConfig.addCollection(cat, collection => {
       return collection
         .getAllSorted()
