@@ -1034,7 +1034,6 @@ svg:hover .starfield__layer {
   z-index: 1;
   color: var(--colot-text-bottom);
   background-color: var(--color-background-bottom);
-  margin-top: 12px;
 }
 .site-footer::before {
   content: "";
@@ -1679,6 +1678,12 @@ svg:hover .starfield__layer {
     margin-top: 144px;
   }
 }
+@media (max-width: 478px) {
+  .post-list-portfolio {
+    justify-content: space-evenly;
+    margin-top: 188px;
+  }
+}
 .post-list-portfolio .card-wrapper-portfolio {
   width: 100%;
 }
@@ -1716,6 +1721,11 @@ svg:hover .starfield__layer {
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+.Podcast {
+  height: 300px !important;
+  width: 300px !important;
 }
 
 .image-card-porftolio-illustration {

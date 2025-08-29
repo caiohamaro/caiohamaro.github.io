@@ -12,8 +12,8 @@ categories:
 cover: "/images/livro-a-revelacao-do-principe-deste-mundo.png"
 backgroundcolor: "#115644"
 titlecolor: "#b39e58"
-textcolor: "#ffffff"
-quotecolor: "#ffffff"
+textcolor: "#fff7ed"
+quotecolor: "#b39e58"
 ---
 
 

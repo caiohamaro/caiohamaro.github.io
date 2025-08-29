@@ -12,8 +12,8 @@ categories:
 cover: "/images/livro-mitografias-2-mitos-de-origem.jpg"
 backgroundcolor: "#000000"
 titlecolor: "#9d6028"
-textcolor: "#ffffff"
-quotecolor: "#ffffff"
+textcolor: "#d1b69e"
+quotecolor: "#9d6028"
 ---
 
 

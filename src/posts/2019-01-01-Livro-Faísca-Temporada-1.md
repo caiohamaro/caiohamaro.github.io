@@ -10,10 +10,10 @@ categories:
   - Livros
   - Geral
 cover: "/images/livro-faisca-temporada-1.jpg"
-backgroundcolor: "#b81c26"
-titlecolor: "#000000"
-textcolor: "#ffffff"
-quotecolor: "#ffffff"
+backgroundcolor: "#bb5e64ff"
+titlecolor: "#3a0c07"
+textcolor: "#fff7ed"
+quotecolor: "#541009"
 ---
 
 

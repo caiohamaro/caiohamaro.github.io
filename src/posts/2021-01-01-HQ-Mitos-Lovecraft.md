@@ -12,8 +12,8 @@ categories:
 cover: "/images/livro-mitos-lovecraft.jpg"
 backgroundcolor: "#11031d"
 titlecolor: "#b17b59"
-textcolor: "#ffffff"
-quotecolor: "#ffffff"
+textcolor: "#fff7ed"
+quotecolor: "#b17b59"
 ---
 
 

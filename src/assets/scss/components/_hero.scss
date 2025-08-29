@@ -422,6 +422,11 @@
     margin-top: 144px;
   }
 
+  @media (max-width: 478px) {
+    justify-content:space-evenly;
+    margin-top: 188px;
+  }
+
   .card-wrapper-portfolio {
     width: 100%;
   }
@@ -459,6 +464,12 @@
     background-size: contain;
     background-repeat: no-repeat;
   }
+
+}
+
+.Podcast{
+    height: 300px!important;
+    width: 300px!important;
 }
 
 .image-card-porftolio-illustration{
