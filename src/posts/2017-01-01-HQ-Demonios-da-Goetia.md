@@ -10,10 +10,10 @@ categories:
   - HQS
   - Geral
 cover: "/images/livro-demonios-da-goetia.jpg"
-backgroundcolor: "#930304"
+backgroundcolor: "#720909"
 titlecolor: "#ec9973"
-textcolor: "#ffffff"
-quotecolor: "#ffffff"
+textcolor: "#d1b69e"
+quotecolor: "#ec9973"
 ---
 
 
