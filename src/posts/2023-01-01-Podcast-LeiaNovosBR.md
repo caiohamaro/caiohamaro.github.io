@@ -5,6 +5,7 @@ author: Caio Amaro
 year: 2021 à 2023
 description: O LeiaNovosBR foi um podcast quinzenal do site Leitor Cabuloso, no qual dois funcionários de uma livraria mágica muito bagunçada resolveram entrevistar autores nacionais de livros e hqs para ajudar no trabalho de arrumação e, de quebra, contribuir para a divulgação da literatura brasileira! Foram 39 entrevistas e centenas de obras divulgadas!
 quote: Desejamos que aproveite sua visita na livraria Leia Novos Br, onde a literatura nacional é a protagonista de todas as estantes.
+url: leitorcabuloso.com.br/author/leianovosbr/
 type: Podcast
 categories:
   - Podcasts

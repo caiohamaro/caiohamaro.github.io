@@ -6,7 +6,13 @@
          {% unless samePage %}
            target="_blank"
          {% endunless %}
+        
+        {%- if url %}
+           href="https://{{ url }}" target="_blank"
+        {% else %}
          href={{ url | replace: ".html", "" }}
+        {%- endif %}
+      
        > 
      </a>
    </div>
