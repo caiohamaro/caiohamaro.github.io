@@ -7,7 +7,7 @@ description: Primeiro super-herói cego? O negócio é provar por A + B que não
 categories:
   - Posts
 excerpt:  Este é o texto de estreia sobre o meu projeto de leitura das histórias em quadrinhos do Demolidor! Apesar da obviedade do primeiro texto ser justamente sobre a origem do personagem, só pude ter uma dimensão melhor do que escrever ao conhecer mais o seu contexto no livro “Marvel Comics - A História Secreta”, de Sean Howe. Dentre todos os aspectos interessantes, um dos principais é contestar a figura construída de Stan Lee e qual seria a sua real contribuição para os quadrinhos (ele definitivamente não é o “bonzinho e genial criador do universo marvel inteiro” e, caso você tenha essa impressão, não se culpe, essa é a imagem vendida em todo lugar, principalmente no documentário com seu nome, lançado em em 2023 no serviço de streaming da Disney).
-tags:  ["Demolidor", "Stan Lee", "Resenha", "Quadrinhos"]
+tags:  ["Demolidor", "Stan Lee", "Quadrinhos"]
 thumbnail: "/images/demolidor-origem-0.jpg"
 timeread: 8
 ---
