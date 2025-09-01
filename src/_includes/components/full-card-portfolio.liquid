@@ -7,10 +7,9 @@
            target="_blank"
          {% endunless %}
         
+         href={{ url | replace: ".html", "" }} 
         {%- if url %}
-           href="https://{{ url }}" target="_blank"
-        {% else %}
-         href={{ url | replace: ".html", "" }}
+           target="_blank"
         {%- endif %}
       
        > 

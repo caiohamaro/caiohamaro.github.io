@@ -5,7 +5,7 @@ author: Caio Amaro
 year: 2017
 description: Lucas faria qualquer coisa para salvar o amor da sua vida, até mesmo invocar os espíritos imortais descobertos há milênios pelo Rei Salomão. Pena que o amor é algo mortal demais para os espíritos entenderem.
 quote: Portanto vinde, ó Rei Vain, prontamente e sem atraso, de qualquer parte da Terra onde estejas ou onde se encontre vosso reino, e trazei respostas inteligíveis as minhas dúvidas.
-url: www.amazon.com.br/Demônios-Goetia-Quadrinhos-Raphael-Fernandes/dp/8582432356/
+url: https://www.amazon.com.br/Demônios-Goetia-Quadrinhos-Raphael-Fernandes/dp/8582432356/
 type: HQ
 categories:
   - HQS
