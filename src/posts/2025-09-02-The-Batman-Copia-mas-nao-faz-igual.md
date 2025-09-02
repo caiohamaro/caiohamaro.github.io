@@ -12,7 +12,7 @@ thumbnail: "/images/thebatmans01s02-0.jpg"
 timeread: 6
 ---
 
-Depois de assistir todas as séries animadas do **Bruce Timm** (Batman - A série animada, As Novas Aventuras do Batman, Liga da Justiça e Liga da Justiça - Sem Limites) decidi esperar um pouco antes de voltar a para as animações da DC Comics. Principalmente porque a próxima da minha lista era **The Batman**, que eu lembrava de gostar quando criança, mas estava com certa preguiça, principalmente devido ao senso comum de odiar o infame **Coringa** _lutador_.
+Depois de assistir todas as séries animadas do **Bruce Timm** (Batman - A série animada, As Novas Aventuras do Batman, Liga da Justiça e Liga da Justiça - Sem Limites) decidi esperar um pouco antes de voltar a para as animações da DC Comics. Principalmente porque a próxima da minha lista era **The Batman** (de Michael Goguen e Duane Capizzi), que eu lembrava de gostar quando criança, mas estava com certa preguiça, principalmente devido ao senso comum de odiar o infame **Coringa** _lutador_.
 
 {% render "components/image" 
 img-url: "/images/thebatmans01s02-1.jpg"
