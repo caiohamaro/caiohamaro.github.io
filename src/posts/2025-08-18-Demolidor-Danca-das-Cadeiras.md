@@ -21,7 +21,8 @@ Todos esses personagens estão capa, resultando em algo que parece um catálogo 
 {% render "components/image" 
 img-url: "/images/demolidor-danca-1.jpg"
 img-description: "Capa de Demolidor nº 1 (1964)."
-img-alt: "Capa da primeira edição de Demolidor, com a logo “Here comes... Daredevil, The Man Without Fear” e uma ilustração do demolidor sorridente em seu uniforme amarelo. Há o texto “Remember when we introduced... Spider-man” seguido do desenho do homem-aranha e o texto “Now we continue the mighty Marvel tradicion with... Daredevil!!”. Também há uma pequena ilustração dos membros do quarteto e de Matt Murdock, Karen Page e Foggy Nelson e a capa encerra com os dizeres “Can you guess why Daredevil is different from all other crime-fighters...?”"  
+img-alt: "Capa da primeira edição de Demolidor, com a logo “Here comes... Daredevil, The Man Without Fear” e uma ilustração do demolidor sorridente em seu uniforme amarelo. Há o texto “Remember when we introduced... Spider-man” seguido do desenho do homem-aranha e o texto “Now we continue the mighty Marvel tradicion with... Daredevil!!”. Também há uma pequena ilustração dos membros do quarteto e de Matt Murdock, Karen Page e Foggy Nelson e a capa encerra com os dizeres “Can you guess why Daredevil is different from all other crime-fighters...?”" 
+format: "vertical" 
 %}
 
 Esta primeira revista contava com **Stan Lee** no roteiro e **Bill Everett** creditado como desenhista… No entanto, a verdade é que ele não conseguiu cumprir o prazo e, no fim, a maior parte da edição fora desenhada por **Sal Brodsky** (responsável pelo design de vários logotipos de super-heróis Marvel) com o apoio de **Steve Ditko**, um dos grandes ilustradores da Marvel à época. **Portanto, considerando que o conceito original do herói fora esboçado por Jack Kirby (utilizado na capa), temos a contribuição total de quatro desenhistas!**
@@ -56,11 +57,13 @@ Essa declaração de **Lee** poderia até ser usada como argumento, se não houv
 img-url: "/images/demolidor-danca-2.jpg"
 img-description: "Seguinda página da edição nº 1 de Demolidor (1964), mostrando a página original antes de ser colorizada. É possível ver que há uma série de correções nos tamanhos dos balões, o que pode indicar que Bill Everret teria escrito os textos das suas páginas e esse texto depois foram substituído por textos do Stan Lee/Sam Rosen."
 img-alt: "Segunda página da edição nº 1 de Demolidor (1964), mostrando a página original antes de ser colorizada. É possível ver que há uma série de correções nos tamanhos dos balões, o que pode indicar que Bill Everret teria escrito os textos das suas páginas e esse texto depois foram substituído por textos do Stan Lee/Sam Rosen. A correção dos balões se dá por diminuir o tamanho deles com tinta nanquim ou colar adesivos em cima da página com novos textos"
+format: "vertical" 
 %}
 {% render "components/image" 
 img-url: "/images/demolidor-danca-2-1.jpg"
 img-description: "Sexta página da edição nº 1 de Demolidor (1964), mostrando a página original antes de ser colorizada. Nela também há uma série de correções nos tamanhos dos balões e indicações rasuradas nos cantos da página."
 img-alt: "Sexta página da edição nº 1 de Demolidor (1964), mostrando a página original antes de ser colorizada. Nela também há uma série de correções nos tamanhos dos balões e indicações rasuradas nos cantos da página. A correção dos balões se dá por diminuir o tamanho deles com tinta nanquim ou colar adesivos em cima da página com novos textos"
+format: "vertical" 
 %}
 
 Nessas páginas originais de Demolidor nº 1 é possível reparar as rasuras na folha, corroborando para uma maior influência de **Bill Everett** na concepção do personagem: Assim como **Kirby**, ele teria escrito os textos, que foram substituídos ou adaptados por **Lee** e sua equipe posteriormente. **Além disso, Bill também tinha uma filha deficiente visual, o que poderia ter sido a real influência por trás de toda a criação do herói ([diferente do que Stan Lee alegava que eram as "suas inspirações” no meu último texto](https://caiohamaro.com.br/posts/origem-do-demolidor/)).**
@@ -85,6 +88,7 @@ author: "(Sean Howe, 2013)"
 img-url: "/images/demolidor-danca-3.jpg"
 img-description: "Capa de Demolidor nº 3 (1964)."
 img-alt: "Capa da edição nº 3 de Demolidor com desenhos de Joe Orlando. O Demolidor está chegando correndo na sede do vilão Coruja, que senta de forma opulenta em um trono, tem dois capangas ao seu lado e Karen afugentada com a cena de ação."  
+format: "vertical" 
 %}
 
 O próximo escolhido foi o mentor de Orlando: **Wally Wood**, que, assim com os outros, sofreu com o ritmo exaustivo de trabalho. Para piorar, **Lee** contribuiu significativamente para pesar o clima na Marvel, vide a capa da estreia de **Wood**, na qual adicionou um texto de apresentação especial (que **Kirby** e **Ditko** nunca tinham ganhado até então): _“Sob a perícia artística do famoso ilustrador Wally Wood, o Demolidor atinge novas glórias!”_. **Não bastasse isso, a capa em questão foi desenhada por Jack Kirby, não Wood.**
@@ -93,6 +97,7 @@ O próximo escolhido foi o mentor de Orlando: **Wally Wood**, que, assim com os 
 img-url: "/images/demolidor-danca-4.jpg"
 img-description: "Capa de Demolidor nº 5 (1964)."
 img-alt: " Capa da edição nº 5 de Demolidor, com o Demolidor agachado com as mãos nos ouvidos enquanto o vilão “Matador” está de pé com sua roupa de toureiro e o texto destacado “Under the brilliant artistic craftsmanship of famous illustrator Wally Wood, Daredevil reaches new heights of glory!”" 
+format: "vertical" 
 %}
 
 Não demorou muito para o próprio **Wally Wood** ficar insatisfeito e começar a questionar. Ele logo percebeu e questionou  que esse método de desenhar antes do roteiro, era criar o argumento sem ser pago por isso, além de não ganhar o devido crédito. E o que **_nosso querido editor_** fez sobre isso? Resolveu creditá-lo de forma “bem-humorada” como autor da história na edição nº 10, mas o artista sabia que era apenas uma forma jocosa de confrontá-lo:
@@ -101,12 +106,14 @@ Não demorou muito para o próprio **Wally Wood** ficar insatisfeito e começar 
 img-url: "/images/demolidor-danca-5.jpg"
 img-description: "Primeira página de Demolidor nº 10 (1965) com a desculpa que Stan Lee inventou para dizer que Wally Wood havia escrito a história em questão."
 img-alt: "Primeira página da edição nº 10 de Demolidor com quatro vilões animalescos reunidos ao lado da imagem do vilão Organizador e a sombra do Demolidor projetada no chão. No início da página está o texto: Duas grandes surpresas o aguardam nesta edição incomum! Primeira: este é o primeiro mistério de verdade do Demolidor, completo, com um zilhão de suspeitos, incontáveis pistas e reviravoltas desconcertantes. Segunda: Wally Wood sempre quis tentar escrever uma história além de desenhála, e o coração mole do Stan (que já queria descansar mesmo) aprovou! Então o que vem a seguir é uma incógnita! Você pode gostar ou não, mas esteja certo disto... será diferente!"
+format: "vertical" 
 %}
 
 {% render "components/image" 
 img-url: "/images/demolidor-danca-6.jpg"
 img-description: " Sequência final de Demolidor nº 10 (1965) com o ataque de Stan Lee à Wood no último quadro."
 img-alt: "Trecho final da edição nº 10 de Demolidor, mostrando o recordatório do último quadro da página: “Agora que o Wally matou a vontade de escrever, deixou pro coitado do Stan terminar a próxima edição! Nosso líder vai conseguir? Esse é o verdadeiro mistério! Porém, enquanto você espera, veja se consegue encontrar a pista que deixamos mostrando quem é o organizador! Vai estar em pratos limpos na próxima edição, quando o Stan encerrar tudo! Nos vemos lá!”"  
+format: "vertical" 
 %}
 
 Com esse clima pesado, **Wood** foi substituído por **Bob Powell** logo no número seguinte e depois foi a vez da estreia do jovem **John Romita** (conhecido hoje como John Romita Sr.), que Stan convenceu a voltar a trabalhar na Marvel (mesmo após ser demitido pelo próprio em 1957). **Romita** até que ficou mais tempo que os seus predecessores, desenhando da edição 12 à 21, que incluíam dois crossovers do Demolidor, um com o famoso Homem-aranha e outro com o Kazar.
@@ -115,6 +122,7 @@ Com esse clima pesado, **Wood** foi substituído por **Bob Powell** logo no núm
 img-url: "/images/demolidor-danca-7.jpg"
 img-description: "Capa de Demolidor nº 12 (1965)."
 img-alt: "Capa da edição nº 12 de Demolidor com desenhos de John Romita. A capa mostra Kazar, apenas de tanga em um tronco de uma alta árvore, observando a seguinte cena no chão: Demolidor encurralado por 5 inimigos que apontam armas para ele."
+format: "vertical" 
 %}
 
 Foi só na sua vigésima segunda revista que nosso super-advogado encontrou o seu artista fixo (que duraria centenas de histórias antes de ser trocado): **Gene Colan**, um aficionado por cinema, que inseriu esse interesse à composição e narrativa das páginas:
@@ -123,6 +131,7 @@ Foi só na sua vigésima segunda revista que nosso super-advogado encontrou o se
 img-url: "/images/demolidor-danca-8.jpg"
 img-description: "Página de Demolidor nº 20 (1966)."
 img-alt: " Página de Demolidor nº 20 com o primeiro quadro em plano detalhe mostrando uma mão abrindo uma fechadura com uma chave e o segundo quadro (maior na página) com 3 pessoas aramadas entrando em um quarto ao abrir a porta. Os desenhos tem muito contraste e um enquadramento Contra-Plongée."
+format: "vertical" 
 %}
 
 {% render "components/quote" 

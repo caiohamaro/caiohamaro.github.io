@@ -40,6 +40,7 @@ author: "(Stan Lee, 1991)"
 img-url: "/images/demolidor-origem-1.jpg"
 img-description: "Primeira página de Dr. Mid Nite de (1941)."
 img-alt: "Página da história que apresenta a origem do Doutor Meia-Noite. Ela mostra um herói de bota, capa e capuz pulando entre prédios durante a noite. Seu capuz deixa a boca e queixo à mostra e ele usa óculos, parecidos com de natação." 
+format: "vertical" 
 %}
 
 Apesar disso, o personagem da Marvel ainda é bastante diferente do detetive do cinema e também do Doutor Meia-Noite (que conseguia enxergar no escuro). Afinal, o herói “Daredevil” (“Demônio Desafiador” em tradução literal, mas oficialmente nomeado no Brasil como “Demolidor”), além de ter uma deficiência física, é um acrobata que combate o crime com uma bengala!
@@ -57,6 +58,7 @@ Acontece que esse personagem citado (publicado em 1940 na Silver Streak Comics n
 img-url: "/images/demolidor-origem-2.jpg"
 img-description: "Capa da de Silver Streak Comics nº 7 (1940)."
 img-alt: "Capa da edição nº 7 de Silver Streak Comics, com o título “Daredevil battles The Claw” mostrando um monstro com dentes afiados e longas unhas confrontando o herói Daredevil com um colã metade vermelho, metade preto, um cinto com espinhos e segurando um bumerangue."
+format: "vertical" 
 %}
 
 É importante levar em consideração que, embora a bengala do Demolidor (da Marvel) não seja a mesma arma, ela é usada de forma igual (é arremessada e volta à mão do herói) desde a primeira revista. Isso sem contar que na nº 5 ela é dobrada e literalmente transformada em um bumerangue!
@@ -65,6 +67,7 @@ img-alt: "Capa da edição nº 7 de Silver Streak Comics, com o título “Dared
 img-url: "/images/demolidor-origem-3.jpg"
 img-description: "Sequência de Demolidor nº 5 (1964)."
 img-alt: "Quadros da edição nº 5 de Demolidor. O herói aparece dobrando seu bastão de combate e pensando “Posicionando meu bastão num ângulo de 90 graus, posso arremessá-lo como um bumerangue!”. Depois de arremessado, o bastão/bumerangue atinge a mão de um bandido, desarmando-o, e retorna para a mão do Demolidor."
+format: "vertical" 
 %}
 
 {% render "components/quote" 
@@ -85,6 +88,7 @@ Matt funda o escritório Nelson & Murdock junto com seu melhor amigo de faculdad
 img-url: "/images/demolidor-origem-4.jpg"
 img-description: "Sequência de Demolidor nº 1 (1964)."
 img-alt: "Trecho da primeira história do Demolidor, os capangas derrotados falando “tá bem moço... cansamos! agora, quem é você e o que quer?” e “Não é possível! Ninguém pode lutar assim! Deve ser um truque de espelhos”, enquanto o Demolidor está em pé confiante, com seu uniforme amarelo original e diz “Agora que acabou a brincadeira, vou ficar por aqui até o arranjador chegar! Quanto a quem sou, podem me chamar apenas de... Demolidor”" 
+format: "vertical" 
 %}
 
 Definitivamente não se pode apenas confiar nas declarações de Lee. Portanto, a  forma mais honesta de entender a origem do personagem acaba sendo analisar suas primeiras publicações com cuidado. E a partir desta análise é possível identificar particularidades que, somadas, escancaram o absurdo método de produção de gibis da Marvel. **A primeira pista é que sua edição nº1 demorou muito mais do que o planejado para chegar às bancas e precisou de quatro artistas (dois não creditados) para ser finalizada!**
