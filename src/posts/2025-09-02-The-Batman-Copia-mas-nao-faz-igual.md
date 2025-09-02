@@ -7,7 +7,7 @@ description: Christopher Nolan e Scott Snyder não inventaram nada mesmo…
 categories:
   - Posts
 excerpt: Depois de assistir todas as séries animadas do Bruce Timm (Batman - A série animada, As Novas Aventuras do Batman, Liga da Justiça e Liga da Justiça - Sem Limites) decidi esperar um pouco antes de voltar a para as animações da DC Comics. Principalmente porque a próxima da minha lista era The Batman, que eu lembrava de gostar quando criança, mas estava com certa preguiça, principalmente devido ao senso comum de odiar o infame Coringa lutador.
-tags:  ["Batman", "Resenha", "Christopher Nolan", "Scott Snyder"]
+tags:  ["Batman", "Séries", "Resenha", "Christopher Nolan", "Scott Snyder"]
 thumbnail: "/images/thebatmans01s02-0.jpg"
 timeread: 6
 ---
@@ -74,7 +74,7 @@ No episódio **“O Morcego que ri”**, o **Coringa** deixa de querer cometer c
 
 {% render "components/image" 
 img-url: "/images/thebatmans01s02-7.jpg"
-img-description: ""
+img-description: "Batman que Ri desenhado por Jim Cheung."
 img-alt: "Desenho do “Batman que ri” por Jim Cheung. O personagem tem a fisionomia do Coringa, vestindo uma roupa preta de couro, com várias cintas. Seu sorriso fica exposto no capuz de Batman, que tem uma venda de ferro com espinhos. No cenário ao fundo há uma tempestade em um céu vermelho."  
 %}
 
@@ -82,7 +82,7 @@ _**Eu realmente acredito que Nolan e Snyder copiaram descaradamente o desenho Th
 
 Em ambos os casos existem mudanças significativas (e coincidências evidentes), sem contar os mais de 80 anos de histórias em quadrinhos do **Batman**, tornando praticamente impossível qualquer novo conceito que nunca tenha sido minimamente arranhado antes.
 
-Mas de uma coisa eu tenho certeza: recomendo assistir a série! Apesar de insistir na ação, tem alguns episódios bem interessantes, principalmente os citados aqui. Tomara que as próximas temporadas sejam interessantes o suficiente para render mais um texto!
+Mas de uma coisa eu tenho certeza: recomendo assistir a série! Apesar de insistir na ação, tem alguns episódios bem divertidos, principalmente os citados aqui. Tomara que as próximas temporadas sejam interessantes o suficiente para render mais um texto!
 
 {% render "components/image" 
 img-url: "/images/thebatmans01s02-8.jpg"
