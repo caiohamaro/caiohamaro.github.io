@@ -1,0 +1,95 @@
+---
+title: Primeiras Temporadas de The Batman dos anos 2000&#58; Copia, mas não faz igual?
+author: Caio Amaro
+layout: post
+permalink: /posts/the-batman-copia-mas-nao-faz-igual/
+description: Christopher Nolan e Scott Snyder não inventaram nada mesmo…
+categories:
+  - Posts
+excerpt: Depois de assistir todas as séries animadas do Bruce Timm (Batman - A série animada, As Novas Aventuras do Batman, Liga da Justiça e Liga da Justiça - Sem Limites) decidi esperar um pouco antes de voltar a para as animações da DC Comics. Principalmente porque a próxima da minha lista era The Batman, que eu lembrava de gostar quando criança, mas estava com certa preguiça, principalmente devido ao senso comum de odiar o infame Coringa lutador.
+tags:  ["Batman", "Resenha", "Christopher Nolan", "Scott Snyder"]
+thumbnail: "/images/thebatmans01s02-0.jpg"
+timeread: 6
+---
+
+Depois de assistir todas as séries animadas do **Bruce Timm** (Batman - A série animada, As Novas Aventuras do Batman, Liga da Justiça e Liga da Justiça - Sem Limites) decidi esperar um pouco antes de voltar a para as animações da DC Comics. Principalmente porque a próxima da minha lista era **The Batman**, que eu lembrava de gostar quando criança, mas estava com certa preguiça, principalmente devido ao senso comum de odiar o infame **Coringa** _lutador_.
+
+{% render "components/image" 
+img-url: "/images/thebatmans01s02-1.jpg"
+img-description: ""
+img-alt: ""  
+%}
+
+Porém a série (pelo menos as duas primeiras temporadas que assisti até então) é muito boa! Lançadas em entre 2004 e 2005, elas já contam com alguns novos elementos que se tornariam tendência nos próximos anos nas próximas adaptações de super-heróis.
+
+## Vamos tirar o elefante branco lutador da sala
+
+É bom logo começar pelo que mais incomoda: todos os vilões, sem exceção, são lutadores e, portanto, representam uma ameaça física ao **Batman**. Até mesmo o **Pinguim** (que conta com duas guarda-costas) também possui habilidades de luta com seu guarda-chuva que se transforma em diversas armas. Aparentemente isso faz parte da fórmula encontrada pela série para sempre ter uma cena de ação.
+
+{% render "components/image" 
+img-url: "/images/thebatmans01s02-2.jpg"
+img-description: ""
+img-alt: ""  
+%}
+
+Dito isso, outra artifício que se repete é a trama do **Batman** ser derrotado no início do episódio e só superar seu adversário após voltar à batcaverna e aparecer com algum apetrecho/armadura/tecnologia nova, transformando-o em uma espécie de **Tony Stark** (antes mesmo da inesperada popularização do homem de ferro nos anos seguintes).
+
+{% render "components/image" 
+img-url: "/images/thebatmans01s02-3.jpg"
+img-description: ""
+img-alt: ""  
+%}
+
+## Coincidência das Trevas
+
+O aspecto interessante, porém, está em um arco que é o fio condutor das primeiras temporadas: a relação de **Batman** com dois detetives da polícia de Gotham responsáveis originalmente por caçá-lo: **Ethan Bennett** e **Ellen Yin**.
+
+{% render "components/image" 
+img-url: "/images/thebatmans01s02-4.jpg"
+img-description: ""
+img-alt: ""  
+%}
+
+**Ethan** é amigo de infância de Bruce, adicionando um tempero ao enredo, principalmente no final da primeira temporada, quando ele resolve confessar sua identidade secreta ao amigo. Porém antes de conseguir, é capturado pelo **Coringa** e exposto a um gás experimental que o transforma no vilão **Cara de Barro**. Tudo isso três anos antes da estreia de **Batman - O Cavaleiro das Trevas** (2008), com o **Coringa** de Heath Ledger também sendo responsável pela transformação do promotor **Harvey Dent** em **Duas-Caras**. Há uma clara troca de referências aqui, pois, embora no filme **Harvey** não seja melhor amigo de Bruce, na série animada dos anos 90 ele é.
+
+{% render "components/image" 
+img-url: "/images/thebatmans01s02-5.jpg"
+img-description: ""
+img-alt: ""  
+%}
+
+_**Você deve estar pensando que eu estou forçando a barra aqui, não é?**_ Bom, eu também estava pensando isso até assistir o episódio 12 da segunda temporada, quando a agora aliada do homem-morcego, Detetive **Ellen Yin**, é sequestrada pelo **Coringa** e mantida amarrada em um galpão cheio de galões de combustível, enquanto **Batman** precisa correr contra o tempo para salvá-la. Novamente, uma situação que seria replicada no segundo filme dirigido por Christopher Nolan!
+
+_**Mas vamos deixar de pegar no pé do diretor oscarizado! Até porque temos outro flagrante ainda para fazer nesse texto!**_ Afinal, temos um personagem recente (?) da DC Comics que foi diretamente influenciado pelo quarto episódio da segunda temporada dessa série.
+
+{% render "components/image" 
+img-url: "/images/thebatmans01s02-06.jpg"
+img-description: ""
+img-alt: ""  
+%}
+
+## O Morcego que ri por último
+
+No episódio **“O Morcego que ri”**, o **Coringa** deixa de querer cometer crimes e decide assumir a identidade do **Batman**, do seu próprio jeito, se assemelhando visualmente ao que viria a ser o vilão **Batman que Ri**, criado por **Scott Snyder** e **Greg Capullo** doze anos depois! De quebra, essa premissa do **Coringa** (aparentemente) reabilitado também é similar ao conceito de **Batman - O Cavaleiro Branco**, escrita e desenhada por **Sean Murphy** também em 2017.
+
+{% render "components/image" 
+img-url: "/images/thebatmans01s02-7.jpg"
+img-description: ""
+img-alt: ""  
+%}
+
+_**Eu realmente acredito que Nolan e Snyder copiaram descaradamente o desenho The Batman? Claro que não!**(Alô, setor jurídico!)_.
+
+Em ambos os casos existem mudanças significativas (e coincidências evidentes), sem contar os mais de 80 anos de histórias em quadrinhos do **Batman**, tornando praticamente impossível qualquer novo conceito que nunca tenha sido minimamente arranhado antes.
+
+Mas de uma coisa eu tenho certeza: recomendo assistir a série! Apesar de insistir na ação, tem alguns episódios bem interessantes, principalmente os citados aqui. Tomara que as próximas temporadas sejam interessantes o suficiente para render mais um texto!
+
+{% render "components/image" 
+img-url: "/images/thebatmans01s02-8.jpg"
+img-description: ""
+img-alt: ""  
+%}
+
+**Referências Bibliográficas**
+
+- Primeira e Segunda temporadas da Série The Batman (2004-2008) criada por Michael Goguen e Duane Capizzi.
