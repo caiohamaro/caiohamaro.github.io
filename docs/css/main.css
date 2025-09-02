@@ -1400,7 +1400,7 @@ svg:hover .starfield__layer {
 }
 
 .vertical > img {
-  max-width: 450px;
+  max-height: 600px;
 }
 
 .horizontal > img {
