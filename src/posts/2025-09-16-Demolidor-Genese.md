@@ -1,5 +1,5 @@
 ---
-title: Aí veio … O Demolidor, o homem sem popularidade
+title: Aí vem… O Demolidor, o homem sem popularidade
 author: Caio Amaro
 layout: post
 permalink: /posts/genese-demolidor/
@@ -9,7 +9,7 @@ categories:
 excerpt: Após nos debruçarmos sobre as influências para a criação do herói e também analisar a salada mista que foi a arte nas primeiras 21 edições do Demolidor, chegou a hora de falarmos sobre o conteúdo e recepção dessas histórias!
 tags:  ["Demolidor", "Stan Lee", "Resenha", "Quadrinhos"]
 thumbnail: "/images/demolidor-popularidade-0.jpg"
-timeread: 14
+timeread: 9
 ---
 
 Após nos debruçarmos sobre **[as influências para a criação do herói](https://caiohamaro.com.br/posts/origem-do-demolidor)** e também analisar **[a salada mista que foi a arte nas primeiras 21 edições do Demolidor](https://caiohamaro.com.br/posts/danca-cadeiras-desenhistas-demolidor)**, chegou a hora de falarmos sobre o conteúdo e recepção dessas histórias!
