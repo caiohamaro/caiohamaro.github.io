@@ -53,7 +53,7 @@ author: "(Gene Colan, 2008)"
 Essa imposição do **Demolidor** ter tramas mais mundanos o deixava desfalcado quanto à fórmula do sucesso da Marvel: conciliar ficção científica (devido à euforia com a corrida espacial) com dramas românticos (muito populares em novelas e outras séries de quadrinhos da época). E sobre os conflitos de relacionamento, um dos editores da Marvel, **Marv Wolfman** já destacava alguns fatores que poderiam ter contribuído para a falta de popularidade, como o flagrante elenco de apoio:
 
 {% render "components/quote" 
-quote: "Foggy e Matt, por exemplo: o relacionamento deles mudava a cada poucas edições; em um momento o Matt não gostava do Foggy, no outro um tinha ciúmes do outro; o Foggy, em uma edição, dizia algo como "Ele tem o mundo nas mãos, se apenas quisesse aproveitá-lo” e na edição seguinte falava sobre como o Matt era insensível. Em uma edição o Matt era frio, na seguinte já não era mais. Então, minha impressão é que faltava consistência nos personagens; era mais como escrever o que fosse conveniente para a história."
+quote: "Foggy e Matt, por exemplo: o relacionamento deles mudava a cada poucas edições; em um momento o Matt não gostava do Foggy, no outro um tinha ciúmes do outro; o Foggy, em uma edição, dizia algo como “Ele tem o mundo nas mãos, se apenas quisesse aproveitá-lo” e na edição seguinte falava sobre como o Matt era insensível. Em uma edição o Matt era frio, na seguinte já não era mais. Então, minha impressão é que faltava consistência nos personagens; era mais como escrever o que fosse conveniente para a história."
 author: "(Marv Wolfman, 1976)" 
 %}
 
