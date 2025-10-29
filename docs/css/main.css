@@ -2318,7 +2318,7 @@ svg:hover .starfield__layer {
   margin-top: 10px;
   margin-bottom: 8px;
   overflow: hidden;
-  max-height: 116px;
+  max-height: 122px;
   display: table-cell;
   vertical-align: middle;
   font-family: var(--ff-title);
