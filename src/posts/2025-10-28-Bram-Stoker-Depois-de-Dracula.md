@@ -6,7 +6,7 @@ permalink: /posts/bram-stoker-depois-de-dracula/
 description: Ou a triste e entediante jornada de ler Os Sete Dedos da Morte e A Toca do Verme Branco. 
 categories:
   - Posts
-excerpt:  O que mais Bram Stoker fez? Se eu ler suas outras histórias ficarei também maravilhado? Bom, essas dúvidas foram apenas o começo de uma jornada de seis meses para conseguir terminar de ler “Os Sete Dedos da Morte e A Toca do Verme Branco” publicado pela Nova Fronteira e traduzido por Stefania A. Lago, que traz dois romances posteriores do autor, de 1903 e 1911 respectivamente.
+excerpt: O que mais Bram Stoker fez? Se eu ler suas outras histórias ficarei também maravilhado? Bom, essas dúvidas foram apenas o começo de uma jornada de seis meses para conseguir terminar de ler “Os Sete Dedos da Morte e A Toca do Verme Branco” publicado pela Nova Fronteira e traduzido por Stefania A. Lago, que traz dois romances posteriores do autor, de 1903 e 1911 respectivamente.
 
 tags:  ["Bram Stoker", "Vampiro", "Livros", "Filmes"]
 thumbnail: "/images/bram-stoker-depois-dracula-00.png"
@@ -25,7 +25,7 @@ Bom, essas dúvidas foram apenas o começo de uma jornada de seis meses para con
 img-url: "/images/bram-stoker-depois-dracula-01.jpg"
 img-description: "Capa do Livro Os Sete dedos da Morte - A Toca do Verme Branco."
 img-alt: "Capa do Livro Os Sete dedos da Morte - A Toca do Verme Branco de Bram Stoker. A capa do livro é toda roxa, com o nome das histórias em destaque em cima e embaixo, com uma silhueta de uma mão com sete dedos e o desenho de uma cobra. Há também vários detalhes marrons adornando a capa do livro com elementos como caveiras e folhas."
-format: "vertical" 
+format: "vertical"
 %}
 
 ## Os Sete Vermes da Morte Branca
