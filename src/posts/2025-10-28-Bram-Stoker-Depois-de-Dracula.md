@@ -10,7 +10,7 @@ excerpt:  O que mais Bram Stoker fez? Se eu ler suas outras histórias ficarei t
 
 tags:  ["Bram Stoker", "Vampiro", "Livros", "Filmes"]
 thumbnail: "/images/bram-stoker-depois-dracula-00.png"
-timeread: 10
+timeread: 11
 ---
 
 **Spoilers dos livros Os Sete dedos da Morte e A Toca do Verme Branco (mas você se importa?)**
