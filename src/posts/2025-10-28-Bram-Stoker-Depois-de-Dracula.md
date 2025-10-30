@@ -15,7 +15,7 @@ timeread: 10
 
 **Spoilers dos livros Os Sete dedos da Morte e A Toca do Verme Branco (mas você se importa?)**
 
-Como esse ainda é um dos meus primeiros textos sobre o assunto, é de bom tom explicar que há alguns anos venho fazendo um projeto pessoal de conhecer mais obras com temáticas de vampiro ([você encontra outros textos desse projeto aqui!](https://caiohamaro.com.br/tags/Vampiro)). Isso, obviamente, incluiu a leitura de **"Drácula"** de **Bram Stoker**, publicado em 1987, que consolidou várias convenções existentes das criaturas em uma história incrível, mudando a forma com que o mundo conhecia os vampiros para sempre.
+Como esse ainda é um dos meus primeiros textos sobre o assunto, é de bom tom explicar que há alguns anos venho fazendo um projeto pessoal de conhecer mais obras com temáticas de vampiro ([você encontra outros textos desse projeto aqui!](https://caiohamaro.com.br/tags/Vampiro)). Isso, obviamente, incluiu a leitura de **"Drácula"** de **Bram Stoker**, publicado em 1897, que consolidou várias convenções existentes das criaturas em uma história incrível, mudando a forma com que o mundo conhecia os vampiros para sempre.
 
 E isso tudo me gerou um dúvida, que acredito ser comum a todo mundo tenha lido o livro: **o que mais Bram Stoker fez? Se eu ler suas outras histórias ficarei também maravilhado?**
 
