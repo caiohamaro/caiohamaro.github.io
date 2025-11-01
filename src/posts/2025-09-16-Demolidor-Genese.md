@@ -12,7 +12,7 @@ thumbnail: "/images/demolidor-popularidade-0.jpg"
 timeread: 8
 ---
 
-Após nos debruçarmos sobre **[as influências para a criação do herói](https://caiohamaro.com.br/posts/origem-do-demolidor)** e também analisar **[a salada mista que foi a arte nas primeiras 21 edições do Demolidor](https://caiohamaro.com.br/posts/danca-cadeiras-desenhistas-demolidor)**, chegou a hora de falarmos sobre o conteúdo e recepção dessas histórias!
+Após nos debruçarmos ssobre **[as influências para a criação do herói](https://caiohamaro.com.br/posts/origem-do-demolidor)** e também analisar **[a salada mista que foi a arte nas primeiras 21 edições do Demolidor](https://caiohamaro.com.br/posts/danca-cadeiras-desenhistas-demolidor)**, chegou a hora de falarmos sobre o conteúdo e recepção dessas histórias!
 
 Não só a arte era inconsistente, as tramas também penavam para firmar uma identidade própria ao personagem: ainda fazia muitas piadinhas como o **Homem-aranha**; Matt Murdock era reconhecido como um grande e conceituado advogado de um escritório que mal tinha clientes; Não tinham dinheiro para pagar o aluguel da sala comercial, porém Matt viajava de navio para Europa para espairecer, isso sem falar que ele morava em uma casa com dois andares em Nova Iorque (um deles era secreto, como base de operações e treino para suas atividades secretas).
 
