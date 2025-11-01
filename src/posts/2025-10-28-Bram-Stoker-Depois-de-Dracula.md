@@ -19,7 +19,7 @@ Como esse ainda é um dos meus primeiros textos sobre o assunto, é de bom tom e
 
 E isso tudo me gerou um dúvida, que acredito ser comum a todo mundo tenha lido o livro: **o que mais Bram Stoker fez? Se eu ler suas outras histórias ficarei também maravilhado?**
 
-Bom, essas dúvidas foram apenas o começo de uma jornada de seis meses para conseguir terminar de ler **“Os seis Dedos da Morte e A Toca do Verme Branco”** publicado pela Nova Fronteira e traduzido por Stefania A. Lago, que traz dois romances posteriores do autor, de 1903 e 1911 respectivamente.
+Bom, essas dúvidas foram apenas o começo de uma jornada de seis meses para conseguir terminar de ler **“Os Sete Dedos da Morte e A Toca do Verme Branco”** publicado pela Nova Fronteira e traduzido por Stefania A. Lago, que traz dois romances posteriores do autor, de 1903 e 1911 respectivamente.
 
 {% render "components/image" 
 img-url: "/images/bram-stoker-depois-dracula-01.jpg"
