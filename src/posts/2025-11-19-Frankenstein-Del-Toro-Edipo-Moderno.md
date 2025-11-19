@@ -3,7 +3,7 @@ title: O Frankenstein de Del Toro ou o Édipo moderno
 author: Caio Amaro
 layout: post
 permalink: /posts/frankenstein-del-toro-edipo-moderno/
-description: Ou a triste e entediante jornada de ler Os Sete Dedos da Morte e A Toca do Verme Branco. 
+description: ME DESCULPA, TOTORO-SAN! 
 categories:
   - Posts
 excerpt: O que mais Bram Stoker fez? Se eu ler suas outras histórias ficarei também maravilhado? Bom, essas dúvidas foram apenas o começo de uma jornada de seis meses para conseguir terminar de ler “Os Sete Dedos da Morte e A Toca do Verme Branco” publicado pela Nova Fronteira e traduzido por Stefania A. Lago, que traz dois romances posteriores do autor, de 1903 e 1911 respectivamente.
