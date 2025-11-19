@@ -105,7 +105,7 @@ O título original do livro de 1818 **“Frankenstein ou o Prometeu Moderno”**
 Agora imagine que no fim de todo esse texto exaltando o livro Frankenstein, ao invés de terminar com uma citação de Mary Shelley, eu tivesse o *mau gosto* de usar uma de Lord Byron? Poisé. É assim que o filme termina… Mas eu não cometerei esse sacrilégio aqui!
 
 {% render "components/quote" 
-quote: "Procure a felicidade na tranquilidade e evite a ambição, mesmo que esta pareça inofensiva, como o desejo de destacara-se na área da ciência e das descobertas. Mas por que eu digo isso? Eu mesmo fui amaldiçoado por minhas esperanças, mas outra pessoas pode ter exito."
+quote: "Procure a felicidade na tranquilidade e evite a ambição, mesmo que esta pareça inofensiva, como o desejo de destacar-se na área da ciência e das descobertas. Mas por que eu digo isso? Eu mesmo fui amaldiçoado por minhas esperanças, mas outra pessoas pode ter exito."
 author: "Victor Frankenstein para Walton no livro Frankenstein (Mary Shelley, 1831)" 
 %}
 
