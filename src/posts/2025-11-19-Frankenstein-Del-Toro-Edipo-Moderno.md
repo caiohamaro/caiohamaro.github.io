@@ -20,7 +20,7 @@ timeread: 11
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-01.jpg"
 img-description: "Uma das melhores seleções de elenco do cinema (Hellboy, 2004)."
-img-alt: ""
+img-alt: "Cena do filme Hellboy (2004) mostrando em primeiro plano o personagem Abe, uma criatura humanóide anfíbia azul estendendo sua mão em um vidro. No fundo está Hellboy, um demônio humanóide com chifres cortados e fumando um charuto"
 format: "vertical"
 %}
 
@@ -31,7 +31,7 @@ Não há muito o que falar sobre **Pinóquio por Guillermo Del Toro**, além de 
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-02.jpg"
 img-description: "Assistam Cronos! (Cronos, 1992)."
-img-alt: ""
+img-alt: "Cena do filme Cronos (1992) com o o personagem Jesus Gris, um antiquário mexendo no que parece ser uma relíquia dourada em formato de escaravelho ao lado de sua neta."
 format: "vertical"
 %}
 
@@ -41,7 +41,7 @@ format: "vertical"
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-03.jpg"
 img-description: "Sou #TeamDougJones (A Forma da Água, 2017)."
-img-alt: ""
+img-alt: "Cena do filme A Forma da Água (2017) mostrando a criatura meio-peixe em uma banheira olhando atenta para alguém fora do plano que está à desenhando."
 format: "vertical"
 %}
 
@@ -60,7 +60,7 @@ Por outro lado, quando **Del Toro** justifica que a motivação de Victor em des
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-04.jpg"
 img-description: "Espelho, espelho meu (Frankenstein, 2025)."
-img-alt: ""
+img-alt: "Cena do filme Frankenstein (2025) mostrando Victor Frankenstein olhando-se em um espelho triplo em um banheiro."
 format: "vertical"
 %}
 
@@ -79,7 +79,7 @@ O maior exemplo da falta de coragem de investir em sua releitura e insistir em t
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-05.jpg"
 img-description: "Aguela cena final de Frozen (Frankenstein, 2025)."
-img-alt: ""
+img-alt: "Cena do filme Frankenstein (2025) mostrando uma grande embracação encalhada no gelo do ártico."
 format: "vertical"
 %}
 
@@ -94,7 +94,7 @@ Um filme (graças a deus) não é apenas o seu roteiro. Frankenstein de Del Toro
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-06.jpg"
 img-description: "Frankenstein (2025)."
-img-alt: ""
+img-alt: "Imagem de divulgação do filme Frankenstein focada no rosto da criatura. Ela tem o rosto magro com marcas de costura de peles, cabelo negro longo e um olhar fixo e sofrido."
 format: "vertical"
 %}
 
