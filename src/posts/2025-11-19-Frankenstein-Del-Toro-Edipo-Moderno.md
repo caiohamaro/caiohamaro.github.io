@@ -6,16 +6,16 @@ permalink: /posts/frankenstein-del-toro-edipo-moderno/
 description: ME DESCULPA, TOTORO-SAN! 
 categories:
   - Posts
-excerpt: O grande problema do novo filme de Frankenstein é A Forma da Água existir. O filme de 2017 (vencedor do oscar de melhor filme e melhor roteiro) é uma releitura de Del Toro do filme O Monstro da Lagoa Negra, no qual, segundo o próprio, ao assistir quando criança, se decepcionou da criatura e a moça não ficarem juntos no final. O roteiro escrito utiliza apenas de elementos do filme original e foca em demonstrar como essa relação poderia ser real, e tematicamente bela. Além de tudo, ele fez com que o mundo inteiro aprendesse a amar monstros, assim como ele tanto ama.
+excerpt: O grande problema do novo Frankenstein é A Forma da Água existir. O filme de 2017 (vencedor do oscar de melhor filme e melhor roteiro) é uma releitura de **Del Toro** de O Monstro da Lagoa Negra de 1954, no qual, segundo o próprio, ao assistir quando criança, se decepcionou com a criatura e a moça não ficarem juntos no final. Portanto, o roteiro premiado utiliza apenas de elementos do filme original como base para desenvolver seu novo tema, provar a materialidade do relacionamento amoroso com um "monstro". E em seu sucesso, fez com que o mundo compartilhasse de seu fascínio por essas criaturas.
 
-tags:  ["Frankenstein", "Guilherme Del Toro", "Mary Shelley", "Drácula"]
+tags:  ["Frankenstein", "Guillermo Del Toro", "Mary Shelley", "Drácula"]
 thumbnail: "/images/frankenstein-del-toro-00.png"
 timeread: 11
 ---
 
 **Spoilers do livro Frankenstein (1818) e do filme Frankenstein (2025)**
 
-**Guilherme Del Toro** é, sem dúvida alguma, responsável por muitas das coisas que gosto. Tudo começou com o filme de 2004 do **Hellboy** e ficou mais claro ainda com **O Labirinto do Fauno** dois anos depois. Suas obras possuem uma *aura de histórias sendo contadas*, que, apesar de integrarem Hollywood e muita das suas convenções, conseguem ser muito autorais. E isso fica muito claro pela representação única que ele faz de monstros.
+**Guillermo Del Toro** é, sem dúvida alguma, responsável por muitas das coisas que gosto. Tudo começou com o filme de 2004 do **Hellboy** e ficou mais claro ainda com **O Labirinto do Fauno** dois anos depois. Suas obras possuem uma *aura de histórias sendo contadas*, que, apesar de integrarem Hollywood e muita das suas convenções, conseguem ser muito autorais. E isso fica muito claro pela representação única que ele faz de monstros.
 
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-01.jpg"
@@ -36,7 +36,7 @@ format: "vertical"
 %}
 
 ## A releitura e a adaptação
-**O grande problema do novo filme de Frankenstein é A Forma da Água existir.** O filme de 2017 (vencedor do oscar de melhor filme e melhor roteiro) é uma releitura de **Del Toro** de **O Monstro da Lagoa Negra** de 1954, no qual, segundo o próprio, ao assistir quando criança, *se decepcionou com a criatura e a moça não ficarem juntos no final*. Portanto, o roteiro premiado utiliza apenas de elementos do filme original como base para desenvolver seu novo tema: provar a materialidade do relacionamento amoroso com um "monstro". E em seu sucesso, fez com que o mundo compartilhasse de seu fascínio por essas criaturas.
+**O grande problema do novo Frankenstein é A Forma da Água existir.** O filme de 2017 (vencedor do oscar de melhor filme e melhor roteiro) é uma releitura de **Del Toro** de **O Monstro da Lagoa Negra** de 1954, no qual, segundo o próprio, ao assistir quando criança, *se decepcionou com a criatura e a moça não ficarem juntos no final*. Portanto, o roteiro premiado utiliza apenas de elementos do filme original como base para desenvolver seu novo tema: provar a materialidade do relacionamento amoroso com um "monstro". E em seu sucesso, fez com que o mundo compartilhasse de seu fascínio por essas criaturas.
 
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-03.jpg"
@@ -100,7 +100,7 @@ format: "vertical"
 
 Assitir essa produção *só prova como não há superação de uma forma de arte por outra*. **Mary Shelley**, aos 18 anos, escreveu um clássico, não só por sua atemporalidade, por fundar um novo gênero literário, mas também por ser intransponível em sua totalidade, seja para teatro, filme ou para qualquer outra linguagem.
 
-O título original do livro de 1818 **“Frankenstein ou o Prometeu Moderno”** evoca o mito de Prometeu, seja a) o *Piróforo*, que roubou o fogo dos deuses para dar aos homens; ou b) o *Plasticator*, que moldou o ser humano a partir do barro. Em sua adaptação de 2025, Guilherme Del Toro voou perto demais do sol (*alerta de excesso de mitologia grega no mesmo parágrafo!*) e teve a ambição de nos apresentar um *Édipo Moderno*: uma pessoa amaldiçoada a viver à mercê da figura de seu pai e apaixonado por sua mãe.
+O título original do livro de 1818 **“Frankenstein ou o Prometeu Moderno”** evoca o mito de Prometeu, seja a) o *Piróforo*, que roubou o fogo dos deuses para dar aos homens; ou b) o *Plasticator*, que moldou o ser humano a partir do barro. Em sua adaptação de 2025, Guillermo Del Toro voou perto demais do sol (*alerta de excesso de mitologia grega no mesmo parágrafo!*) e teve a ambição de nos apresentar um *Édipo Moderno*: uma pessoa amaldiçoada a viver à mercê da figura de seu pai e apaixonado por sua mãe.
 
 Agora imagine que no fim de todo esse texto exaltando o livro Frankenstein, ao invés de terminar com uma citação de Mary Shelley, eu tivesse o *mau gosto* de usar uma de Lord Byron? Poisé. É assim que o filme termina… Mas eu não cometerei esse sacrilégio aqui!
 
