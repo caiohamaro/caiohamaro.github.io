@@ -19,18 +19,18 @@ timeread: 11
 
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-01.jpg"
-img-description: "Capa do Livro Os Sete dedos da Morte - A Toca do Verme Branco."
+img-description: "Uma das melhores seleções de elenco do cinema (Hellboy, 2004)."
 img-alt: ""
 format: "vertical"
 %}
 
 Justamente por isso, o anúncio de que o diretor estava trabalhando em um novo material sempre me deixou empolgado, em detrimento da constante tristeza ao lembrar que a trilogia de **Hellboy** nunca será concluída. Dentre os diversos projetos que o diretor esteve envolvido e não foram para a frente sempre figuraram adaptações de romances literários, como **Nas Montanhas da Loucura** de **H. P. Lovecraft** e **O Conde de Monte Cristo** de **Alexandre Dumas**, mas, finalmente, dois desses fadadaos projetos enfim viram a luz do dia (devido à sua relação com a Netflix): As Aventuras de Pinóquio de Carlo Collodi e Frankenstein de Mary Shelley.
 
-Não há muito o que falar sobre **Pinóquio por Guillermo Del Toro**, além de destacar os aspectos que geralmente estão presentes nas obras do diretor: *"a representação mais linda possível do encontro (por vezes violento) de um conto de fadas com a realidade, somado à inserção em um contexto histórico real"*. É quase como a **fórmula perfeita** para me agradar (e a tantas outras pessoas), presente não só aqui, mas também em **A Forma da Água**, **Labirinto do Fauno**, **Espinha do Diabo** e **Chronos**.
+Não há muito o que falar sobre **Pinóquio por Guillermo Del Toro**, além de destacar os aspectos que geralmente estão presentes nas obras do diretor: *"a representação mais linda possível do encontro (por vezes violento) de um conto de fadas com a realidade, somado à inserção em um contexto histórico real"*. É quase como a **fórmula perfeita** para me agradar (e a tantas outras pessoas), presente não só aqui, mas também em **A Forma da Água**, **Labirinto do Fauno**, **Espinha do Diabo** e **Cronos**.
 
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-02.jpg"
-img-description: "Capa do Livro Os Sete dedos da Morte - A Toca do Verme Branco."
+img-description: "Assistam Cronos! (Cronos, 1992)."
 img-alt: ""
 format: "vertical"
 %}
@@ -40,7 +40,7 @@ format: "vertical"
 
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-03.jpg"
-img-description: "Capa do Livro Os Sete dedos da Morte - A Toca do Verme Branco."
+img-description: "Sou #TeamDougJones (A Forma da Água, 2017)."
 img-alt: ""
 format: "vertical"
 %}
@@ -59,7 +59,7 @@ Por outro lado, quando **Del Toro** justifica que a motivação de Victor em des
 
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-04.jpg"
-img-description: "Capa do Livro Os Sete dedos da Morte - A Toca do Verme Branco."
+img-description: "Espelho, espelho meu (Frankenstein, 2025)."
 img-alt: ""
 format: "vertical"
 %}
@@ -69,7 +69,8 @@ A comparação com o livro torna-se inevitável e a decisão poderia até ser ac
 Novos personagens, como **Harlander**, perdem relevância rapidamente, parecem existir apenas para justificar uma megalomania laboratorial (bem-vinda, mas que não precisava de explicação), ou para servir de analogia à bilionários atuais em busca da imortalidade, nem que seja de consciência (sendo que em nenhum momento a preservação da memória do cérebro reanimado fora pauta). **Harlander**, antes de morrer, profere *“Eu vou ser a águia que devora seu fígado, Sr. Prometeu”* e além de *cringe* (pela referência rasa ao título do livro) é uma frase que não se *paga* no filme: não há consequência para sua morte ou mesmo para o mecanismo que é danificado na cena.
 
 O protagonistas tornaram-se menos complexos. **Victor** é reduzido a um personagem mau, diretamente responsável pela morte de **Harlander**, **Elizabeth**, **Willian** e, pior de tudo, sem tempo de tela para desenvolvimento de sua culpa. Tudo se resume ao seu irmão proclamando “você é o monstro”, um diálogo que expõe uma total insegurança sobre a clareza da mensagem ou descrença da inteligência do público que, nesse momento, já assistira mais de 2 horas de filme.
-Nessa salada, a **Criatura** (encantadora como nunca antes), é um *duplo* de **Victor**, sendo odiado pelo seu pai/criador que é responsável pela morte de seu amor/mãe e razão de sua ira. Mesmo sendo o ponto alto do filme, ela é relegada à discussão de sua suposta imortalidade e é boa de coração o tempo todo, menos contra os marinheiros...
+
+Nessa salada, a **Criatura** (encantadora como nunca antes), é um *duplo* de **Victor**, sendo odiado pelo seu pai/criador que é responsável pela morte de seu amor/mãe (Elizabeth) e razão de sua ira. Mesmo sendo o ponto alto do filme, ela é relegada à discussão de sua suposta imortalidade e é boa de coração o tempo todo, menos contra os marinheiros...
 
 ## De Capitão Robert Walton para Capitão Anderson
 
@@ -77,7 +78,7 @@ O maior exemplo da falta de coragem de investir em sua releitura e insistir em t
 
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-05.jpg"
-img-description: "Capa do Livro Os Sete dedos da Morte - A Toca do Verme Branco."
+img-description: "Aguela cena final de Frozen (Frankenstein, 2025)."
 img-alt: ""
 format: "vertical"
 %}
@@ -92,7 +93,7 @@ Um filme (graças a deus) não é apenas o seu roteiro. Frankenstein de Del Toro
 
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-06.jpg"
-img-description: "Capa do Livro Os Sete dedos da Morte - A Toca do Verme Branco."
+img-description: "Frankenstein (2025)."
 img-alt: ""
 format: "vertical"
 %}
@@ -103,19 +104,17 @@ O título original do livro de 1818 **“Frankenstein ou o Prometeu Moderno”**
 
 Agora imagine que no fim de todo esse texto exaltando o livro Frankenstein, ao invés de terminar com uma citação de Mary Shelley, eu tivesse o *mau gosto* de usar uma de Lord Byron? Poisé. É assim que o filme termina… Mas eu não cometerei esse sacrilégio aqui!
 
-
 {% render "components/quote" 
 quote: "Procure a felicidade na tranquilidade e evite a ambição, mesmo que esta pareça inofensiva, como o desejo de destacara-se na área da ciência e das descobertas. Mas por que eu digo isso? Eu mesmo fui amaldiçoado por minhas esperanças, mas outra pessoas pode ter exito."
 author: "Victor Frankenstein para Walton no livro Frankenstein (Mary Shelley, 1831)" 
 %}
 
-
 **Referências Bibliográficas**
 
 - Filme Frankenstein (2025) dirigido por Guilhermo Del Toro.
-- A Forma da Água (2017) dirigido por Guillermo del Toro.
-- O Labirinto do Fauno (2006) dirigido por Guillermo del Toro.
-- Hellboy (2004) dirigido por Guillermo del Toro.
+- Filme A Forma da Água (2017) dirigido por Guillermo del Toro.
+- Filme O Labirinto do Fauno (2006) dirigido por Guillermo del Toro.
+- Filme Hellboy (2004) dirigido por Guillermo del Toro.
 - Filme A Espinha do Diabo (2001) dirigido por Guillermo del Toro.
 - Filme Drácula de Bram Stoker (1992) dirigido por Francis Ford Coppola
 - Filme Cronos (1992) dirigido por Guillermo del Toro.
