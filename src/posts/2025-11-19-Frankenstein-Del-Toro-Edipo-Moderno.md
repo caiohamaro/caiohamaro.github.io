@@ -6,7 +6,7 @@ permalink: /posts/frankenstein-del-toro-edipo-moderno/
 description: ME DESCULPA, TOTORO-SAN! 
 categories:
   - Posts
-excerpt: O que mais Bram Stoker fez? Se eu ler suas outras histórias ficarei também maravilhado? Bom, essas dúvidas foram apenas o começo de uma jornada de seis meses para conseguir terminar de ler “Os Sete Dedos da Morte e A Toca do Verme Branco” publicado pela Nova Fronteira e traduzido por Stefania A. Lago, que traz dois romances posteriores do autor, de 1903 e 1911 respectivamente.
+excerpt: O grande problema do novo filme de Frankenstein é A Forma da Água existir. O filme de 2017 (vencedor do oscar de melhor filme e melhor roteiro) é uma releitura de Del Toro do filme O Monstro da Lagoa Negra, no qual, segundo o próprio, ao assistir quando criança, se decepcionou da criatura e a moça não ficarem juntos no final. O roteiro escrito utiliza apenas de elementos do filme original e foca em demonstrar como essa relação poderia ser real, e tematicamente bela. Além de tudo, ele fez com que o mundo inteiro aprendesse a amar monstros, assim como ele tanto ama.
 
 tags:  ["Frankenstein", "Guilherme Del Toro", "Mary Shelley", "Drácula"]
 thumbnail: "/images/frankenstein-del-toro-00.png"
