@@ -69,11 +69,11 @@ A comparação com o livro torna-se inevitável e a decisão poderia até ser ac
 Novos personagens, como **Harlander**, perdem relevância rapidamente, parecem existir apenas para justificar uma megalomania laboratorial (bem-vinda, mas que não precisava de explicação), ou para servir de analogia à bilionários atuais em busca da imortalidade, nem que seja de consciência (sendo que em nenhum momento a preservação da memória do cérebro reanimado fora pauta). **Harlander**, antes de morrer, profere *“Eu vou ser a águia que devora seu fígado, Sr. Prometeu”* e além de *cringe* (pela referência rasa ao título do livro) é uma frase que não se *paga* no filme: não há consequência para sua morte ou mesmo para o mecanismo que é danificado na cena.
 
 O protagonistas tornaram-se menos complexos. **Victor** é reduzido a um personagem mau, diretamente responsável pela morte de **Harlander**, **Elizabeth**, **Willian** e, pior de tudo, sem tempo de tela para desenvolvimento de sua culpa. Tudo se resume ao seu irmão proclamando “você é o monstro”, um diálogo que expõe uma total insegurança sobre a clareza da mensagem ou descrença da inteligência do público que, nesse momento, já assistira mais de 2 horas de filme.
-Nessa salada, a **Criatura** (encantadora como nunca antes), mesmo sendo o ponto alto do filme, é relegada à discussão de sua suposta imortalidade e é boa de coração o tempo todo, menos contra os marinheiros...
+Nessa salada, a **Criatura** (encantadora como nunca antes), é um *duplo* de **Victor**, sendo odiado pelo seu pai/criador que é responsável pela morte de seu amor/mãe e razão de sua ira. Mesmo sendo o ponto alto do filme, ela é relegada à discussão de sua suposta imortalidade e é boa de coração o tempo todo, menos contra os marinheiros...
 
 ## De Capitão Robert Walton para Capitão Anderson
 
-O maior exemplo da falta de coragem de investir em sua releitura e insistir em trazer elementos do livro sem o devido esmero está no tempo presente do filme: *Capitão Anderson encontrando Victor e ouvindo sua história*. No livro, essa parte tem um propósito muito claro de explicar a moral daquela história: *O testemunho de Victor server para convencer o capitão (que no livro se chama Walton) que seu empreendimento ambicioso de ser o primeiro a chegar ao Polo Norte será sua ruína (e de todos aqueles ao seu redor)*.
+O maior exemplo da falta de coragem de investir em sua releitura e insistir em trazer elementos do livro sem o devido esmero está no tempo presente do filme: *Capitão Anderson encontrando Victor e ouvindo sua história*. No livro, essa parte tem um propósito muito claro de explicar a moral daquela história: *O testemunho da presunção de Victor servir para convencer o capitão (que no livro se chama Walton) que seu empreendimento ambicioso de ser o primeiro a chegar ao Polo Norte será sua ruína (e de todos aqueles ao seu redor)*.
 
 {% render "components/image" 
 img-url: "/images/frankenstein-del-toro-05.jpg"
@@ -99,9 +99,16 @@ format: "vertical"
 
 Assitir essa produção *só prova como não há superação de uma forma de arte por outra*. **Mary Shelley**, aos 18 anos, escreveu um clássico, não só por sua atemporalidade, por fundar um novo gênero literário, mas também por ser intransponível em sua totalidade, seja para teatro, filme ou para qualquer outra linguagem.
 
-O título original do livro de 1818 **“Frankenstein ou o Prometeu Moderno”** evoca o mito de Prometeu, seja aquele que moldou o ser humano do barro ou aquele que foi condenado por dar conhecimento aos homens. Em sua adaptação de 2025, Guilherme Del Toro voou perto demais do sol (*alerta de excesso de mitologia grega no mesmo parágrafo!*), e tentou nos apresentar um Édipo Moderno: uma pessoa amaldiçoada a viver à mercê da figura de seu pai e apaixonado por sua mãe.
+O título original do livro de 1818 **“Frankenstein ou o Prometeu Moderno”** evoca o mito de Prometeu, seja a) o *Piróforo*, que roubou o fogo dos deuses para dar aos homens; ou b) o *Plasticator*, que moldou o ser humano a partir do barro. Em sua adaptação de 2025, Guilherme Del Toro voou perto demais do sol (*alerta de excesso de mitologia grega no mesmo parágrafo!*) e teve a ambição de nos apresentar um *Édipo Moderno*: uma pessoa amaldiçoada a viver à mercê da figura de seu pai e apaixonado por sua mãe.
 
-Agora imagine que no fim de todo esse texto exaltando o livro Frankenstein, ao invés de terminar com uma citação de Mary Shelley, eu tivesse o mau gosto de usar uma de Lord Byron? Poisé. É assim que o filme termina… Mas eu não cometerei esse sacrilégio aqui!
+Agora imagine que no fim de todo esse texto exaltando o livro Frankenstein, ao invés de terminar com uma citação de Mary Shelley, eu tivesse o *mau gosto* de usar uma de Lord Byron? Poisé. É assim que o filme termina… Mas eu não cometerei esse sacrilégio aqui!
+
+
+{% render "components/quote" 
+quote: "Procure a felicidade na tranquilidade e evite a ambição, mesmo que esta pareça inofensiva, como o desejo de destacara-se na área da ciência e das descobertas. Mas por que eu digo isso? Eu mesmo fui amaldiçoado por minhas esperanças, mas outra pessoas pode ter exito."
+author: "Victor Frankenstein para Walton no livro Frankenstein (Mary Shelley, 1831)" 
+%}
+
 
 **Referências Bibliográficas**
 
@@ -114,7 +121,7 @@ Agora imagine que no fim de todo esse texto exaltando o livro Frankenstein, ao i
 - Filme Cronos (1992) dirigido por Guillermo del Toro.
 - Filme Pinóquio por Guillermo Del Toro (2022) dirigido por Guilhermo Del Toro.
 Guillermo del Toro’s Pinocchio 2022 Directed by Mark Gustafson, Guillermo del Toro
-- Livro Frankenstein, ou o Prometeu moderno: Edição crítica de Mary Shelly, traduzido por xxxxxxxx.
+- Livro Frankenstein, ou o Prometeu moderno: Edição crítica de Mary Shelly, traduzido por Martha Argel e Humberto Moura Neto. Sebo Clepsidra e Aetia Editorial, 2023.
 - Vídeo "Vale a pena ver o FRANKENSTEIN de Guillermo del Toro?" do canal Fantasticursos. Disponível em: https://www.youtube.com/watch?v=yvuU-jt7NUk.
 - Vídeo "O Frankenstein 2025 do Del Toro é bom, mas raso demais pra Mary Shelley (Crítica)" do canal Tralhas do Jon. Disponível em: https://www.youtube.com/watch?v=fqx8c2o2X_k.
 - Vídeo "Frankenstein (2025) - Crítica: Del Toro adapta clássico de Mary Shelley" do canal 
