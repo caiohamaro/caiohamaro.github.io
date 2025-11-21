@@ -9,7 +9,7 @@ categories:
 excerpt: O que mais Bram Stoker fez? Se eu ler suas outras histórias ficarei também maravilhado? Bom, essas dúvidas foram apenas o começo de uma jornada de seis meses para conseguir terminar de ler “Os Sete Dedos da Morte e A Toca do Verme Branco” publicado pela Nova Fronteira e traduzido por Stefania A. Lago, que traz dois romances posteriores do autor, de 1903 e 1911 respectivamente.
 
 tags:  ["Bram Stoker", "Vampiro", "Livros", "Filmes"]
-thumbnail: "/images/bram-stoker-depois-dracula-00.png"
+thumbnail: "/images/bram-stoker-depois-dracula-00.jpg"
 timeread: 11
 ---
 

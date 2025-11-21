@@ -38,7 +38,7 @@ Voltando a **The Last of Us**, a história foi organizada mostrando as provaçõ
 ## Criando uma Identidade Sonora
 
 {% render "components/image" 
-img-url: "/images/lastofus-1.png"
+img-url: "/images/lastofus-1.jpg"
 img-alt: "Joel abraçando sua filha Sarah após ela morrer no prólogo do jogo."  
 %}
 
@@ -58,7 +58,7 @@ demonstrar sua progressão do que usando o recurso que por muitas vezes passa ba
 ## Criando uma Identidade Sonora
 
 {% render "components/image" 
-img-url: "/images/lastofus-2.png"
+img-url: "/images/lastofus-2.jpg"
 img-description: "Gustavo Santaolalla, compositor de The Last of Us"  
 img-alt: "Gustavo Santaolalla, compositor de The Last of Us, tocando um violão"
 %}
@@ -74,7 +74,7 @@ author: "(SANTAOLALLA, 2014)"
 Gustavo nunca havia trabalhado com jogos antes e aceitou o trabalho após conhecer a premissa, além de ficar contente por ser contratado nos estágios iniciais do projeto, ponto esse que  [Neil Druckmann ressalta](https://www.youtube.com/watch?v=R0l7LzC_h8I&t=47m11s) como algo curioso pois revela que não só a música foi criada a partir do enredo, como a escrita do mesmo também foi influenciada pelos temas que Gustavo criava.
 
 {% render "components/image" 
-img-url: "/images/lastofus-3.png"
+img-url: "/images/lastofus-3.jpg"
 img-alt: "Joel carregando sua filha Sarah no colo no prólogo do jogo."  
 %}
 
@@ -87,7 +87,7 @@ Dentre os diversos temas musicais criados por Gustavo para o jogo, o tema mais i
 A partir de então o Joel muda em 20 anos e passa a ser um sobrevivente, porém ao encontrar Ellie, seu impulso é evitar que seu trauma volte a ocorrer, assim, passa a ser autoritário com ela e, principalmente, negar qualquer laço paternal, o que resulta em uma das cenas mais emocionantes do jogo com as atuações de **Troy Baker** e **Ashley Johnson**, onde os dois personagens se abrem como nunca antes. Ellie argumenta que sabe se cuidar e tomar suas próprias decisões e que todas as pessoas que ela já se apegou se foram, expondo que também tem traumas (algo melhor desenvolvido na DLC The Last of Us: Left Behind) e o principal é justamente o medo de ficar sozinha. Por outro lado, Joel se zanga ao lembrar de Sarah e alega que Ellie definitivamente não é sua filha, porém essa mentira que ele conta a si mesmo é desmascarada pelo retorno da faixa **All Gone** que toca durante a discussão.
 
 {% render "components/image" 
-img-url: "/images/lastofus-4.png"
+img-url: "/images/lastofus-4.jpg"
 img-alt: "Joel acariciando Ellie manchada de sangue após ela matar David."  
 %}
 
@@ -102,7 +102,7 @@ No início do capítulo do inverno é possível ouvir **All Gone (Alone)** enqua
 Com esta relação solidificada, o jogo se encaminha para o ato final, onde, sob essas novas condições, Joel reviverá novamente seu trauma, porém agora de forma mais integrada com a jogabilidade, pois, junto dele, o jogador também não saberá o real estado de Ellie. A situação inicia de forma similar, com Ellie afogada, Joel tentando reanimá-la e um indivíduo armado os ameaçando, a partir daí está nas mãos do jogador percorrer todo o cenário do hospital em busca da garota e inclusive assassinar os médicos responsáveis por sua cirurgia, mecânica sugerida a Neil pelo Designer de Nível Peter Field. pois uma vez que o conflito estava tão bem construído, os sentimentos transmitidos para o jogador o fariam agir da mesma forma que Joel.
 
 {% render "components/image" 
-img-url: "/images/lastofus-5.png"
+img-url: "/images/lastofus-5.jpg"
 img-alt: "Joel aflito carregando Ellie desacordada no colo enquanto está no elevador do Hospital."  
 %}
 
@@ -113,7 +113,7 @@ Após vários minutos de tensão, Joel carrega Ellie, da mesma forma que carrega
 Joel havia enfim tomado sua decisão, que é reafirmada pela última cena do jogo onde ambos os personagens cruzam o **fim da Linha** em consonância com o que Robert Mckee ensinou ao diretor Neil Druckmann, que explica que a mentira de Joel sobre a cura significa que ele decide arriscar a coisa mais preciosa do mundo para ele, o relacionamento com sua própria filha, devido ao seu amor irracional de pai, enquanto Ellie ao dizer *“Okay”* sabe que ele está mentindo, o ama pelo que ele fez por ela, mas o odeia por tirar dela o poder de decisão sobre suas próprias escolhas, percebendo neste momento que precisará deixá-lo e encarar seu medo de ficar sozinha no mundo, mas dessa vez por opção própria.
 
 {% render "components/image" 
-img-url: "/images/lastofus-6.png"
+img-url: "/images/lastofus-6.jpg"
 img-description: "Ellie olhando para Joel na cena final do jogo." 
 img-alt: "Ellie olhando para Joel na cena final do jogo."  
 %}
