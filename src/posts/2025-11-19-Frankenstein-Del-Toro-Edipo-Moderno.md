@@ -9,7 +9,7 @@ categories:
 excerpt: O grande problema do novo Frankenstein é A Forma da Água existir. O filme de 2017 (vencedor do oscar de melhor filme e melhor roteiro) é uma releitura de Del Toro de O Monstro da Lagoa Negra de 1954, no qual, segundo o próprio, ao assistir quando criança, se decepcionou com a criatura e a moça não ficarem juntos no final. Portanto, o roteiro premiado utiliza apenas de elementos do filme original como base para desenvolver seu novo tema, provar a materialidade do relacionamento amoroso com um "monstro". E em seu sucesso, fez com que o mundo compartilhasse de seu fascínio por essas criaturas.
 
 tags:  ["Frankenstein", "Guillermo Del Toro", "Mary Shelley", "Drácula"]
-thumbnail: "/images/frankenstein-del-toro-00.png"
+thumbnail: "/images/frankenstein-del-toro-00.jpg"
 timeread: 11
 ---
 
