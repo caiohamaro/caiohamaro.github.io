@@ -57,7 +57,7 @@ Enquanto o livro anterior contava com a fetichização do Egito, este possui um 
 **No fim, tudo é resolvido com explosivos**. Definitivamente **Stoker** não conseguiu repetir seu uma vez alcançado êxito de escrever um romance interessante com personagens descobrindo a existência de um ser folclórico que precisa ser derrotado. E eu não estou sozinho nessa não! Deixo como evidência uma das tirinhas que o quadrinista André Valente publicou em sua série inacabada [**“André Valente's O LAR DA LESMA BRANCA de Bram Stoker”**](https://x.com/andrevalente/status/1411032290176733194?t=S5cYNr6xPFYzHZoe6DDFYw&s=19):
 
 {% render "components/image" 
-img-url: "/images/bram-stoker-depois-dracula-04.png"
+img-url: "/images/bram-stoker-depois-dracula-04.jpg"
 img-description: "Nas palavras do próprio André Valente: Não é à toa que até o mala do H. P. Lovecraft achou esse livro chato."
 img-alt: "Capa e Página 25 da adaptação O Lar da Lesma Branca. A imagem contém duas páginas, a primeira é a capa, contendo apenas o título e a segunda é a página 25 com o desenho do próprio autor lendo o livro e falando: Céus, esse livro parece bem ruim. Tudo isso só para dizer que o cara chegou. Uma prosa tão gostosa quanto um tratamento de canal sem anestesia. Não é à toa que até o mala do H. P. Lovecraft achou esse livro chato."  
 %}
