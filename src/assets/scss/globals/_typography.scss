@@ -107,7 +107,7 @@ p {
 b,
 strong {
   --wght: var(--fw-medium);
-
+  font-weight: var(--fw-medium);
   color: var(--color-text-alt);
 }
 
