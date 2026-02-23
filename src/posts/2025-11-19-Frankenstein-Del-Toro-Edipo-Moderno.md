@@ -109,7 +109,9 @@ quote: "Procure a felicidade na tranquilidade e evite a ambição, mesmo que est
 author: "Victor Frankenstein para Walton no livro Frankenstein (Mary Shelley, 1831)" 
 %}
 
-**Referências Bibliográficas**
+***------***
+# *Publicado em 19/11/2025* #
+### **Referências Bibliográficas** ###
 
 - Filme Frankenstein (2025) dirigido por Guilhermo Del Toro.
 - Filme A Forma da Água (2017) dirigido por Guillermo del Toro.

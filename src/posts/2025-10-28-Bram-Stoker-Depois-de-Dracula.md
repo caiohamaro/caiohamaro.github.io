@@ -136,8 +136,9 @@ img-description: "A cena final de A Maldição da Serpente reflete meu estado ao
 img-alt: "Cena final de A Maldição da Serpente com lorde James D'ampton, Angus Flint um ao lado do outro após a luta final. James está contemplativo e fumando um cigarro e Angus está todo sujo olhando para ele."
 %}
 
-
-**Referências Bibliográficas**
+***------***
+# *Publicado em 29/10/2025* #
+### **Referências Bibliográficas** ###
 
 - Filme A Maldição da Serpente (1988) dirigido por Ken Russell.
 - Filme O Túmulo de Sangue (1971) dirigido por Seth Holt e Michael Carreras.

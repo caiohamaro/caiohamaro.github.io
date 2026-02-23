@@ -203,7 +203,9 @@ As várias interpretações de Van Helsing e sua presença no imaginário popula
 
 O grande desafio de Stoker foi criar alguém que explicasse aos outros personagens quem era o Drácula, porque ele era assustador e como seria possível derrotá-lo. Função esta que é muito similar ao desafio que o próprio escritor precisava transpor para convencer os leitores à continuar lendo seu livro… **Seria apenas uma coincidência que Abraham (Bram) Stoker tenha nomeado seu personagem mais inteligente como Abraham Van Helsing?**
 
-### Referências Bibliográficas
+***------***
+# *Publicado em 18/07/2025* #
+### **Referências Bibliográficas** ###
 
 - Filme Drácula (1931) dirigido por Tod Browning
 - Filme The Return of the Vampire (1943) dirigido por Lew Landers
