@@ -90,6 +90,8 @@ img-description: ""
 img-alt: "Cena do desenho The Batman com Batman segurando o Coringa pela camiseta. Enquanto Batman tem uma expressão séria, o Coringa tem um sorriso sereno no rosto."  
 %}
 
-**Referências Bibliográficas**
+***------***
+# *Publicado em 03/09/2025* #
+### **Referências Bibliográficas** ###
 
 - Primeira e Segunda temporadas da Série The Batman (2004-2008) criada por Michael Goguen e Duane Capizzi.

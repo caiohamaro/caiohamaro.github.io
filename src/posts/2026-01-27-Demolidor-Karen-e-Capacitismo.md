@@ -112,9 +112,10 @@ img-alt: "Capa da edição nº 41 de Demolidor, com o herói em primeiro plano, 
 
 Os leitores só teriam histórias com uma abordagem mais séria envolvendo pessoas com deficiência visual nas últimas edições creditadas ao **Stan Lee**, enquanto relacionamentos amorosos mais complexos só surgiram quando Gerry Conway assumiu os textos, tirou Karen de cena e adicionou um novo e super-heróico amor na vida de Matt. E isso tudo você confere nos meus próximos textos!
 
-***------***
 
-**Referências Bibliográficas**
+***------***
+# *Publicado em 27/01/2026* #
+### **Referências Bibliográficas** ###
 
 - Edições 01 a 21 de Demolidor, presentes no Encadernado Demolidor: Edição Definitiva vol. 1, 2023.
 - Edições 22 a 39 de Demolidor, presentes no Encadernado Demolidor: Edição Definitiva vol. 2, 2023.

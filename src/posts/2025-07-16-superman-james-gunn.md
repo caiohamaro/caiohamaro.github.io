@@ -150,7 +150,9 @@ img-alt: "Foto do set de Superman (2025) mostrando Lex Luthor (Nicholas Hoult) c
 "
 %}
 
-### Referências Bibliográficas
+***------***
+# *Publicado em 16/07/2025* #
+### **Referências Bibliográficas** ###
 
 - Matéria [“Thanos Creator Was Paid More for ‘Batman v. Superman’ Than All Marvel Movies Combined”](https://www.hollywoodreporter.com/movies/movie-news/thanos-creator-was-paid-more-batman-v-superman-all-marvel-movies-combined-968148/) de Graeme McMillan no Hollywood Reporter (2017).
 - Matéria [“Marvel and DC’s “Shut-Up Money”: Comic Creators Go Public Over Pay”](https://www.hollywoodreporter.com/movies/movie-news/marvel-and-dcs-shut-up-money-comic-creators-go-public-over-pay-1234983043/) do de Aaron Couch no Hollywood Reporter (2017).

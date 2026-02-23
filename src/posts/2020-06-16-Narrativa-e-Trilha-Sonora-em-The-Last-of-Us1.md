@@ -129,3 +129,6 @@ Inegavelmente, **The Last of Us**, por ser um jogo, é um produto que traz discu
 Nesse sentido, a preocupação em conciliar narrativa e trilha sonora é um dos diferenciais que proporciona uma forma agradável de se contar uma história e de transmitir suas mensagens. Não é à toa que Gustavo Santolalla além de ser responsável pela trilha de **The Last of Us — Part II** (2020), também irá compor para a futura série da HBO sobre o jogo.
 
 Assim como Neil disse, sua música é parte da história, assim como The Last of Us é fruto de sua música.
+
+***------***
+# *Publicado em 16/06/2020 no Medium* #

@@ -97,3 +97,6 @@ Eu fico feliz com o fato de que, quatro anos antes de seu falecimento, Ursula ti
 img-url: "/images/ursula-4.jpg"
 img-alt: "Ursula abraçando um gato em uma foto preto e branco."  
 %}
+
+***------***
+# *Publicado em 30/08/2018 no Medium* #

@@ -145,7 +145,9 @@ Por mais que **Stan Lee** tenha se creditado como roteirista em todas essas edi�
 
 Mas aí vem a pergunta: **esse esforço todo em cima do Demolidor deu certo? O personagem tornou-se o novo escalador de paredes e caiu nas graças do público?**... Bom, isso é assunto para o próximo texto!
 
-**Referências Bibliográficas**
+***------***
+# *Publicado em 18/08/2025* #
+### **Referências Bibliográficas** ###
 
 - Documentário Stan Lee (2023).
 - Documentário [“The Men Without Fear”](https://www.youtube.com/watch?v=3C77agos7vg) (2003) entrevistando Stan Lee no conteúdo extra do DVD do filme Demolidor.

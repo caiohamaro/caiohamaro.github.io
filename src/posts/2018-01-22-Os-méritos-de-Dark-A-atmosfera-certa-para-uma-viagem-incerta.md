@@ -66,3 +66,7 @@ img-alt: "imagem abstrata da abertura de Dark"
 %}
 
 A experiência, porém, compensa o tempo gasto, e os showrunners **Jantje Friese e Baran bo Odar** merecem o voto de confiança pela competência com que dirigiram **Dark**, uma série que aposta e destaca-se entre os “originais Netflix”. Definitivamente ela vale um olhar mais atento e uma discussão posterior maior sobre sua trama e qualidades que vá além do já manjado “é tipo um Stranger Things para adultos” encontrado em diversas críticas.
+
+
+***------***
+# *Publicado em 22/01/2018 no Medium* #

@@ -100,7 +100,9 @@ img-alt: "Capa do quadrinho Demolidor - Edição Definitiva - Volume 1, destacan
 format: "vertical" 
 %}
 
-**Referências Bibliográficas**
+***------***
+# *Publicado em 18/09/2025* #
+### **Referências Bibliográficas** ###
 
 - Edições 01 a 21 de Demolidor, presentes no Encadernado Demolidor: Edição Definitiva vol. 1, 2023
 - Documentário [“The Men Without Fear”](https://www.youtube.com/watch?v=3C77agos7vg) (2003) entrevistando Stan Lee no conteúdo extra do DVD do filme Demolidor.
