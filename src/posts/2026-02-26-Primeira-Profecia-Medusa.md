@@ -20,21 +20,21 @@ E não é que **A Primeira Profecia** (2024) dirigido por **Arkasha Stevenson** 
 
 ## Bons Presságios
 
-Caso alguém não conheça **A Profecia** (The Omen) de 1976, é um clássico do horror, contando a infância do aparente inocente **Damien Thorn** e a relutância de seu pai, embaixador norte-americano residente na Inglaterra, que reconhecer que seu filho é (nada mais nada menos que) o anticristo, responsável pela destruição do mundo.
+Caso alguém não conheça **A Profecia** (The Omen) de 1976, é um clássico do horror, contando a infância do aparente inocente **Damien Thorn** e a relutância de seu pai, embaixador norte-americano residente na Inglaterra, em reconhecer que seu filho é (nada mais nada menos que) o anticristo, destinado à destruir o mundo.
 
 De forma resumida, além de um excelente filme, ele teve três grandes impactos na indústria cultural:
 
-**1 -** A popularização do 666 como o número da besta (marca presente na cabeça de Damien)
-**2 -** Restabelecimento da trilha sonora (com temas sacros) como principal característica do horror, uma vez que não há representações gráficas assustadoras ou grotescas. Aqui a aposta é na tensão, não na exposição.
-**3 -** O ponto de partida para a trama de **Belas Maldições**, escrito por **Terry Pratchett** e **Neil Gaiman**, paródia publicada em 1990 e que virou série em 2019.
+**1 - A popularização do 666 como o número da besta** (marca presente na cabeça de Damien)
+**2 - Restabelecimento da trilha sonora (com temas sacros) como principal característica do horro**, uma vez que não há representações gráficas assustadoras ou grotescas. Aqui a aposta é na tensão, não na exposição.
+**3 - O ponto de partida para a trama de Belas Maldições**, escrito por **Terry Pratchett** e **Neil Gaiman**, romance paródia publicado em 1990 e que virou série em 2019.
 
-À nova obra de 2024 cabe o grande mérito de **Arkasha Stevenson**, que além de dirigir, também escreveu o roteiro do filme junto de **Tim Smith** e **Keith Thomas**, e focou no papel feminino nessa história, ou seja, na progenitora do anticristo: **Margaret**, uma noviça norte-americana que é enviada ao **Orfanato Vizzardeli** em Roma para ser iniciada como freira.
+À nova obra de 2024 cabe o grande mérito de **Arkasha Stevenson**, que além de dirigir, também escreveu o roteiro do filme junto de **Tim Smith** e **Keith Thomas**, e focou no papel feminino nessa história, ou seja, na progenitora do anticristo: **Margaret**, uma noviça norte-americana que é enviada ao **Orfanato Vizzardeli** em Roma para ser iniciada como freira e jogada no meio de um plano diabólico.
 
 ## O Cabelo de Medusa
 
-A exploração do feminino em filmes de horror junto da temática católica não é novidade na cultura pop, justamente pelo respaldo na opressão resultante da atuação da igreja e suas doutrinas (por incrível que pareça, o filme *Imaculada* que lançou no mesmo ano tem a mesma temática! Porém não é tão bom quanto - Opinião do editor).
+A exploração do feminino em filmes de horror junto da temática católica não é novidade na *cultura pop*, justamente pelo respaldo na opressão resultante da atuação da igreja e suas doutrinas (por incrível que pareça, o filme *Imaculada* lançado no mesmo ano tem a mesma temática! Porém nem se compara em termos de qualidade).
 
-Assim como no filme de 1976, em **A Primeira Profecia** existe diferenciação da ***Igreja Católica do Bem*** (representada pelo Padre Brennan) e a ***Igreja Católica do Mal*** (Cardinal Lawrence). A primeira fora responsável por punir **Margaret** desde sua infância, forçando-a à parar de “acreditar” em seus transtornos psicológicos, tornando-a uma adulta disciplinada no hábito (prestes a tornar-se freira) e reprimida o suficiente para ser vítima da segunda Igreja, ponto de partida da história.
+Assim como no filme de 1976, em **A Primeira Profecia** existe diferenciação da ***Igreja Católica do Bem*** (representada pelo Padre Brennan) e a ***Igreja Católica do Mal*** (Cardinal Lawrence). A primeira, no entanto, fora responsável por punir **Margaret** desde sua infância, forçando-a à parar de “acreditar” em seus transtornos psicológicos, tornando-a uma adulta disciplinada no hábito (prestes a tornar-se freira) e reprimida o suficiente para ser vítima da segunda Igreja, ponto de partida da história.
 
 {% render "components/image" 
 img-url: "/images/primeira-profecia-medusa-01.jpg"
@@ -70,13 +70,13 @@ img-alt: "Cena do filme A Primeira Profecia (2024) mostrando um close na maçane
 format: "vertical"
 %}
 
-Para além dos signos mais frequentes em histórias semelhantes —  à exemplo do diabo como uma fera/besta e a figura feminina como uma eterna representação de Eva e seu pecado original — a utilização literal da figura da famosa górgona traz uma nova interpretação. É revelado no decorrer da trama que **Margaret** fora enganada a vida toda, tendo sua concepção já como parte de um experimento com o objetivo de torná-la progenitora do anticristo e, naquela fatídica noite de suposta euforia, fora alcoolizada e estuprada pelo **Diabo**. Todos do **orfanato Vizzardeli**, exceto as crianças, sabiam do plano e confabularam para o processo violento e apressado de gravidez, forçando-a a ser um mero instrumento para a concepção de **Damien**.
+Para além dos signos mais frequentes em histórias semelhantes —  à exemplo do diabo como uma fera/besta e a figura feminina como uma eterna representação de Eva e seu pecado original — a utilização literal da figura da famosa górgona traz novas analogias. É revelado no decorrer da trama que **Margaret** fora enganada a vida toda, tendo sua concepção já como parte de um experimento com o objetivo de torná-la progenitora do anticristo e, naquela fatídica noite de suposta euforia, fora alcoolizada e estuprada pelo **Diabo**. Todos do **orfanato Vizzardeli**, exceto as crianças, sabiam do plano e confabularam para o processo violento e apressado de gravidez, forçando-a a ser um mero instrumento para a concepção de **Damien**.
 
-Eu poderia *simplesmente* dizer que é possível comparar a tragédia de Margaret com a do famoso mito grego da **Medusa**, pois ambas foram vítimas da vontade de Deus (ou deuses), contra sua própria autonomia. **Porém é mais interessante trazer um contexto maior sobre a Medusa, ou melhor: sobre As Medusas!**
+Eu poderia *simplesmente* dizer que é possível comparar a tragédia de *Margaret* com a do famoso mito grego da **Medusa**, pois ambas foram vítimas da vontade de Deus (ou deuses), contra sua própria autonomia. **Porém é mais interessante trazer um contexto maior sobre a Medusa, ou melhor: sobre As Medusas!**
 
 ## A Primeira Górgona
 
-*De onde vem a Medusa que figura no imaginário popular de hoje em dia?* **É importante estabelecer que em todas as suas representações clássicas ela é um dos desafios que precisa ser superado pelo herói Perseu, um semi-deus ajudado pelos deuses que tenta fugir do próprio destino.** A primeira versão literária do mito (que remonta à Grécia Antiga) é menos conhecida: em **Teogonia**, de **Hesíodo**, um poema de 1022 versos datados do século VIII-VII A.C., temos a **Medusa** e suas irmãs **Euríale** e **Esteno** tão antigas quanto os próprios deuses, sendo ela, a única mortal e, portanto, vítima de **Perseu** (em sua jornada heróica).
+*De onde vem a Medusa que figura no imaginário popular de hoje em dia?* **É importante estabelecer que em todas as suas representações clássicas ela é um dos desafios que precisa ser superado pelo herói Perseu, um semi-deus ajudado pelos deuses que tenta fugir do próprio destino.** A primeira versão literária do mito (que remonta à Grécia Antiga) é menos conhecida: em **Teogonia**, de **Hesíodo**, um poema de 1022 versos datados do século VIII-VII A.C., temos a **Medusa** e suas irmãs **Euríale** e **Esteno** tão antigas quanto os próprios deuses, sendo ela, a única mortal e, portanto, vítima de **Perseu**.
 
 {% render "components/quote" 
 quote: "Descendentes de Ceto e Fórcis <br>
@@ -100,7 +100,7 @@ Levando o trovão e o raio ao prudente Zeus.<br>"
 author: "Teogonia (Hesíodo, VIII-VII A.C)" 
 %}
 
-No poema existe a menção da mesma deitar-se com **Poseidon** (o de cabeleira negra), mas sem indicação de abuso sexual, algo que seria incorporado ao mito 800 anos depois pelo poeta romano **Ovídio**, que revisitara a mitologia grega em **Metamorfoses**, um poema que narra histórias (agora) greco-romanas. **Essa versão da Medusa remove sua condição de entidade primordial e a retrata como uma mulher muito bela que foi violentada no tempo de Minerva, por esse motivo castigada pela deusa e depois decapitada por Perseu**:
+No poema existe a menção da mesma deitar-se com **Poseidon** (o de cabeleira negra), mas sem indicação de abuso sexual, algo que seria incorporado ao mito 800 anos depois pelo poeta romano **Ovídio**, que revisitara a mitologia grega em **Metamorfoses**, um poema que narra histórias (agora) greco-romanas. **Essa versão da Medusa remove sua condição de entidade primordial e a retrata como uma mulher muito bela que foi violentada no tempo de Minerva, por esse motivo castigada pela deusa a tornar-se um monstro que petrifica com seu olhar e depois foi decapitada por Perseu**:
 
 {% render "components/quote" 
 quote: "Disse o estrangeiro: “O que inquires é digno de ser relatado.<br>
@@ -117,13 +117,13 @@ qual decoração no peito leva as serpentes”."
 author: "Metamorfosesgonia (Ovídio, 8 D.C)" 
 %}
 
-**A Medusa de Ovídio tornou-se muito mais popular, talvez pela narrativa mais elaborada, pela incorporação de temas mais mundanos (ciúme, vingança), com destaque para a injustiça contra a górgona.**
+**A Medusa de Ovídio tornou-se muito mais popular, talvez pela narrativa mais elaborada e pela incorporação de temas mais mundanos (ciúmes, vingança), com destaque para a injustiça contra a górgona.**
 
-**O importante aqui é deixar claro que não existe uma versão correta ou definitiva**, estudar mitologia é também estudar suas interpretações ao longo do tempo. Por exemplo, dizer que a deusa Minerva era o equivalente romano da Atena grega é uma simplificação, sempre há mais a se compreender (e estudar isso é sempre fascinante!).
+**O importante aqui é deixar claro que não existe uma versão correta ou definitiva**, estudar mitologia é também estudar suas interpretações ao longo do tempo. Por exemplo, dizer que a deusa Minerva era o equivalente romano da Atena grega é uma simplificação, sempre há mais a se compreender (*e estudar isso é sempre fascinante!*).
 
 ## A Nova Górgona
 
-Os mitos greco-romanos foram reintegrados à cultura ocidental no renascimento (e no caso em questão, com destaque para a tela Medusa de Caravaggio e a escultura de Perseu de Antonio Canov). Com o passar do tempo, o surgimento das universidades e a proliferação de perspectivas mais diversas e críticas, foram sendo ressignificados e usados como metáfora em novos contextos, como **Hélène Cixous** fez no ensaio feminista **O Riso da Medusa** de 1975 no qual a autora reforça a necessidade de que as mulheres se escrevam.
+Os mitos greco-romanos foram reintegrados à cultura ocidental no Renascimento (e no caso em questão, com destaque para a tela Medusa de Caravaggio e a escultura de Perseu de Antonio Canov). Com o passar do tempo, o surgimento das universidades e a proliferação de perspectivas mais diversas e críticas, essas histórias foram sendo ressignificados e usadas como metáfora em novos contextos, como **Hélène Cixous** fez no ensaio feminista **O Riso da Medusa** de 1975 no qual a autora reforça a **necessidade de que as mulheres *se escrevam*.**
 
 {% render "components/quote" 
 quote: "Eu falarei da escrita feminina: do que ela fará. É preciso que a mulher se escreva: que a mulher escreva sobre a mulher, e que faça as mulheres virem à escrita, da qual elas foram afastadas tão violentamente quanto o foram de seus corpos; pelas mesmas razões, pela mesma lei, com o mesmo objetivo mortal. É preciso que a mulher se coloque no texto – como no mundo, e na história –, por seu próprio movimento."
@@ -151,7 +151,7 @@ img-alt: "Estátua Perseu erguendo a cabeça decaptada de Medusa, esculpida pelo
 format: "vertical"
 %}
 
-A reflexão de O **Riso da Medusa** perdurou, e cada vez mais a inversão de papéis do herói e do monstro é usada como crítica. Qual o impacto de enxergarmos Medusa como aquela que decapitou **Perseu**? De acordo com **Cixous**, a decapitação nada mais é que o medo masculino da castração. Uma nova estátua realizando essa inversão de papéis (contraponto a escultura de Canova) foi colocada em em um parque de Nova Iorque em 2020, perto do tribunal onde o produtor de cinema americano **Harvey Weinstein** foi condenado a 23 anos de prisão por estupro e agressão sexual contra mulheres.
+A reflexão de O **Riso da Medusa** perdurou, e cada vez mais a inversão de papéis do herói e do monstro é usada como crítica. Qual o impacto de enxergarmos Medusa como aquela que decapitou **Perseu**? De acordo com **Cixous**, a decapitação nada mais é que o medo masculino da castração. Uma nova estátua realizando essa mudança de lugares (contrapondo a escultura de Canova) foi colocada em em um parque de Nova Iorque em 2020, perto do tribunal onde o produtor de cinema norte-americano **Harvey Weinstein** foi condenado a 23 anos de prisão por estupro e agressão sexual contra mulheres.
 
 {% render "components/image" 
 img-url: "/images/primeira-profecia-medusa-06.jpg"
@@ -191,7 +191,7 @@ img-alt: "Cena da série Percy Jackson e os Olimpianos (2023) mostrando o protag
 format: "vertical"
 %}
 
-Essa versão atual da **Medusa** também é a protagonista do livro **Olhar Petrificante: A História da Medusa** também de 2023. A autora **Natalie Haynes** revisita o mito e contesta a representação desse ser mitológico como “monstro”.
+Essa versão atual da **Medusa** também é a protagonista do livro **Olhar Petrificante: A História da Medusa** do mesmo ano. A autora **Natalie Haynes** revisita o mito e contesta a representação desse ser mitológico como *“monstro”*.
 
 {% render "components/quote" 
 quote: "Acho que, sem pensar, tendemos a ficar do lado de homens aventureiros, porque tantas histórias em todas as culturas nos convidam a fazer isso. Até há relativamente pouco tempo, apenas algumas de nossas histórias pediam para nos identificarmos com mulheres. As personagens femininas tiveram um papel muito importante nas narrativas antigas, mas depois ficaram perdidas por muito tempo. Quase todos nós crescemos com Perseu como nosso herói, o bravo homem que salva Andrômeda de um monstro marinho. Mas para salvar Andrômeda, Perseu precisa primeiro pegar a cabeça de Medusa, e isso imediatamente a desumaniza. Não pensamos na Medusa como uma górgona, mas como a dona da cabeça que precisamos. As pessoas têm de ser lembradas que ela é uma de três irmãs, que choram quando ela é tirada delas. Medusa não fez nada de errado. Na verdade, seu poder de transformar em pedra quem olha em seus olhos só é usado após sua morte, justamente por Perseu. Ela não usa esse poder quando está viva. E, no entanto, tendemos a olhar para isso com horror."
@@ -200,7 +200,7 @@ author: "Entrevista com Natalie Haynes pela BBC (2022)"
 
 ## Todas as Profecias levam à Medusa
 
-O signo da **Medusa**, majoritariamente a versão de **Ovídio**, está presente em **A Primeria Profecia**, e não apenas como referência visual como demonstrado no início do texto. A popularização da origem greco-romana evoca muito mais significados que ressoam na realidade: **A Medusa como uma vítima de abuso, não é apenas punida por Minerva, como também é presa e isolada em uma ilha com suas outras duas irmãs. Além do trauma, essa é mais uma consequência do modelo de sociedade que pune a vítima e também a silencia.**
+O signo da **Medusa**, majoritariamente a versão de **Ovídio**, está presente em **A Primeria Profecia**, e não é apenas uma referência visual como demonstrado no início do texto. A popularização da origem greco-romana evoca muito mais significados que ressoam na realidade: **A Medusa como uma vítima de abuso, não é apenas punida por Minerva, como também é presa e isolada em uma ilha com suas outras duas irmãs. Além do trauma, essa é mais uma consequência do modelo de sociedade que pune a vítima e também a silencia.**
 
 {% render "components/image" 
 img-url: "/images/primeira-profecia-medusa-08.jpg"
@@ -209,7 +209,7 @@ img-alt: "Cena do filme A Primeira Profecia (2024) mostrando Margaret deitada em
 format: "vertical"
 %}
 
-No filme, **Margaret** é presa no quarto do castigo e descobre que a criança **Carlita** (que era frequentemente trancafiada no mesmo quarto) também é uma vítima de experimento da Igreja, sendo gerada e criada com o propósito de ser violentada (ambas são irmãs, assim como as górgonas). O horror final ocorre quando **Margaret** descobre que está grávida e ela será o “monstro” que trará à terra o anticristo.
+No filme, **Margaret** é presa no quarto do castigo e descobre que a criança **Carlita** (frequentemente trancafiada no mesmo quarto) também é uma vítima do mesmo experimento da Igreja, sendo gerada e criada com o propósito de ser violentada (ambas são irmãs, assim como as górgonas). O horror final ocorre quando **Margaret** descobre que está grávida e ela será o “monstro” que trará à terra o anticristo.
 
 {% render "components/image" 
 img-url: "/images/primeira-profecia-medusa-09.jpg"
@@ -218,9 +218,9 @@ img-alt: "Cena do filme A Primeira Profecia (2024) mostrando a personagem Luz em
 format: "vertical"
 %}
 
-A suposta colega **Luz**, partícipe da conspiração, faz seus votos para tornar-se freira, renunciando a vida de prazeres que levava até então em uma cena que foca no quão apertado deve ser a coifa de sua nova vestimenta, escondendo completamente seus cabelos.
+A suposta colega **Luz**, partícipe da conspiração, faz seus votos para tornar-se freira, renunciando a vida de luxúria que aparentemente levava, em uma cena que foca no quão apertado deve ser a coifa de sua nova vestimenta, escondendo completamente seus cabelos.
 
-Buscando ainda mais os signos, é curioso como a história de **Perseu** e o apagamento do trauma de **Medusa** encontra paralelos com o próprio **A Profecia** (de 1976) ao colocar **Robert Thorn** como protagonista, e não sua esposa **Katherine**. É ela quem é é enganada (seu marido esconde que seu filho morreu no parto e foi trocado por outro no nascimento), impedida de abortar por imposição de **Robert** (mesmo extremamente traumatizada pela maternidade conturbada de Damien); e é quem mais sofre nos desígnios do **Diabo**: atacada por macacos, jogada do segundo andar da casa e, por fim, é assassinada.
+Buscando ainda mais os signos, é curioso como a história de **Perseu** e o apagamento do trauma de **Medusa** encontra paralelos com o próprio **A Profecia** (de 1976) ao colocar **Robert Thorn** como protagonista, e não sua esposa **Katherine**. É ela quem é enganada (seu marido esconde que seu filho morreu no parto e foi trocado por outro no nascimento), impedida de abortar por imposição de **Robert** (mesmo extremamente afetada psicologicamente pela maternidade conturbada de Damien); e é quem mais sofre nos desígnios do **Diabo**: é atacada por macacos, jogada do segundo andar da casa e, por fim, assassinada.
 
 {% render "components/image" 
 img-url: "/images/primeira-profecia-medusa-10.jpg"
@@ -229,10 +229,11 @@ img-alt: "Cena do filme A Profecia (1976) mostrando a personagem Katherine em pr
 format: "vertical"
 %}
 
-Podemos assistir **A Profecia** sob o prisma do comentário social sobre a falta de autonomia da mulher na sociedade. Apesar do aspecto fantástico do roteiro, o mundano é também aterrorizante, principalmente para as mulheres: as agressões sociais à **Katherine** vão desde a imposição de se mudar de país pela troca de emprego do marido, até ser impedida de decidir sobre seu próprio corpo, com sua função de procriação sendo mais importante que sua existência (quando ela está no hospital se recuperando da queda e a preocupação do marido é sobre sua capacidade de ter mais filhos).
+Podemos assistir **A Profecia** sob o prisma do comentário social sobre a falta de autonomia da mulher na sociedade. Apesar do aspecto fantástico do roteiro, o mundano é tão aterrorizante quanto, principalmente para as mulheres: as agressões sociais à **Katherine** vão desde a imposição de se mudar de país pela troca de emprego do marido, até ser impedida de decidir sobre seu próprio corpo, com sua função de procriação sendo mais importante que sua existência (quando ela está no hospital se recuperando da queda e a preocupação do marido é sobre sua capacidade de ter mais filhos).
 
-Tanto a **Medusa** é uma coadjuvante na história de **Perseu**, quanto a sua morte é apenas um meio de geração de **Pégaso** (o cavalo alado nasce do sangue da górgona decapitada). Em **A Primeira Profecia**, **Margaret** também é mero instrumento para a concepção do anticristo, mas consegue evitar a morte (ao menos momentaneamente, pois sabemos o seu destino devido ao filme de 1976) e tem um final menos trágico: consegue fugir junto com sua filha recém-nascida (gêmea de Damien) e de **Carlita**. **Passam a se esconder em um lugar distante e isolado. Três górgonas silenciadas tentando eternamente fugir de uma opressão profética.**
+Tanto a **Medusa** é uma coadjuvante na história de **Perseu**, quanto a sua morte é apenas um meio de geração de **Pégaso** (o cavalo alado nasce do sangue da górgona decapitada). Em **A Primeira Profecia**, **Margaret** também é mero instrumento para a concepção do anticristo, é forçada a realizar o parto, mas consegue evitar a morte (ao menos momentaneamente, pois sabemos o seu destino devido ao filme de 1976).
 
+A protagonista também recebe um final menos trágico: consegue fugir junto com sua filha recém-nascida (gêmea de Damien) e de **Carlita**. **Passam a se esconder em um lugar distante e isolado. Três górgonas silenciadas tentando eternamente fugir de uma opressão profética.**
 
 {% render "components/image" 
 img-url: "/images/primeira-profecia-medusa-11.jpg"
