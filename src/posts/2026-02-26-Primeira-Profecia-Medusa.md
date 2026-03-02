@@ -25,7 +25,7 @@ Caso alguém não conheça **A Profecia** (The Omen) de 1976, é um clássico do
 De forma resumida, além de um excelente filme, ele teve três grandes impactos na indústria cultural:
 
 **1 - A popularização do 666 como o número da besta** (marca presente na cabeça de Damien)
-**2 - Restabelecimento da trilha sonora (com temas sacros) como principal característica do horro**, uma vez que não há representações gráficas assustadoras ou grotescas. Aqui a aposta é na tensão, não na exposição.
+**2 - Restabelecimento da trilha sonora (com temas sacros) como principal característica do horror**, uma vez que não há representações gráficas assustadoras ou grotescas. Aqui a aposta é na tensão, não na exposição.
 **3 - O ponto de partida para a trama de Belas Maldições**, escrito por **Terry Pratchett** e **Neil Gaiman**, romance paródia publicado em 1990 e que virou série em 2019.
 
 À nova obra de 2024 cabe o grande mérito de **Arkasha Stevenson**, que além de dirigir, também escreveu o roteiro do filme junto de **Tim Smith** e **Keith Thomas**, e focou no papel feminino nessa história, ou seja, na progenitora do anticristo: **Margaret**, uma noviça norte-americana que é enviada ao **Orfanato Vizzardeli** em Roma para ser iniciada como freira e jogada no meio de um plano diabólico.
@@ -214,7 +214,7 @@ No filme, **Margaret** é presa no quarto do castigo e descobre que a criança *
 {% render "components/image" 
 img-url: "/images/primeira-profecia-medusa-09.jpg"
 img-description: "A Primeira Profecia (2024)"
-img-alt: "Cena do filme A Primeira Profecia (2024) mostrando a personagem Luz em sua cerimônia para tornar-se freita. Atrás dela, uma mulher aperta a coifa em sua cabeça, enquanto Luz está com uma expressão séria."
+img-alt: "Cena do filme A Primeira Profecia (2024) mostrando a personagem Luz em sua cerimônia para tornar-se freira. Atrás dela, uma mulher aperta a coifa em sua cabeça, enquanto Luz está com uma expressão séria."
 format: "vertical"
 %}
 
