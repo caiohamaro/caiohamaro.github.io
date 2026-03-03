@@ -181,7 +181,7 @@ Quanto à essas novas histórias escritas diretamente como resposta a essa ebuli
 ### **Referências Bibliográficas** ###
 
 - Livro “Marvel Comics : a história secreta” (2013) de Sean Howe.
-- Edições 40 a 63 de Demolidor, presentes no Encadernado Demolidor: Edição Definitiva vol. 3, 2024.
 - Edições 68 a 87 de Homem-aranha, presentes no Encadernado Homem-aranha: Edição Definitiva vol. 5, 2021.
+- Edições 01 a 23 de X-men, presentes no Encadernado X-men: Edição Definitiva vol. 1, 2021.
 - Documentário Stan Lee (2023).
 - Documentário [“The Men Without Fear”](https://www.youtube.com/watch?v=3C77agos7vg) (2003) entrevistando Stan Lee no conteúdo extra do DVD do filme Demolidor.
