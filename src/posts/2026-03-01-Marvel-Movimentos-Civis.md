@@ -3,13 +3,13 @@ title: A Marvel de 1968 no caldeirão dos movimentos civis dos EUA
 
 author: Caio Amaro
 layout: post
-permalink: /posts/marvel-movimentos-civis/
+permalink: /posts/demolidor-movimentos-civis/
 description: Como o capacitismo fez parte das primeiras histórias do Demolidor, mas não da forma que você está imaginando…
 categories:
   - Posts
 excerpt: Continuando a prazerosa jornada de ler as histórias em quadrinhos do Demolidor em ordem cronológica (você pode conferir outros textos dessa saga pessoal aqui), decidi trazer à tona algo que incomoda demais, está presente desde a edição nº 1 e perdura demasiadamente nas revistas do herói…
-tags:  ["Marvel", "Stan Lee", "Quadrinhos", "movimentos civis"]
-thumbnail: "/images/marvel-movimentos-civis-00.jpg"
+tags:  ["Marvel", "Stan Lee", "Quadrinhos", "movimentos civis", "Demolidor", "Homem-aranha", "X-Men", "Quarteto Fantástico"]
+thumbnail: "/images/demolidor-movimentos-civis-00.jpg"
 timeread: 14
 ---
 
