@@ -177,7 +177,7 @@ A **Marvel** estava claramente tentando se virar com o que tinha e correndo para
 Quanto à essas novas histórias escritas diretamente como resposta a essa ebulição de movimentos civis nos Estados Unidos, pretendo discutir sobre um dos personagens negros elencados na citação acima por Lee! **Ele está diretamente ligado à Guerra do Vietnã e também ao Demolidor! O nome dele é Willie Lincoln, e será o tema do próximo texto!**
 
 ***------***
-# *Publicado em XXXXXX/03/2026* #
+# *Publicado em 06/03/2026* #
 ### **Referências Bibliográficas** ###
 
 - Livro “Marvel Comics : a história secreta” (2013) de Sean Howe.
