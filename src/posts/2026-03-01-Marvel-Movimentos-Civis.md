@@ -4,7 +4,7 @@ title: A Marvel de 1968 no caldeirão dos movimentos civis dos EUA
 author: Caio Amaro
 layout: post
 permalink: /posts/demolidor-movimentos-civis/
-description: Como o capacitismo fez parte das primeiras histórias do Demolidor, mas não da forma que você está imaginando…
+description: A Marvel passou a incluir mais manifestações populares nas histórias, mas continuava em cima do muro...
 categories:
   - Posts
 excerpt: Continuando a prazerosa jornada de ler as histórias em quadrinhos do Demolidor em ordem cronológica (você pode conferir outros textos dessa saga pessoal aqui), decidi trazer à tona algo que incomoda demais, está presente desde a edição nº 1 e perdura demasiadamente nas revistas do herói…
@@ -19,7 +19,6 @@ Havia, desde a gênese dos super-heróis da editora em 1961, uma busca por heró
 
 Nessa época o uso de cidades reais e ponto turísticos já era uma marca forte da Marvel há mais de 20 anos, quando a editora orquestrou um dos primeiros crossovers de super-heróis, com **Namor** e o **Tocha Humana** (original) em um embate que percorreu vários pontos turísticos de Nova Iorque (o Túnel Holland, Empire State Building, Zoológico do Bronx, Ponte George Washington, Estátua da Liberdade e o Radio City Music Hall).
 
-
 {% render "components/image" 
 img-url: "/images/demolidor-movimentos-civis-01.jpg"
 img-description: "Marvel Mystery Comics n. 9 (1940)"
@@ -29,7 +28,6 @@ format: "vertical"
 
 Vale um parênteses para destacar que essa abordagem, que levava o leitor a pensar que poderia dobrar a esquina e se deparar com um super-herói voando, foi muito bem reaproveitada em 1993, quando **Kurt Busiek** e **Alex Ross** puseram o realismo nessa equação na **Graphic Novel Marvels** (que, inclusive, retrata esse confronto do Namor e Tocha Humana).
 
-
 {% render "components/image" 
 img-url: "/images/demolidor-movimentos-civis-02.jpg"
 img-description: "Marvels (1994)"
@@ -38,7 +36,6 @@ format: "vertical"
 %}
 
 Essa ambientação, no entanto, não se restringia a elementos geográficos. Mesmo com uma enxurrada de super-heróis do período participando da **Segunda Guerra Mundial** (até o Superman), foi a Marvel quem mais conseguiu dinheiro e notoriedade nesse período. O principal destaque é o próprio **Capitão América** e sua origem intrínseca à propaganda militar dos EUA.
-
 
 {% render "components/image" 
 img-url: "/images/demolidor-movimentos-civis-03.jpg"
