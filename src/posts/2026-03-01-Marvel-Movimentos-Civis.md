@@ -10,7 +10,7 @@ categories:
 excerpt: Continuando a prazerosa jornada de ler as histórias em quadrinhos do Demolidor em ordem cronológica (você pode conferir outros textos dessa saga pessoal aqui), decidi trazer à tona algo que incomoda demais, está presente desde a edição nº 1 e perdura demasiadamente nas revistas do herói…
 tags:  ["Marvel", "Stan Lee", "Quadrinhos", "movimentos civis", "Demolidor", "Homem-aranha", "X-Men", "Quarteto Fantástico"]
 thumbnail: "/images/demolidor-movimentos-civis-00.jpg"
-timeread: 14
+timeread: 9
 ---
 
 Para continuar [as análises sobre momentos das histórias do demolidor dos anos 60](https://caiohamaro.com.br/tags/Demolidor/), achei muito relevante trazer mais contexto não só sobre uma espécie de representação responsável nas revistas, mas também como a **Marvel** (e principalmente Stan Lee) lidava com o posicionamento político da editora.
