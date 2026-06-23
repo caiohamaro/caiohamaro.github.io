@@ -20,45 +20,52 @@ Esse texto é meu ator de resistência (o site inteiro é, se parar para pensar)
 
 Inclusive, se você se interessa por The Witcher, saiba que eu participo do [Podcast Geraldo! Um podcast criado com o propósito de ler e discutir em sequência todos os romances da série The Witcher, do autor polonês Andrzej Sapkowski! A cada episódio, analisamos um novo capítulo, e a cada temporada, um novo livro! Confira aqui!](https://caiohamaro.com.br/portfolio-podcasts/)
 
-Depois de ter lidos todos os livros, jogado os jogos e assistido à série, a ideia de desenhar Geralt de Rívia era cada vez mais presente na minha cabeça, mas só tornou-se uma necessidade quando me deparei com a capa do livro de RPG de The Witcher, que tinha uma ilustração que me fez pensar "eu queria ter desenhado isso" (acho que esse pensamento é muito comum entre quem é artista, além de ser um excelente motivador). Tanto que meus primeiros esboços envolviam Geralt de frente, agaichado após derrotar alguma criatura.
+Depois de ter lidos todos os livros, jogado os jogos e assistido à série, a ideia de desenhar Geralt de Rívia era cada vez mais presente na minha cabeça, mas só tornou-se uma necessidade quando me deparei com a capa do livro de RPG de The Witcher, que tinha uma ilustração que me fez pensar "eu queria ter desenhado isso" (acho que esse pensamento é muito comum entre quem é artista, além de ser um excelente motivador). Tanto que meus primeiros esboços envolviam Geralt de frente, agaichado após derrotar alguma criatura (infelizmente os joguei fora e por isso não tenho foto para mostrar aqui).
 
 {% render "components/image" 
-img-url: "/images/processo-ilustração-witcher-08.jpg"
-img-description: "Marvel Mystery Comics n. 9 (1940)"
-img-alt: "Capa de Marvel Mystery Comics n. 9. Nela temos a ilustração do Tocha Humana Original combatendo o Namor. O Namor está quebrando uma viga de sustentação de um trem/metro enquanto o Tocha Humana está voando em sua direção. Ao fundo, policias estão chegando próximos a eles."
+img-url: "/images/processo-ilustração-witcher-01.jpg"
+img-description: "Capa do RPG de Witcher."
+img-alt: "Capa do RPG de Witcher com uma ilustração de Geralt com o mesmo visual do jogo witcher 3, ele veste uma armadura leve e segura uma espada na sua mão direita enquanto outra repousa na bainha em suas costas. Ele está sobre uma criatura morta com chifres. Sua pose é de combate, com uma expressão atenta no que parece ser uma floresta com árvores retorcidas. Há o texto na capa: Jogando RPG no mundo perigoso e sombrio de The Witcher."
 format: "vertical"
 %}
 
 Não gostei dos esboços (pois na minha cabeça lembravam muito a capa do RPG) e, algumas semanas depois, parei e me forcei a pensar o que eu gostaria de desenhar. Lembrei de uma conversa que ocorreu nas gravações do Podcast Geraldo de como o Geralt era amigo de verdade de Jaskier e como eles se divertiam juntos (ao contrário do retratado na série da Netflix) e logo a ideia de desenhar ambos cantando juntos tomou conta de mim. A história veio instantanamente: ambos estariam cantando enquanto cavalgam juntos, voltando de uma caçada do bruxo.
+
+{% render "components/image" 
+img-url: "/images/processo-ilustração-witcher-02.jpg"
+img-description: "Meu desenho em sua versão final (com finalização digital)."
+img-alt: "Desenho de The Witcher, nele Geralt e Jaskier estão andando de cavalo em direção à direita da folha. Os cavalos estão desenhados de lado. Montado no cavalo a frente está Geralt, com uma expressão sorridente, carregando duas espadas nas costas e segurando na mão direita as rédeas da sua égua Plotka e na mão esquerda as rédeas do cavalo de Jaskier. Pendurado em Plotka também está a cabeça decapitada de uma criatura monstruosa com traços de morcego. Jaskier, está com suas duas mãos ocupadas tocando um alaúde e cantando a plenos pulmões. De seu instrumento saem claves que formam uma partitura na parte superior do desenho. O desenho é todo em preto e branco com sombras duras, rachuras e o fundo do cenário é cinza."
+format: "vertical"
+%}
 
 ## Esboço e a Arte-Finalização de Schrödinger
 
 O primeiro esboço é feito mais de memória, com formas geométricas, para entender como a folha seria preenchida e a disposição dos elementos. É nessa hora que percebi que as coisas seriam mais complexas do que previ: Seria necessário não só pegar a referência de roupa do Geralt e Jaskier, como também do monstro caçado, de cavalos e (que tal?) da música cantada pelo bardo!
 
 {% render "components/image" 
-img-url: "/images/processo-ilustração-witcher-06.jpg"
-img-description: "Marvel Mystery Comics n. 9 (1940)"
-img-alt: "Capa de Marvel Mystery Comics n. 9. Nela temos a ilustração do Tocha Humana Original combatendo o Namor. O Namor está quebrando uma viga de sustentação de um trem/metro enquanto o Tocha Humana está voando em sua direção. Ao fundo, policias estão chegando próximos a eles."
-format: "vertical"
+img-url: "/images/processo-ilustração-witcher-03.jpg"
+img-description: "Esboços à Lápis."
+img-alt: ""
+format: "horizontal"
 %}
 
 Geralmente tento fazer um traço fraco de lápis na folha com formas (um tanto disformes) e começo a consultar referências para passar o lápis com mais força e precisão para definir o desenho por completo, deixando a parte de arte-finalizar com nanquim como uma terapia (um exercício de apenas contornar o que já estava de lápis, algo extremamente relaxante para mim). Mas devido às múltiplas referências e para não sujar muito o papel, dessa vez, optei por deixar o traço a lápis menos detalhado e investir mais atenção e criação na etapa do nanquim (arriscando cometer erros com nanquim e ter que arrumar com tinta branca, o que aconteceu na orelha e na bota de Geralt).
 
 {% render "components/image" 
-img-url: "/images/processo-ilustração-witcher-07.jpg"
-img-description: "Marvel Mystery Comics n. 9 (1940)"
-img-alt: "Capa de Marvel Mystery Comics n. 9. Nela temos a ilustração do Tocha Humana Original combatendo o Namor. O Namor está quebrando uma viga de sustentação de um trem/metro enquanto o Tocha Humana está voando em sua direção. Ao fundo, policias estão chegando próximos a eles."
-format: "vertical"
+img-url: "/images/processo-ilustração-witcher-04.jpg"
+img-description: "Processo de arte-finalização com nanquim."
+img-alt: ""
+format: "horizontal"
 %}
 
 Os materiais que usei foram:
- •**Lápis Comum (HB)** (Tenho o costume de usar lápis convencional, nunca me acostumei com lapiseira ou - grafites mais finos para sombreados)
-• **Folha A4 180g/m²** (É melhor para trabalho com tinta nanquim pois não rasga ou molha com facilidade)
-• **Caneta Nanquim 0.5** (para as partes em que era necessário preencher espaços de preto)
-• **Caneta Nanquim 0.2** (para contornos de elementos)
-• **Caneta Nanquim 0.1** (utilzado majoritariamente)
-• **Caneta Nanquim 0.05** (para detalhes e rachuras)
-• **Régua de 15cm** (para as espadas e alaúde)
+ • **Lápis Comum (HB)** (Tenho o costume de usar lápis convencional, nunca me acostumei com lapiseira ou - grafites mais finos para sombreados);
+• **Folha A4 180g/m²** (É melhor para trabalho com tinta nanq;uim pois não rasga ou molha com facilidade);
+• **Caneta Nanquim 0.5** (para as partes em que era necessário preencher espaços de preto);
+• **Caneta Nanquim 0.2** (para contornos de elementos);
+• **Caneta Nanquim 0.1** (utilizado em grande parte do processo);
+• **Caneta Nanquim 0.05** (para detalhes e rachuras);
+• **Régua de 15cm** (para as espadas e alaúde).
 
 ## Roubando como um artista
 
@@ -68,10 +75,10 @@ Sem dúvidas, o mais complicado foram as referências, minha forma de usá-las �
 **O que eu não gostei:** a disposição das cordas e gancho não ficaram muito claras e não contribuíram com a forma da cabeça.
 
 {% render "components/image" 
-img-url: "/images/processo-ilustração-witcher-01.jpg"
+img-url: "/images/processo-ilustração-witcher-05.jpg"
 img-description: "Marvel Mystery Comics n. 9 (1940)"
 img-alt: "Capa de Marvel Mystery Comics n. 9. Nela temos a ilustração do Tocha Humana Original combatendo o Namor. O Namor está quebrando uma viga de sustentação de um trem/metro enquanto o Tocha Humana está voando em sua direção. Ao fundo, policias estão chegando próximos a eles."
-format: "vertical"
+format: "horizontal"
 %}
 
 O próximo desafio foi a montaria. Talvez a última vez que eu tenha desenhado um cavalo tenha sido mais de uma década atrás, porém achei muito divertido esse exercício (é um animal lindo demais). A primeira referência à direita do desenho foi a principal (quase uma transposição para a folha) e as outras utilizei para a cabeça do cavalo e principalmente para o cabresto (um equipamento muito mais elaborado do que eu imaginava).
@@ -81,10 +88,10 @@ O próximo desafio foi a montaria. Talvez a última vez que eu tenha desenhado u
 
 
 {% render "components/image" 
-img-url: "/images/processo-ilustração-witcher-02.jpg"
+img-url: "/images/processo-ilustração-witcher-06.jpg"
 img-description: "Marvel Mystery Comics n. 9 (1940)"
 img-alt: "Capa de Marvel Mystery Comics n. 9. Nela temos a ilustração do Tocha Humana Original combatendo o Namor. O Namor está quebrando uma viga de sustentação de um trem/metro enquanto o Tocha Humana está voando em sua direção. Ao fundo, policias estão chegando próximos a eles."
-format: "vertical"
+format: "horizontal"
 %}
 
 Para o Geralt, escolhi retratá-lo com a vestimenta que mais gosto, a Armadura de Mantícora (possuo uma relação de afeto com esse traje do bruxo em The Witcher 3 porque ele faz referência ao utilizado no primeiro jogo da série, The Witcher, de 2008). Foi um pouco demorado para encontrar imagens certas, mas um vídeo do youtube de alguém que modelou o traje me salvou!
@@ -94,10 +101,10 @@ O rosto de Geralt foi até tranquilo (tirando um desastre que ocorreu na orelha 
 **O que eu não gostei:** Por ser um desenho em preto e branco com sombras "duras", não consegui fazer o contraste necessário entre as partes brancas e marrons, optando por não diferenciá-las.
 
 {% render "components/image" 
-img-url: "/images/processo-ilustração-witcher-03.jpg"
+img-url: "/images/processo-ilustração-witcher-07.jpg"
 img-description: "Marvel Mystery Comics n. 9 (1940)"
 img-alt: "Capa de Marvel Mystery Comics n. 9. Nela temos a ilustração do Tocha Humana Original combatendo o Namor. O Namor está quebrando uma viga de sustentação de um trem/metro enquanto o Tocha Humana está voando em sua direção. Ao fundo, policias estão chegando próximos a eles."
-format: "vertical"
+format: "horizontal"
 %}
 
 Jaskier trouxe (como de praxe) alguns problemas para esse projeto:
@@ -110,10 +117,10 @@ Nessa parte o uso de régua foi essencial para que a proporção das cordas e tr
 **O que eu não gostei:** Errei no pescoço, desenhei um traço no ângulo contrário do que deveria (é possível comparar com a referência logo à sua direita)
 
 {% render "components/image" 
-img-url: "/images/processo-ilustração-witcher-04.jpg"
+img-url: "/images/processo-ilustração-witcher-08.jpg"
 img-description: "Marvel Mystery Comics n. 9 (1940)"
 img-alt: "Capa de Marvel Mystery Comics n. 9. Nela temos a ilustração do Tocha Humana Original combatendo o Namor. O Namor está quebrando uma viga de sustentação de um trem/metro enquanto o Tocha Humana está voando em sua direção. Ao fundo, policias estão chegando próximos a eles."
-format: "vertical"
+format: "horizontal"
 %}
 
 E, finalmente, o grande desafio: a música cantada e tocada por Jaskier! Escolhi usar a partitura de ["Toss A Coin To Your Witcher"](https://www.youtube.com/watch?v=waMkFIzvDpE&list=RDwaMkFIzvDpE&start_radio=1) de Sonya Belousova & Giona Ostinelli que compuseram a trilha sonora da primeira temporada da série The Witcher de 2019. O problema foi que a primeira partitura que usei como referência era uma de piano que separava em duas faixas (melodia e acompanhamento), por esse motivo eu segui a referência e desenhei todas as claves "de ponta cabeça". Comparando com outras partituras e consultando um amigo músico, entendi que não estava errado, mas que não era um jeito tão comum de representar, por isso resolvi apagar e refazer tudo. O papel, no entanto, se lembrará para sempre, pois não consegui apagar a primeira versão completamente, mas, felizmente, ao digitalizar essas manchas não ficaram aparentes.
@@ -122,7 +129,7 @@ E, finalmente, o grande desafio: a música cantada e tocada por Jaskier! Escolhi
 **O que eu não gostei:** No meio está muito "reto", tirando um pocuo do movimento desejado.
 
 {% render "components/image" 
-img-url: "/images/processo-ilustração-witcher-05.jpg"
+img-url: "/images/processo-ilustração-witcher-09.jpg"
 img-description: "Marvel Mystery Comics n. 9 (1940)"
 img-alt: "Capa de Marvel Mystery Comics n. 9. Nela temos a ilustração do Tocha Humana Original combatendo o Namor. O Namor está quebrando uma viga de sustentação de um trem/metro enquanto o Tocha Humana está voando em sua direção. Ao fundo, policias estão chegando próximos a eles."
 format: "vertical"
@@ -133,10 +140,10 @@ format: "vertical"
 Concluída a parte manual, o próximo passo foi digitalizar o desenho, editar os níveis de preto e branco (de modo que as marcas das claves erradas não aparecessem) e decidir o que fazer com o fundo, uma vez que o desenho ficou muito claro e não tinha contraste do fundo com os personagens. Essa parte quem fez foi a [Daielyn (acompanhem o trabalho dela por aqui!)](https://www.instagram.com/daielyncb/), inclusive criando três alternativas de fundo.
 
 {% render "components/image" 
-img-url: "/images/processo-ilustração-witcher-09.jpg"
+img-url: "/images/processo-ilustração-witcher-10.jpg"
 img-description: "Marvel Mystery Comics n. 9 (1940)"
 img-alt: "Capa de Marvel Mystery Comics n. 9. Nela temos a ilustração do Tocha Humana Original combatendo o Namor. O Namor está quebrando uma viga de sustentação de um trem/metro enquanto o Tocha Humana está voando em sua direção. Ao fundo, policias estão chegando próximos a eles."
-format: "vertical"
+format: "horizontal"
 %}
 
 A versão final foi a com fundo predominante cinza (uma escolha difícil) e, enfim, o desenho foi finalizado! Quando chego nessa etapa, sou dominado por uma sensação de completude muito prazerosa e, mesmo ainda enxergando possíveis melhorias (o que é normal), fico muito satisfeito com o trabalho realizado, pois todo o processo criativo me ensinou muito mais do que se pode ver na forma final do desenho.
