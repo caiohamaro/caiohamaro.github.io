@@ -10,7 +10,7 @@ categories:
 excerpt: Processo Ilustracao Witcher...
 tags:  ["Ilustração", "Witcher", "Arte"]
 thumbnail: "/images/processo-ilustração-witcher-00.jpg"
-timeread: 4
+timeread: 6
 ---
 
 ## Quero escrever o que eu gostaria de ler 
