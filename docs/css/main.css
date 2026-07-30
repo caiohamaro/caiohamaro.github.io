@@ -2526,7 +2526,7 @@ svg:hover .starfield__layer {
     max-width: 240px;
   }
   .timeline-card-badge {
-    width: 132px;
+    min-width: 150px;
   }
   .timeline ul {
     grid-template-columns: 1fr var(--line-w) 1fr;
@@ -2577,12 +2577,15 @@ svg:hover .starfield__layer {
   }
 }
 .timeline-card-badge {
-  width: 150px;
   display: flex;
   flex-flow: wrap;
   flex-direction: row;
   flex-wrap: wrap;
   align-content: flex-start;
+}
+
+.timeline-card-badge-cover {
+  max-width: 100px;
 }
 
 .timeline-card-content {
@@ -2613,6 +2616,7 @@ svg:hover .starfield__layer {
 
 .timeline-card-badge-cover {
   width: 100%;
+  min-width: 150px;
   background-color: orange;
   border: 4px solid;
   border-color: var(--color-background-card-tag);
