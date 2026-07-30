@@ -1,0 +1,113 @@
+[
+  {
+    "tipo": "Livro",
+    "titulo": "A Noiva de Coríntio",
+	"autor": "Goethe",
+    "ano": "1797",
+	"analise": "lorem ipsum",
+	"imagem": "/images/projetos/projetovampiro-noivacorintio.jpg",
+	"destaque": "Recomendo",
+	"feito": ""
+  },
+  {
+    "tipo": "Livro",
+    "titulo": "O Vampiro",
+	"autor": "John William Polidorirsum",
+    "ano": "1819",
+	"analise": "Nosferatu é incrível, tanto ele como tudo que está ao seu redor, toda a história de sua produção até sua quase extinção da face da terra. Como não sou capaz de fazer uma análise técnica do filme, destaco como ele é contemporâneo, no sentido de ser um filme que ainda transmite as sensações desejadas. O Conde Orlok é um personagem próprio, que conseguiu um lugar de destaque ao lado do icônico Conde Drácula. Ele é estranho e assustador, ele é carismático, sua sombra é parte dele e, mais importante de tudo, ele é dramático.",
+	"imagem": "/images/projetos/projetovampiro-vampiropolidori.jpg",
+	"destaque": "Favorito",
+	"feito": ""
+  },
+  {
+    "tipo": "Livro",
+    "titulo": "A Noiva Morta",
+	"autor": "Gottfried Peter Rauschnik",
+    "ano": "1820",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-anoivamorta.jpg",
+	"destaque": "",
+	"feito": "notdone"
+  },
+  {
+    "tipo": "Livro",
+    "titulo": "O Conde Esqueleto",
+	"autor": "Elizabeth Caroline Grey",
+    "ano": "1828",
+	"analise": "Nosferatu é incrpagem próprio, que conseguiu um lugar de destaque ao lado do icônico Conde Drácula. Ele é estranho e assustador, ele é carismático, sua sombra é parte dele e, mais importante de tudo, ele é dramático.",
+	"imagem": "/images/projetos/projetovampiro-ocondeesqueleto.jpg",
+	"destaque": "",
+	"feito":""
+  },
+  {
+    "tipo": "Livro",
+    "titulo": "A Morta Apaixonada",
+	"autor": "Théophile Gautier",
+    "ano": "1836",
+	"analise": "Nosferatu é incrível, tan personagem próprio, que conseguiu um lugar de destaque ao lado do icônico Conde Drácula. Ele é estranho e assustador, ele é carismático, sua sombra é parte dele e, mais importante de tudo, ele é dramático.",
+	"imagem": "/images/projetos/projetovampiro-amortaapaixonada.jpg",
+	"destaque": "",
+	"feito":""
+  },
+   {
+    "tipo": "Livro",
+    "titulo": "Carmilla",
+	"autor": "Sheridan Le Fanu",
+    "ano": "1872",
+	"analise": "lorem ipsum",
+	"imagem": "/images/projetos/projetovampiro-carmilla.jpg",
+	"destaque": "",
+	"feito":""
+  },
+   {
+    "tipo": "Filme",
+    "titulo": "Le manoir du diable",
+	"autor": "Georges Méliès",
+    "ano": "1896",
+	"analise": "lorem ipsum",
+	"imagem": "/images/projetos/projetovampiro-lemanoirdudiable.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Drácula",
+	"autor": "Bram Stoker",
+    "ano": "1897",
+	"analise": "lorem ipsum",
+	"imagem": "/images/projetos/projetovampiro-draculabramstoker.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Os sete dedos da morte & A toca do verme branco",
+	"autor": "Bram Stoker",
+    "ano": "1903",
+	"analise": "lorem ipsum",
+	"imagem": "/images/projetos/projetovampiro-setededosdamorte.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Nosferatu",
+	"autor": "F. W. Murnau",
+    "ano": "1922",
+	"analise": "lorem ipsum",
+	"imagem": "/images/projetos/projetovampiro-nosferatu1922.jpg",
+	"destaque": "",
+	"feito":""
+  },
+       {
+    "tipo": "Filme",
+    "titulo": "Dracula",
+	"autor": "Tod Browning",
+    "ano": "1931",
+	"analise": "lorem ipsum",
+	"imagem": "/images/projetos/projetovampiro-dracula1931.jpg",
+	"destaque": "",
+	"feito":""
+  }
+  
+]
