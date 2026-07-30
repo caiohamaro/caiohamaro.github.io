@@ -347,6 +347,10 @@
      max-width: 240px;
    
   }
+  .timeline-card-badge  {
+     width: 132px;
+  }
+ 
   .timeline ul {
     grid-template-columns: 1fr var(--line-w) 1fr;
   }
