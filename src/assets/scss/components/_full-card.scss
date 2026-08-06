@@ -228,7 +228,7 @@
 .timeline ul::before {
   content: "";
   grid-column: 1;
-  grid-row: 1 / span 20;
+  grid-row: 1 / span 200;
   background: rgb(225, 225, 225);
   border-radius: calc(var(--line-w) / 2);
 }
