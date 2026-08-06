@@ -4,7 +4,7 @@
     "titulo": "A Noiva de Coríntio",
 	"autor": "Goethe",
     "ano": "1797",
-	"analise": "lorem ipsum",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-noivacorintio.jpg",
 	"destaque": "Recomendo",
 	"feito": ""
@@ -14,9 +14,9 @@
     "titulo": "O Vampiro",
 	"autor": "John William Polidorirsum",
     "ano": "1819",
-	"analise": "Nosferatu é incrível, tanto ele como tudo que está ao seu redor, toda a história de sua produção até sua quase extinção da face da terra. Como não sou capaz de fazer uma análise técnica do filme, destaco como ele é contemporâneo, no sentido de ser um filme que ainda transmite as sensações desejadas. O Conde Orlok é um personagem próprio, que conseguiu um lugar de destaque ao lado do icônico Conde Drácula. Ele é estranho e assustador, ele é carismático, sua sombra é parte dele e, mais importante de tudo, ele é dramático.",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-vampiropolidori.jpg",
-	"destaque": "Favorito",
+	"destaque": "Recomendo",
 	"feito": ""
   },
   {
@@ -24,7 +24,7 @@
     "titulo": "A Noiva Morta",
 	"autor": "Gottfried Peter Rauschnik",
     "ano": "1820",
-	"analise": "",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-anoivamorta.jpg",
 	"destaque": "",
 	"feito": "notdone"
@@ -34,9 +34,9 @@
     "titulo": "O Conde Esqueleto",
 	"autor": "Elizabeth Caroline Grey",
     "ano": "1828",
-	"analise": "Nosferatu é incrpagem próprio, que conseguiu um lugar de destaque ao lado do icônico Conde Drácula. Ele é estranho e assustador, ele é carismático, sua sombra é parte dele e, mais importante de tudo, ele é dramático.",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-ocondeesqueleto.jpg",
-	"destaque": "",
+	"destaque": "Recomendo",
 	"feito":""
   },
   {
@@ -44,7 +44,7 @@
     "titulo": "A Morta Apaixonada",
 	"autor": "Théophile Gautier",
     "ano": "1836",
-	"analise": "Nosferatu é incrível, tan personagem próprio, que conseguiu um lugar de destaque ao lado do icônico Conde Drácula. Ele é estranho e assustador, ele é carismático, sua sombra é parte dele e, mais importante de tudo, ele é dramático.",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-amortaapaixonada.jpg",
 	"destaque": "",
 	"feito":""
@@ -54,9 +54,9 @@
     "titulo": "Carmilla",
 	"autor": "Sheridan Le Fanu",
     "ano": "1872",
-	"analise": "lorem ipsum",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-carmilla.jpg",
-	"destaque": "",
+	"destaque": "Recomendo",
 	"feito":""
   },
    {
@@ -64,7 +64,7 @@
     "titulo": "Le manoir du diable",
 	"autor": "Georges Méliès",
     "ano": "1896",
-	"analise": "lorem ipsum",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-lemanoirdudiable.jpg",
 	"destaque": "",
 	"feito":""
@@ -74,9 +74,9 @@
     "titulo": "Drácula",
 	"autor": "Bram Stoker",
     "ano": "1897",
-	"analise": "lorem ipsum",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-draculabramstoker.jpg",
-	"destaque": "",
+	"destaque": "Recomendo",
 	"feito":""
   },
      {
@@ -84,7 +84,7 @@
     "titulo": "Os sete dedos da morte & A toca do verme branco",
 	"autor": "Bram Stoker",
     "ano": "1903",
-	"analise": "lorem ipsum",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-setededosdamorte.jpg",
 	"destaque": "",
 	"feito":""
@@ -94,9 +94,9 @@
     "titulo": "Nosferatu",
 	"autor": "F. W. Murnau",
     "ano": "1922",
-	"analise": "lorem ipsum",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-nosferatu1922.jpg",
-	"destaque": "",
+	"destaque": "Recomendo",
 	"feito":""
   },
        {
@@ -104,10 +104,912 @@
     "titulo": "Dracula",
 	"autor": "Tod Browning",
     "ano": "1931",
-	"analise": "lorem ipsum",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
 	"imagem": "/images/projetos/projetovampiro-dracula1931.jpg",
 	"destaque": "",
 	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Dracula",
+	"autor": "George Melford",
+    "ano": "1931",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-draculaspanish.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "M",
+	"autor": "Fritz Lang",
+    "ano": "1931",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-m.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Vampyr",
+	"autor": "Carl Theodor Dreyer",
+    "ano": "1932",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-vampyr.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Dracula's Daughter",
+	"autor": "Lambert Hillyer",
+    "ano": "1936",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-draculasdaughter.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Son of Dracula",
+	"autor": "Robert Siodmak",
+    "ano": "1943",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-sonofdracula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Return of the Vampire",
+	"autor": "Lew Landers",
+    "ano": "1943",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-thereturnofthevampire.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "House of Frankestein",
+	"autor": "Erle C. Kenton",
+    "ano": "1944",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-houseoffrankenstein.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "House of Dracula",
+	"autor": "Erle C. Kenton",
+    "ano": "1945",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-houseofdracula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Isle of the Dead",
+	"autor": "Mark Robson",
+    "ano": "1945",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-isleofthedead.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Bud Abbott and Lou Costello Meet Frankenstein",
+	"autor": "Charles Barton",
+    "ano": "1948",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-budabbottandloucostello.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Eu Sou a Lenda",
+	"autor": "Richard Matheson",
+    "ano": "1954",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Vampire",
+	"autor": "Fernando Méndez",
+    "ano": "1957",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-elvampiro.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Horrors of Dracula",
+	"autor": "Terence Fisher",
+    "ano": "1958",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-horrorsofdracula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Brides of Dracula",
+	"autor": "Terence Fisher",
+    "ano": "1960",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-bridesofdracula.jpg",
+	"destaque": "",
+	"feito":""
   }
+  ,
+     {
+    "tipo": "Filme",
+    "titulo": "Black Sunday",
+	"autor": "Mario Bava",
+    "ano": "1960",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-blacksunday.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blood and Roses",
+	"autor": "Roger Vadim",
+    "ano": "1960",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-bloodandroses.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Crypt of the Vampire",
+	"autor": "Camillo Mastrocinque",
+    "ano": "1964",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-cryptofthevampire.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Planet of the Vampires",
+	"autor": "Mario Bava",
+    "ano": "1965",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-planetofvampires.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Dracula: Prince of Darkness",
+	"autor": "Terence Fisher",
+    "ano": "1966",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-draculaprinceofdarkness.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Vampiros",
+	"autor": "Osamu Tezuka",
+    "ano": "1967",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1967vampiros.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Fearless Vampire Killers",
+	"autor": "Roman Polanski",
+    "ano": "1967",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-thefearlessvampirekillers.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Dracula Has Risen from the Grave",
+	"autor": "Freddie Francis",
+    "ano": "1968",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-draculahasrisenfromthegrave.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Count Dracula",
+	"autor": "Jesús Franco",
+    "ano": "1970",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-countdracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Scars of Dracula",
+	"autor": "Roy Ward Baker",
+    "ano": "1970",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-scarsofdracula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Taste the Blood of Dracula",
+	"autor": "Peter Sasdy",
+    "ano": "1970",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-tastethebloodofdracula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Vampire Lovers",
+	"autor": "Roy Ward Baker",
+    "ano": "1970",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-thevampirelovers.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Nosferato in Brazil",
+	"autor": "Ivan Cardoso",
+    "ano": "1970",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-nosferatuinbrazil.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Jonathan",
+	"autor": "Hans W. Geißendörfer",
+    "ano": "1970",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1970jonathan.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Count Yorga, Vampire",
+	"autor": "Bob Kelljan",
+    "ano": "1970",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-countyorgavampire.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Vampire Doll",
+	"autor": "Michio Yamamoto",
+    "ano": "1970",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-thevampiredoll.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "House of Dark Shadows",
+	"autor": "Dan Curtis",
+    "ano": "1970",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-houseofdarkshadows.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Daughters of Darkness",
+	"autor": "Harry Kümel",
+    "ano": "1971",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-daughtersofdrakness.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Let's Scare Jessica to Death",
+	"autor": "John D. Hancock",
+    "ano": "1971",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-letsscarejessicatodeath.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "They Have Changed Their Face",
+	"autor": "Corrado Farina",
+    "ano": "1971",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-theyhavechangedtheirface.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Omega Man",
+	"autor": "Boris Sagal",
+    "ano": "1971",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-theomegaman.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Lust for a Vampire",
+	"autor": "Jimmy Sangster",
+    "ano": "1971",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-lustforavampire.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Twins of Evil",
+	"autor": "John Hough",
+    "ano": "1971",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-twinsofevil.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Countess Dracula",
+	"autor": "Peter Sasdy",
+    "ano": "1971",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-countessdracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Vampire Lesbos",
+	"autor": "Jesús Franco",
+    "ano": "1971",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-vampirelesbos.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blacula",
+	"autor": "William Crain",
+    "ano": "1972",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-blacula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Dracula AD 1972",
+	"autor": "Alan Gibson",
+    "ano": "1972",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-draculaad1972.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Night Stalker",
+	"autor": "John Llewellyn Moxey",
+    "ano": "1972",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-thenightstalker.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Blood Spattered Bride",
+	"autor": "Vicente Aranda",
+    "ano": "1972",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-thebloodspatteredbride.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Satanic Rites of Dracula",
+	"autor": "Alan Gibson",
+    "ano": "1973",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-thesatanicritesofdracula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Dracula",
+	"autor": "Dan Curtis",
+    "ano": "1974",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1974dracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Legend of the 7 Golden Vampires",
+	"autor": "Roy Ward Baker, Chang Cheh",
+    "ano": "1974",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-thelegendofsevengoldenvampires.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blood for Dracula",
+	"autor": "Paul Morrissey",
+    "ano": "1974",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-tastethebloodofdracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Salem",
+	"autor": "Stephen King",
+    "ano": "1975",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-salem.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Vampire of Copacabana",
+	"autor": "Xavier de Oliveira",
+    "ano": "1976",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-thevampireofcopacabana.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Martin",
+	"autor": "George A. Romero",
+    "ano": "1977",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1977martin.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Alucarda",
+	"autor": "Juan López Moctezuma",
+    "ano": "1977",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1977alucarda.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "House",
+	"autor": "Nobuhiko Obayashi",
+    "ano": "1977",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetvampiro-1977house.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Count Dracula",
+	"autor": "Philip Saville",
+    "ano": "1977",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1977countdracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Entrevista com o Vampiro",
+	"autor": "Anne Rice",
+    "ano": "1978",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1978entrevistacomovampiro.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Dracula Sucks",
+	"autor": "Phillip Marshak",
+    "ano": "1978",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1978draculasucks.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Fascination",
+	"autor": "Jean Rollin",
+    "ano": "1979",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1979fascination.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Love at the First Bite",
+	"autor": "Stan Dragoti",
+    "ano": "1979",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1979loveatthefirstbite.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Nosferatu The Vampire",
+	"autor": "Werner Herzog",
+    "ano": "1979",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1979nosferatuthevampire.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Salem's Lot",
+	"autor": "Tobe Hooper",
+    "ano": "1979",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1979salemslot.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blood Lust",
+	"autor": "Russell Gay",
+    "ano": "1979",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1979bloodlust.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Tomb of Dracula",
+	"autor": "Minoru Okazaki",
+    "ano": "1980",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1980thetomb ofdracula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Fangs",
+	"autor": "Mohamed Shebl",
+    "ano": "1981",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1981fangs.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Sonho Febril",
+	"autor": "George R. R. Martin",
+    "ano": "1982",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1982sonhofebril.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Living Dead Girl",
+	"autor": "Jean Rollin",
+    "ano": "1982",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1982thelivingdeadgirl.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Ferat Vampire",
+	"autor": "Juraj Herz",
+    "ano": "1982",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1982feratvampire.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Drácula",
+	"autor": "Rodolfo Zalla",
+    "ano": "1983",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1983dracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Hunger",
+	"autor": "Tony Scott",
+    "ano": "1983",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1983thehunger.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Vampiro Lestat",
+	"autor": "Anne Rice",
+    "ano": "1985",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1985ovampirolestat.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Fright Night",
+	"autor": "Tom Holland",
+    "ano": "1985",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1985frightnight.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Lifeforce",
+	"autor": "Tobe Hooper",
+    "ano": "1985",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1985lifeforce.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Vampire Hunter D",
+	"autor": "Toyoo Ashida",
+    "ano": "1985",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1985vampire hunterd.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Mr. Vampire",
+	"autor": "Ricky Lau",
+    "ano": "1985",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1985mrvampire.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Seven Vampires",
+	"autor": "Ivan Cardoso",
+    "ano": "1986",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1986thesevenvampires.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Near Dark",
+	"autor": "Kathryn Bigelow",
+    "ano": "1987",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1987neardark.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Monster Squad",
+	"autor": "Fred Dekker",
+    "ano": "1987",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1987themonstersquad.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Lost Boys",
+	"autor": "Joel Schumacher",
+    "ano": "1987",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1987thelostboys.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "A Return to Salem's Lot",
+	"autor": "Larry Cohen",
+    "ano": "1987",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1987areturntosalemslot.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Adventure of Denchu-Kozo",
+	"autor": "Shinya Tsukamoto",
+    "ano": "1987",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-theadventureofdenchu-kozo.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "The Night Flier",
+	"autor": "Stephen King",
+    "ano": "1988",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1988thenightflier.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Fright Night Part 2",
+	"autor": "Tommy Lee Wallace",
+    "ano": "1988",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1988fright nightpart2.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Lair of the White Worm",
+	"autor": "Ken Russell",
+    "ano": "1988",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1988thelairofthewihiteworm.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Nosferatu in Venice",
+	"autor": "Augusto Caminito",
+    "ano": "1988",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1988nosferatuinvenice.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Vampire's Kiss",
+	"autor": "Robert Bierman",
+    "ano": "1989",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1989vampireskiss.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Carmilla",
+	"autor": "Gabrielle Beaumont",
+    "ano": "1989",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1989carmilla.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Batman & Dracula: Red Rain",
+	"autor": "Doug Moench, Kelley Jones, Malcom Jones III & Les Doescheid",
+    "ano": "1991",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1991batmanedracularedrain.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "My Soul Is Slashed",
+	"autor": "Shusuke Kaneko",
+    "ano": "1991",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1991mysoulisslashed.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Bram Stoker's Dracula",
+	"autor": "Francis Ford Coppola",
+    "ano": "1992",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1992bramstokersdracula.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Bram Stoker's Dracula",
+	"autor": "Toy THomas & Mike Mignola",
+    "ano": "1992",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1992bramstokersdraculamignola.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Buffy the Vampire Slayer",
+	"autor": "Fran Rubel Kuzui",
+    "ano": "1992",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1992buffythevampireslayer.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Innocent Blood",
+	"autor": "John Landis",
+    "ano": "1992",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1992innocentblood.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  }
+  
   
 ]
