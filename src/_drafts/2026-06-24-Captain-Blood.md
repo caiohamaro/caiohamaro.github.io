@@ -15,7 +15,7 @@ timeread: 6
 
 ## Quero escrever o que eu gostaria de ler 
 
-**O processo criativo é algo que envolve muito esforço, estudo e é tão importante para o artista quanto o seu resultado.** Não há muito lugar para compartilhar esse processo no lugar insalubre que a Internet se tornou. Sua divulgação por vezes é relegada à um vídeo tipo *timelapse* de 10 segundos em formato vertical em uma rede social. 
+**O processo criativo é algo que envolve muito esforço, estudo e é tão importante para o artista quanto o seu resultado.** Não há muito lugar para compartilhar esse processo no lugar insalubre que a Internet se tornou. Sua divulgação por vezes é relegada à um vídeo tipo *timelapse* de 10 segundos em formato vertical em uma rede social. d
 Esse texto, portanto, é meu ato de resistência (o site inteiro é, se parar para pensar). Escrever sobre meu processo criativo foi, desde o começo, parte da intenção desse site e o texto de hoje é sobre minha ilustração baseada em The Witcher!
 
 Inclusive, se você se interessa por The Witcher, saiba que eu participo do [Podcast Geraldo! Um podcast criado com o propósito de ler e discutir em sequência todos os romances da série literária do autor polonês Andrzej Sapkowski! A cada episódio, analisamos um novo capítulo, e a cada temporada, um novo livro! Confira aqui!](https://https://iradex.net/categorias/podcasts/geraldo/)
