@@ -343,14 +343,26 @@
 }
 */
 @media (min-width: 840px) {
+  
   .timeline-card-content {
      max-width: 240px;
-   
+
   }
   .timeline-card-badge  {
-       min-width: 150px;
+    min-width: 150px;
+  }
+  .timeline-card-badge-cover{
+  max-width: 150px;
+min-width: 150px;
   }
  
+  .timeline-card-badge-year{
+  width: 60px;
+  font-weight: 600;
+  font-size: 30px;
+  margin-top: -10px;
+  margin-right: 2px;
+}
   .timeline ul {
     grid-template-columns: 1fr var(--line-w) 1fr;
   }
@@ -403,16 +415,16 @@
 }
 
 .timeline-card-badge{
-
   display: flex;
-    flex-flow: wrap;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: flex-start;
-}
-.timeline-card-badge-cover{
+  flex-flow: wrap;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+
   max-width: 100px;
 }
+
+
 .timeline-card-content{
   width:100%;
   max-width: 470px;
@@ -423,13 +435,7 @@
   display: flex;
   justify-content: space-between;
 }
-.timeline-card-badge-year{
-  width: 60px;
-  font-weight: 600;
-  font-size: 30px;
-  margin-top: -10px;
-  margin-right: 2px;
-}
+
 .timeline-card-badge-type{
   background-color: var(--color-background-card-tag);
   padding: 4px;
@@ -437,10 +443,11 @@
 }
 .timeline-card-badge-cover{
   width:100%;
-  min-width: 150px;
+  max-width: 100px;
   background-color: orange;
   border: 4px solid;
   border-color: var(--color-background-card-tag);
+  background-color: red;
 }
 .timeline-card-content{
   padding-bottom: 16px;
@@ -475,3 +482,10 @@
   opacity: 0.5;
   filter: grayscale(100%);
 }
+
+.timeline-card-badge-year {
+    width: 60px;
+    font-weight: 600;
+    font-size: 22px;
+    margin-top: -2px;
+    margin-right: -8px;}
