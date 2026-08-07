@@ -1059,6 +1059,56 @@
 	"imagem": "/images/projetos/projetovampiro-1994interviewwiththevampire.jpg",
 	"destaque": "Recomendo",
 	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blood & Donuts",
+	"autor": "Holly Dale",
+    "ano": "1995",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1995bloodanddonuts.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Dracula Dead and Loving It",
+	"autor": "Mel Brooks",
+    "ano": "1995",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1995draculadeadandlovingit.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Addiction",
+	"autor": "Abel Ferrara",
+    "ano": "1995",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1995theaddiction.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Vampire in Brooklyn",
+	"autor": "Wes Craven",
+    "ano": "1995",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1995vampireinbrooklyn.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Rainha dos Condenados",
+	"autor": "Anne Rice",
+    "ano": "1996",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1996arainhadoscondenados.jpg",
+	"destaque": "",
+	"feito":""
   }
   
   
