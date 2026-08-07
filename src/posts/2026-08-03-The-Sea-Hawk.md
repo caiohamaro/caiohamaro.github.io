@@ -13,7 +13,7 @@ thumbnail: "/images/the-sea-hawk-0.jpg"
 timeread: 6
 ---
 
-## Opa Quero escrever o que eu gostaria de ler 
+## Opa aQuero escrever o que eu gostaria de ler 
 
 **O processo criativo é algo que envolve muito esforço, estudo e é tão importante para o artista quanto o seu resultado.** Não há muito lugar para compartilhar esse processo no lugar insalubre que a Internet se tornou. Sua divulgação por vezes é relegada à um vídeo tipo *timelapse* de 10 segundos em formato vertical em uma rede social. 
 Esse texto, portanto, é meu ato de resistência (o site inteiro é, se parar para pensar). Escrever sobre meu processo criativo foi, desde o começo, parte da intenção desse site e o texto de hoje é sobre minha ilustração baseada em The Witcher!
