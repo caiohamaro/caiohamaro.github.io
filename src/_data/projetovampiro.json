@@ -215,7 +215,7 @@
 	"autor": "Richard Matheson",
     "ano": "1954",
 	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-1954eusoualenda.jpg",
 	"destaque": "Recomendo",
 	"feito":""
   },
@@ -286,7 +286,7 @@
 	"autor": "Mario Bava",
     "ano": "1965",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-planetofvampires.jpg",
+	"imagem": "/images/projetos/projetovampiro-planetofthevampires.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -1009,7 +1009,58 @@
 	"imagem": "/images/projetos/projetovampiro-1992innocentblood.jpg",
 	"destaque": "",
 	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Cronos",
+	"autor": "Guillermo del Toro",
+    "ano": "1992",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1992cronos.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Vlad Drácula",
+	"autor": "Roy Thomas & Esteban Maroto",
+    "ano": "1993",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1993vladdracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Dracula, Dracul, Vlad?, Bah...",
+	"autor": "Alberto Breccia",
+    "ano": "1993",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1993draculadraculvladbah.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Batman & Dracula - Bloodstorm",
+	"autor": "Doug Moench, Kelley Jones, John Beatty e Les Dorscheid",
+    "ano": "1994",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1994batmanedraculabloodstorm.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Interview with the Vampire",
+	"autor": "Neil Jordan",
+    "ano": "1994",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-1994interviewwiththevampire.jpg",
+	"destaque": "Recomendo",
+	"feito":""
   }
+  
   
   
 ]
