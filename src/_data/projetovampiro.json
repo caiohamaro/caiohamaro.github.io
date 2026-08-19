@@ -1841,6 +1841,226 @@
 	"feito":"notdone"
   },
      {
+    "tipo": "HQ",
+    "titulo": "B.P.R.D. Vampire",
+	"autor": "Mike Mignola, Gabriel Bá, Fábio Moon, Dave Stewart",
+    "ano": "2013",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2013bprdvampire.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Afflicted",
+	"autor": "Clif Prowse, Derek Lee",
+    "ano": "2013",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2013afflicted.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Only Lovers Left Alive",
+	"autor": "Jim Jarmusch",
+    "ano": "2013",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2013onlyloversleftalive.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Rigor Mortis",
+	"autor": "Juno Mak",
+    "ano": "2013",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2013rigormortis.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Penny Dreadful - S01",
+	"autor": "John Logan",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2014pennydreadfuls01.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Requiem Vampire Knight Vol. 1 - Resurrection",
+	"autor": "Pat Mills, Olivier Ledroit, Jacques Collin",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2014requiemvampireknightvol01.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "A Girl Walks Home Alone at Night",
+	"autor": "Ana Lily Amirpour",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2014agirlwalkshomealoneatnight.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "What We Do in the Shadows",
+	"autor": "Jemaine Clement, Taika Waititi",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2014whatwedointheshadows.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Norway",
+	"autor": "Yannis Veslemes",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2014norway.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Stranger",
+	"autor": "Guillermo Amoedo",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2014thestranger.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Penny Dreadful - S02",
+	"autor": "John Logan",
+    "ano": "2015",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2015pennydreadfuls02.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Hotel Transylvania 2",
+	"autor": "Genndy Tartakovsky",
+    "ano": "2015",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2015hoteltransylvania2.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Os Vampiros",
+	"autor": "Filipe Melo",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2016osvampiros.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Penny Dreadful - S03",
+	"autor": "John Logan",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2016pennydreadfuls03.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Transfiguration",
+	"autor": "Michael O’Shea",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2016thetransfiguration.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Underworld: Blood Wars",
+	"autor": "Anna Foerster",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2016underworldbloodwars.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Queen of Vampires",
+	"autor": "Abraham Kawa, Manos Lagouvardos",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2017queenofvampires.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Jogo",
+    "titulo": "Vampyr",
+	"autor": "Philippe Moreau",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2017vampyr.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Castlevania - S01",
+	"autor": "Warren Ellis",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2017castlevanias01.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Castlevania - S02",
+	"autor": "Warren Ellis",
+    "ano": "2018",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2018castlevanias02.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Castlevania - S03",
+	"autor": "Warren Ellis",
+    "ano": "2020",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2020castlevanias03.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Castlevania - S04",
+	"autor": "Warren Ellis",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021castlevanias04.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
     "tipo": "",
     "titulo": "",
 	"autor": "",
