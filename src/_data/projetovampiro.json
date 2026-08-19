@@ -2031,6 +2031,26 @@
 	"feito":""
   },
      {
+    "tipo": "Filme",
+    "titulo": "Tokyo Vampire Hotel",
+	"autor": "Sion Sono",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2017tokyovampirehotel.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Vampirologia",
+	"autor": "Nicky Raven",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2017vampirologia.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
     "tipo": "Série",
     "titulo": "Castlevania - S02",
 	"autor": "Warren Ellis",
@@ -2039,6 +2059,46 @@
 	"imagem": "/images/projetos/projetovampiro-2018castlevanias02.jpg",
 	"destaque": "Recomendo",
 	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Hotel Transylvania 3: Summer Vacation",
+	"autor": "Genndy Tartakovsky",
+    "ano": "2018",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2018hoteltransylvaniasummervacation.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Family Blood",
+	"autor": "Sonny Mallhi",
+    "ano": "2018",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2018familyblood.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Love Kills",
+	"autor": "Danilo Beyruth",
+    "ano": "2019",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2019lovekills.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "What we do in the Shadows - S01",
+	"autor": "Jemaine Clement",
+    "ano": "2019",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2019whatwedointheshadowss01.jpg",
+	"destaque": "",
+	"feito":"notdone"
   },
      {
     "tipo": "Série",
@@ -2052,6 +2112,146 @@
   },
      {
     "tipo": "Série",
+    "titulo": "What we do in the Shadows - S04",
+	"autor": "Jemaine Clement",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022whatwedointheshadowss04.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "What we do in the Shadows - S05",
+	"autor": "Jemaine Clement",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023whatwedointheshadowss05.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "What we do in the Shadows - S06",
+	"autor": "Jemaine Clement",
+    "ano": "2024",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2024whatwedointheshadowss06.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Bliss",
+	"autor": "Joe Begos",
+    "ano": "2019",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2019bliss.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Disney Dracula, starring Mickey Mouse",
+	"autor": "Bruno Enna, Fabio Celoni",
+    "ano": "2019",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2019disneydracula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Dracula",
+	"autor": "Jonny Campbell, Damon Thomas, Paul McGuigan",
+    "ano": "2020",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2020dracula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Dracula, Motherf**ker",
+	"autor": "Alex de Campi, Erica Henderson",
+    "ano": "2020",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2020draculamotherfker.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "What we do in the Shadows - S02",
+	"autor": "Jemaine Clement",
+    "ano": "2020",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2020whatwedointheshadowss02.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Jogo",
+    "titulo": "Evil West",
+	"autor": "Michał Szustak, Paweł Libiszewski",
+    "ano": "2020",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2020evilwest.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Vampires vs. the Bronx",
+	"autor": "Oz Rodríguez",
+    "ano": "2020",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2020vampiresvsthebronx.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Lua Rubra",
+	"autor": "Philippe Alencar",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021luarubra.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Grande Livro dos Vampiros",
+	"autor": "Stephen Jones",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021ograndelivrodosvampiros.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Garlic and the Vampire",
+	"autor": "Bree Paulsen",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021garlicandthevampire.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Midnight Mass",
+	"autor": "Mike Flanagan",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021midnightmass.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
     "titulo": "Castlevania - S04",
 	"autor": "Warren Ellis",
     "ano": "2021",
@@ -2061,74 +2261,14 @@
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Série",
+    "titulo": "What we do in the Shadows - S03",
+	"autor": "Jemaine Clement",
+    "ano": "2021",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2021whatwedointheshadowss03.jpg",
 	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
+	"feito":"notdone"
   },
      {
     "tipo": "",
