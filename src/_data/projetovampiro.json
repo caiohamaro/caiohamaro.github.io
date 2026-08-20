@@ -1362,6 +1362,16 @@
   },
      {
     "tipo": "Filme",
+    "titulo": "Bridal of Rose ~The Promise Exchanged at Midnight~",
+	"autor": "Hiroyuki Muto",
+    "ano": "2002",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2002bridalofrose.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
     "titulo": "Dracula's Kiss",
 	"autor": "Roger Young",
     "ano": "2002",
@@ -1438,6 +1448,16 @@
 	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-2004hellsingvol07.jpg",
 	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Jogo",
+    "titulo": "Vampire: The Masquerade - Bloodlines",
+	"autor": " Jason D. Anderson, Leonard Boyarsky",
+    "ano": "2004",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2004vampiremasqueradebloodlines.jpg",
+	"destaque": "Recomendo",
 	"feito":""
   },
      {
@@ -1791,6 +1811,16 @@
 	"feito":""
   },
      {
+    "tipo": "Jogo",
+    "titulo": "The Elder Scrolls V: Dawnguard",
+	"autor": "Todd Howard",
+    "ano": "2012",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2012theeldersscrollvdawnguard.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
     "tipo": "Filme",
     "titulo": "The Twilight Saga: Breaking Dawn - Part 2",
 	"autor": "Bill Condon",
@@ -1951,6 +1981,26 @@
 	"feito":""
   },
      {
+    "tipo": "Jogo",
+    "titulo": "Bloodborne",
+	"autor": "Hidetaka Miyazaki",
+    "ano": "2015",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2015bloodborne.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Jogo",
+    "titulo": "Bloodborne: The Old Hunters",
+	"autor": "Hidetaka Miyazaki",
+    "ano": "2015",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2015bloodbornetheoldhunters.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
     "tipo": "Filme",
     "titulo": "Hotel Transylvania 2",
 	"autor": "Genndy Tartakovsky",
@@ -1968,6 +2018,16 @@
 	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-2016osvampiros.jpg",
 	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Jogo",
+    "titulo": "The Witcher 3: Wild Hunt - Blood and Wine",
+	"autor": "Konrad Tomaszkiewicz",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2016thewitcherwildhuntbloodandwine.jpg",
+	"destaque": "Recomendo",
 	"feito":""
   },
      {
@@ -2101,46 +2161,6 @@
 	"feito":"notdone"
   },
      {
-    "tipo": "Série",
-    "titulo": "Castlevania - S03",
-	"autor": "Warren Ellis",
-    "ano": "2020",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2020castlevanias03.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "Série",
-    "titulo": "What we do in the Shadows - S04",
-	"autor": "Jemaine Clement",
-    "ano": "2022",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2022whatwedointheshadowss04.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
-    "tipo": "Série",
-    "titulo": "What we do in the Shadows - S05",
-	"autor": "Jemaine Clement",
-    "ano": "2023",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2023whatwedointheshadowss05.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
-    "tipo": "Série",
-    "titulo": "What we do in the Shadows - S06",
-	"autor": "Jemaine Clement",
-    "ano": "2024",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2024whatwedointheshadowss06.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
     "tipo": "Filme",
     "titulo": "Bliss",
 	"autor": "Joe Begos",
@@ -2167,6 +2187,16 @@
     "ano": "2020",
 	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-2020dracula.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Castlevania - S03",
+	"autor": "Warren Ellis",
+    "ano": "2020",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2020castlevanias03.jpg",
 	"destaque": "",
 	"feito":""
   },
@@ -2209,6 +2239,16 @@
 	"imagem": "/images/projetos/projetovampiro-2020vampiresvsthebronx.jpg",
 	"destaque": "",
 	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blood Sings",
+	"autor": "Jorge Polo, Petrus de Bairros",
+    "ano": "2020",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2020bloodsings.jpg",
+	"destaque": "",
+	"feito":"notdone"
   },
      {
     "tipo": "Livro",
@@ -2301,6 +2341,16 @@
 	"feito":""
   },
      {
+    "tipo": "Livro",
+    "titulo": "Império do Vampiro",
+	"autor": "Jay Kristoff",
+    "ano": " 2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021imperiodovampiro.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
     "tipo": "Filme",
     "titulo": "Black as Night",
 	"autor": "Maritte Lee Go",
@@ -2319,6 +2369,16 @@
 	"imagem": "/images/projetos/projetovampiro-2021bloodsuckers.jpg",
 	"destaque": "",
 	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Mordida",
+	"autor": "Sarah Andersen",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021mordida.jpg",
+	"destaque": "recomendo",
+	"feito":""
   },
      {
     "tipo": "Livro",
@@ -2341,6 +2401,26 @@
 	"feito":""
   },
      {
+    "tipo": "Série",
+    "titulo": "Interview with the Vampire - S01",
+	"autor": "Rolin Jones",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022interviewwiththevampires01.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Drácula Quer Um Namorado",
+	"autor": "Felipe Soullep",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022draculaquerumnamorado.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
     "tipo": "Jogo",
     "titulo": "V: Rysing",
 	"autor": "Amber Lee Connors, Peter Ilves",
@@ -2353,7 +2433,7 @@
      {
     "tipo": "Série",
     "titulo": "Castlevania: Nocturne S01",
-	"autor": "",
+	"autor": "Clive Bradley",
     "ano": "2022",
 	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-2022castlevanianocturnes01.jpg",
@@ -2371,175 +2451,376 @@
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Filme",
+    "titulo": "Hotel Transylvania: Transformania",
+	"autor": "Derek Drymon, Jennifer Kluska",
+    "ano": "2022",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2022hoteltransylvaniatransformania.jpg",
 	"destaque": "",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Série",
+    "titulo": "What we do in the Shadows - S04",
+	"autor": "Jemaine Clement",
+    "ano": "2022",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2022whatwedointheshadowss04.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Morbius",
+	"autor": "Daniel Espinosa",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022morbius.jpg",
 	"destaque": "",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Filme",
+    "titulo": "The Invitation",
+	"autor": "Jessica M. Thompson",
+    "ano": "2022",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2022theinvitation.jpg",
 	"destaque": "",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Filme",
+    "titulo": "VampFather",
+	"autor": "Stuart Paul",
+    "ano": "2022",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2022vampfather.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "House of Darkness",
+	"autor": "Neil LaBute",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022houseofdarkness.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blood",
+	"autor": "Brad Anderson",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022blood.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Jogo",
+    "titulo": "Marvel's Midnight Suns: Season Pass",
+	"autor": "Jake Solomon, Chad Rocco",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022marvelmidnightsunsseasonpass.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Meu Cunhado é um Vampiro",
+	"autor": "Ale McHaddo",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023meucunhadoeumvampiro.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "El Conde",
+	"autor": "Pablo Larraín",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023elconde.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Nosferatu: Uma Sinfonia do Horror",
+	"autor": "Hughes Chelton",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023nosferatuumasinfoniadohorror.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Carmilla - The First Vampire",
+	"autor": "Amy Chu, Soo Lee",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023carmillathefirstvampire.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "What we do in the Shadows - S05",
+	"autor": "Jemaine Clement",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023whatwedointheshadowss05.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Renfield",
+	"autor": "Chris McKay",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023reinfield.jpg",
 	"destaque": "",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Filme",
+    "titulo": "The Last Voyage of the Demeter",
+	"autor": "André Øvredal",
+    "ano": "2023",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2023thelastvoyageofthedemeter.jpg",
 	"destaque": "",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Filme",
+    "titulo": "Humanist Vampire Seeking Consenting Suicidal Person",
+	"autor": "Ariane Louis-Seize",
+    "ano": "2023",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2023humanistvampireseekingconsentingsuicidalperson.jpg",
 	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blood for Dust",
+	"autor": "Rod Blackhurst",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023bloodfordust.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Vourdalak",
+	"autor": "Adrien Beau",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023thevourdalak.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Nosferatu: A Symphony of Horror",
+	"autor": "David Lee Fisher",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023nosferatuasymphonyofhorror.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Salem's Lot",
+	"autor": "Gary Dauberman",
+    "ano": "2024",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2024salemslot.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Abigail",
+	"autor": "Tyler Gillett, Matt Bettinelli-Olpin",
+    "ano": "2024",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2024abigail.jpg",
+	"destaque": "Recomendo",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Filme",
+    "titulo": "Nosferatu",
+	"autor": "Robert Eggers",
+    "ano": "2024",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
+	"imagem": "/images/projetos/projetovampiro-2024nosferatu.jpg",
+	"destaque": "Recomendo",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Série",
+    "titulo": "Interview with the Vampire - S02",
+	"autor": "Rolin Jones",
+    "ano": "2024",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2024interviewwiththevampires02.jpg",
 	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Dracula's Ex-Girlfriend",
+	"autor": "Valentina Vee",
+    "ano": "2024",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2024draculasexgirlfriend.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "What we do in the Shadows - S06",
+	"autor": "Jemaine Clement",
+    "ano": "2024",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2024whatwedointheshadowss06.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Nosferatu: Sinfonia das Sombras",
+	"autor": "Kevin Jackson",
+    "ano": "2024",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2024nosferatusinfoniadassombras.jpg",
+	"destaque": "Recomendo",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Filme",
+    "titulo": "The Death of Dracula",
+	"autor": "Gyopár Buzási, Szabolcs Sztercey, Orsolya Orbán, Nóra Miklós, Zsófia Makkai",
+    "ano": "2024",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2024thedeathofdracula.jpg",
 	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Império dos Malditos",
+	"autor": "Jay Kristoff",
+    "ano": "2024",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2024imperiodosmalditos.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Baban Baban Ban Vampire",
+	"autor": "Shinji Hamasaki",
+    "ano": "2025",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2025babanbabanbanvampire.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Dracula",
+	"autor": "Luc Besson",
+    "ano": "2025",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2025dracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Jogo",
+    "titulo": "Cabernet",
+	"autor": "Arseniy Klishin, Laura Gray",
+    "ano": "2025",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2025cabernet.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Sete Mortes",
+	"autor": "Dyo",
+    "ano": "2025",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2025setemortes.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Castlevania: Nocturne S02",
+	"autor": "Clive Bradley",
+    "ano": "2025",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2025castlevanianocturnes02.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Império da Alvorada",
+	"autor": "Jay Kristoff",
+    "ano": "2025",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2025imperiodaalvorada.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Sinners",
+	"autor": "Ryan Coogler",
+    "ano": "2025",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2025sinners.jpg",
+	"destaque": "Recomendo",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Série",
+    "titulo": "Interview with the Vampire - S03",
+	"autor": "Rolin Jones",
+    "ano": "2026",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2026interviewwiththevampires03.jpg",
 	"destaque": "",
-	"feito":""
+	"feito":"notdone"
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "Jogo",
+    "titulo": "The Blood of Dawnwalker",
+	"autor": "Konrad Tomaszkiewicz",
+    "ano": "2026",
 	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"imagem": "/images/projetos/projetovampiro-2026thebloodofdawnwalker.jpg",
 	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-.jpg",
-	"destaque": "",
-	"feito":""
+	"feito":"notdone"
   }
+  
   
   
 ]
