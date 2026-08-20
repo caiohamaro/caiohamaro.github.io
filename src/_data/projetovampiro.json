@@ -2271,6 +2271,236 @@
 	"feito":"notdone"
   },
      {
+    "tipo": "Filme",
+    "titulo": "Jakob's Wife",
+	"autor": "Travis Stevens",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021jacobswife.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blood Red Sky",
+	"autor": "Peter Thorwarth",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021bloodredsky.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Night Teeth",
+	"autor": "Adam Randall",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021nightteeth.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Black as Night",
+	"autor": "Maritte Lee Go",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021blackasnight.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Bloodsuckers",
+	"autor": "Julian Radlmaier",
+    "ano": "2021",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2021bloodsuckers.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Veludo & Sangue: Uma homenagem a Anne Rice",
+	"autor": "André Vianco, Jorge Alexandre Moreira, Juliana Daglio, Mikka Capella, Vanessa Guedes, Lucas Dallas, Cupertino Freitas, Gutenberg Lowe, JC Gray, Elena Safra",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022veludoesangue.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "The All-Nighter",
+	"autor": "Chip Zdarsky, Jason Loo",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022theallnighter.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Jogo",
+    "titulo": "V: Rysing",
+	"autor": "Amber Lee Connors, Peter Ilves",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022vrysing.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Castlevania: Nocturne S01",
+	"autor": "",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022castlevanianocturnes01.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Day Shift",
+	"autor": "J.J. Perry",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2022dayshift.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
     "tipo": "",
     "titulo": "",
 	"autor": "",
