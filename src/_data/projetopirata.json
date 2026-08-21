@@ -1,0 +1,24 @@
+[
+     {
+    "tipo": "Livro",
+    "titulo": "Drácula",
+	"autor": "Bram Stoker",
+    "ano": "1897",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-draculabramstoker.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Os sete dedos da morte & A toca do verme branco",
+	"autor": "Bram Stoker",
+    "ano": "1903",
+	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"imagem": "/images/projetos/projetovampiro-setededosdamorte.jpg",
+	"destaque": "",
+	"feito":""
+  }
+
+  
+]

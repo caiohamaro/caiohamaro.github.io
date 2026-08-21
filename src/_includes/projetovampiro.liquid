@@ -1,0 +1,41 @@
+---
+layout: _base
+---
+
+
+{% render "partials/_site-projeto-header" active-projeto-vampiro: true %}
+
+{%- assign title = title | append: " Archive" -%}
+{% include "partials/_hero" %}
+
+  {% if pagination.items %}
+<div class="timeline">
+  <h1>Projeto Vampiro</h1>
+
+<ul>
+    {% for obra in projetovampiro %}
+        
+                {% render "components/full-card-projeto.liquid" 
+                  , samePage: true
+                      tipo: obra.tipo,
+                      titulo: obra.titulo,
+                      autor: obra.autor,
+                      ano: obra.ano,
+                      analise: obra.analise,
+                      destaque: obra.destaque,
+                      feito: obra.feito,
+                      imagem: obra.imagem
+                  %}
+
+      {%- endfor %}
+	</ul>
+<div class="credits"><a target="_blank" href="https://www.freepik.com/free-vector/infographic-template-with-yearly-info_1252895.htm">inspired by</a></div>
+
+</div>
+  {% else %}
+    {{ content }}
+  {% endif %}
+
+
+
+

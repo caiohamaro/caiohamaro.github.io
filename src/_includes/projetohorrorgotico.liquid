@@ -3,7 +3,7 @@ layout: _base
 ---
 
 
-{% render "partials/_site-portfolio-header" active-horrorgotico: true %}
+{% render "partials/_site-projeto-header" active-projeto-horrorgotico: true %}
 
 {%- assign title = title | append: " Archive" -%}
 {% include "partials/_hero" %}
@@ -13,7 +13,7 @@ layout: _base
   <h1>Projeto Horror Gótico</h1>
 
 <ul>
-    {% for obra in horrorgotico %}
+    {% for obra in projetohorrorgotico %}
         
                 {% render "components/full-card-projeto.liquid" 
                   , samePage: true
