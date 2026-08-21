@@ -81,16 +81,6 @@
   },
      {
     "tipo": "Livro",
-    "titulo": "Poderes das Trevas",
-	"autor": "Bram Stoker",
-    "ano": "1899",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-1899poderesdastrevas.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
-    "tipo": "Livro",
     "titulo": "Os sete dedos da morte & A toca do verme branco",
 	"autor": "Bram Stoker",
     "ano": "1903",
@@ -1991,16 +1981,6 @@
 	"feito":"notdone"
   },
      {
-    "tipo": "Livro",
-    "titulo": "Coleção Mundo Estranho Almanaque Monstruoso dos Vampiros",
-	"autor": "Yuri Vasconcelos",
-    "ano": "2014",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2014almanaquemostruosodosvampiros.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
     "tipo": "Série",
     "titulo": "Penny Dreadful - S02",
 	"autor": "John Logan",
@@ -2681,16 +2661,6 @@
 	"feito":"notdone"
   },
      {
-    "tipo": "HQ",
-    "titulo": "DRCL - Midnight Children Vol. 1 - Shinichi Sakamoto",
-	"autor": "Shinichi Sakamoto",
-    "ano": "2023",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2023drclvol01.jpg",
-	"destaque": "Recomendo",
-	"feito":""
-  },
-     {
     "tipo": "Filme",
     "titulo": "Salem's Lot",
 	"autor": "Gary Dauberman",
@@ -2772,36 +2742,6 @@
   },
      {
     "tipo": "Livro",
-    "titulo": "O vampiro antes de Drácula",
-	"autor": "Martha Argel, Humberto Moura Neto",
-    "ano": "2024",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2024ovampiroantesdedracula.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "DRCL - Midnight Children Vol. 2 - Shinichi Sakamoto",
-	"autor": "Shinichi Sakamoto",
-    "ano": "2024",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2024drclvol02.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "DRCL - Midnight Children Vol. 3 - Shinichi Sakamoto",
-	"autor": "Shinichi Sakamoto",
-    "ano": "2024",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2024drclvol03.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
-    "tipo": "Livro",
     "titulo": "Império dos Malditos",
 	"autor": "Jay Kristoff",
     "ano": "2024",
@@ -2871,16 +2811,6 @@
 	"feito":"notdone"
   },
      {
-    "tipo": "HQ",
-    "titulo": "Nosferatu: A sinfonia do Horror de Murnay",
-	"autor": "Romeu Martins, Sando Zambi",
-    "ano": "2025",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2025nosferatuasinfoniadohorrordemurnay.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
     "tipo": "Filme",
     "titulo": "Sinners",
 	"autor": "Ryan Coogler",
@@ -2889,36 +2819,6 @@
 	"imagem": "/images/projetos/projetovampiro-2025sinners.jpg",
 	"destaque": "Recomendo",
 	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "DRCL - Midnight Children Vol. 4 - Shinichi Sakamoto",
-	"autor": "Shinichi Sakamot",
-    "ano": "2025",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2025drclvol04.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "DRCL - Midnight Children Vol. 5 - Shinichi Sakamoto",
-	"autor": "Shinichi Sakamoto",
-    "ano": "2025",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2025drclvol05.jpg",
-	"destaque": "",
-	"feito":"notdone"
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "DRCL - Midnight Children Vol. 6 - Shinichi Sakamoto",
-	"autor": "Shinichi Sakamoto",
-    "ano": "2026",
-	"analise": "",
-	"imagem": "/images/projetos/projetovampiro-2026drclvol06.jpg",
-	"destaque": "",
-	"feito":"notdone"
   },
      {
     "tipo": "Série",
