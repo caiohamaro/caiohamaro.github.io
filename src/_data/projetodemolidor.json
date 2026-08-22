@@ -150,244 +150,334 @@
 	"feito":"notdone"
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "HQ",
+    "titulo": "Demolidor - Amor em Vão",
+	"autor": "Denny O'Neil, Frank Miller, David Mazzucchelli",
+    "ano": "1985",
 	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"imagem": "/images/projetos/projetodemolidor-1985demolidoramoremvao.jpg",
 	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor - Amor e Guerra",
+	"autor": "Frank Miller, Bill Sienkiewicz",
+    "ano": "1986",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1986demolidoramoreguerra.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor: A Queda de Murdock",
+	"autor": "Frank Miller, David Mazzucchelli",
+    "ano": "1986",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1986demolidoraquedademurdock.jpg",
+	"destaque": "Recomendo",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "HQ",
+    "titulo": "Elektra Assassina",
+	"autor": "Frank Miller, Bill Sienkiewicz",
+    "ano": "1986",
 	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"imagem": "/images/projetos/projetodemolidor-1986elektraassassina.jpg",
 	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 01",
+	"autor": "Ann Nocenti, Barry Windsor-Smith, Louis Williams, Sal Buscema",
+    "ano": "1986",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1986asagadodemolidor01.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 02",
+	"autor": "Ann Nocenti, Louis Williams, Chuck Patton, Keith Giffen",
+    "ano": "1986",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1986asagadodemolidor02.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 03",
+	"autor": "Ann Nocenti, John Romita Jr",
+    "ano": "1987",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1987asagadodemolidor03.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 04",
+	"autor": "Ann Nocenti, Mike Baron, John Romita Jr, Whilce Portacio",
+    "ano": "1987",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1987asagadodemolidor04.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 05",
+	"autor": "Ann Nocenti, John Romita Jr, Steve Ditko",
+    "ano": "1988",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1988asagadodemolidor05.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 06",
+	"autor": "Ann Nocenti, John Romita Jr",
+    "ano": "1988",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1988asagadodemolidor06.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "The Punisher: War Journal",
+	"autor": "Carl Potts, Jim Lee",
+    "ano": "1988",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1988thepunisherwarjournal.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 07",
+	"autor": "Ann Nocenti, John Romita Jr, Rick Leonardi",
+    "ano": "1989",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1989asagadodemolidor07.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 08",
+	"autor": "Ann Nocenti, John Romita Jr, Mark Bagley, Lee Weeks",
+    "ano": "1989",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1989asagadodemolidor08.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 09",
+	"autor": "Ann Nocenti, Greg Capullo, Lee Weeks, Kieron Dwyer",
+    "ano": "1990",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1990asagadodemolidor09.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 10",
+	"autor": "Dan G. Chichester, Gregory Wright, Peter Sanderson, Lee Weeks, Ron Garney, Jim Lee, Mark Bagley, John Romita Jr, Whilce Portacio",
+    "ano": "1990",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1990asagadodemolidor10.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 11",
+	"autor": "Dan G. Chichester, Eric Fein, Gregory Wright",
+    "ano": "1991",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1991asagadodemolidor11.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 12",
+	"autor": "Dan G. Chichester, M. C. Wyman, Ron Garney, Scott McDaniel",
+    "ano": "1991",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1991asagadodemolidor12.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Daredevil - Annual 07",
+	"autor": "Gregory Wright, Ron Garney",
+    "ano": "1991",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1991daredevilannual07.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 13",
+	"autor": "Dan G. Chichester, Fabian Nicieza, Scott McDaniel, Pat Olliffe",
+    "ano": "1992",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1992asagadodemolidor13.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 14",
+	"autor": "Dan G. Chichester, Glen Herdling, Fabian Nicieza, Scott McDaniel, Pat Ollife",
+    "ano": "1992",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1992asagadodemolidor14.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 15",
+	"autor": "John Harkness, Jim Owsley, Fabian Nicieza, D. G. Chichester, Louis Williams, Tom Morgan, Ron Lim, Scott McDaniel",
+    "ano": "1992",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1992asagadodemolidor15.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Daredevil - Annual 08",
+	"autor": "Gregory Wright, M.C. Wyman",
+    "ano": "1991",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1992daredevilannual08.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "A Saga do Demolidor - Vol. 16",
+	"autor": "D. G. Chichester, Greg Wright, Glenn Herdling, Kevin Kobasic, Scott McDaniel, John Heebink",
+    "ano": "1993",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1993asagadodemolidor16.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Justiceiro: Zona de Guerra",
+	"autor": "Chuck Dixon, John Romita, Jr.",
+    "ano": "1992",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1992justiceirozonadeguerra.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Punisher/Black Widow: Spinning Doomsday's Web",
+	"autor": "D.G. Chichester, Larry Stroman",
+    "ano": "1992",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1992punisherblackwidowspinningdoomsdayweb.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor: O Homem Sem Medo",
+	"autor": "Frank Miller, John Romita Jr.",
+    "ano": "1993",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1993demolidorohomemsemedo.jpg",
+	"destaque": "Recomendo",
 	"feito":""
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "HQ",
+    "titulo": "Demolidor - Caindo em Desgraça",
+	"autor": "D.G. Chichester, Scott McDaniel",
+    "ano": "1993",
 	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"imagem": "/images/projetos/projetodemolidor-1993demolidorcaindoemdesgraca.jpg",
 	"destaque": "",
-	"feito":""
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Daredevil vs. Spider-Man",
+	"autor": "Bob Richardson",
+    "ano": "2003",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2003daredevilvsspiderman.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Justiceiro Batman: Cavaleiros Mortíferos",
+	"autor": "Chuck Dixon, John Romita Jr.",
+    "ano": "1994",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1994justiceirobatmancavaleirosmortiferos.jpg",
+	"destaque": "",
+	"feito":"notdone"
   },
      {
     "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "titulo": "Justiceiro: Ano Um",
+	"autor": "Dan Abnett, Andy Lanning, Dale Eaglesham",
+    "ano": "1994",
 	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"imagem": "/images/projetos/projetodemolidor-1994justiceiroanoum.jpg",
 	"destaque": "",
-	"feito":""
+	"feito":"notdone"
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "HQ",
+    "titulo": "Daredevil Epic Collection v19 - Root of Evil",
+	"autor": "D. G. Chichester, Greg Wright, Tom Grindberg, Scott McDaniel, Alexandre Jubran, Keith Pollard",
+    "ano": "1995",
 	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"imagem": "/images/projetos/projetodemolidor-1995daredevilepiccollectionv19.jpg",
 	"destaque": "",
-	"feito":""
+	"feito":"notdone"
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "HQ",
+    "titulo": "Daredevil Epic Collection v20 - Purgatory & Paradise",
+	"autor": "J. M. DeMatteis, Karl Kesel, Ron Wagner, Cary Nord, Shawn McManus, Gene Colan",
+    "ano": "1997",
 	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"imagem": "/images/projetos/projetodemolidor-1997daredevilepiccollectionv20.jpg",
 	"destaque": "",
-	"feito":""
+	"feito":"notdone"
   },
      {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
+    "tipo": "HQ",
+    "titulo": "Daredevil/Batman: Olho por Olho",
+	"autor": "D.G. Chichester, Scott McDaniel",
+    "ano": "1997",
 	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"imagem": "/images/projetos/projetodemolidor-1997daredevilbatmanolhoporolho.jpg",
 	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
+	"feito":"notdone"
   }
 
   
