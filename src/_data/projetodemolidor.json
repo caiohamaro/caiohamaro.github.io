@@ -21,7 +21,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor - Edição Definitiva - Volume 02",
+    "titulo": "Demolidor - Edição Definitiva - Vol. 02",
 	"autor": "Stan Lee, Jack Kirby, Gene Colan",
     "ano": "1966",
 	"analise": "",
@@ -31,7 +31,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor - Edição Definitiva - Volume 03",
+    "titulo": "Demolidor - Edição Definitiva - Vol. 03",
 	"autor": "Stan Lee, Roy THomas, Gene Colan, Barry Windsor-Smith",
     "ano": "1968",
 	"analise": "",
@@ -41,7 +41,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor - Edição Definitiva - Volume 04",
+    "titulo": "Demolidor - Edição Definitiva - Vol. 04",
 	"autor": "Roy Thomas, Gary Friedrich, Len Wein, Gene Colan, Don Heck, Barry Windsor-Smith",
     "ano": "1970",
 	"analise": "",
@@ -51,7 +51,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor - Edição Definitiva - Volume 05",
+    "titulo": "Demolidor - Edição Definitiva - Vol. 05",
 	"autor": "Gerry Conway, Steve Gerber, Gene Colan, Don Heck",
     "ano": "1972",
 	"analise": "",
@@ -61,7 +61,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor - Edição Definitiva - Volume 06",
+    "titulo": "Demolidor - Edição Definitiva - Vol. 06",
 	"autor": "Steve Gerber, Tony Isabella, Marv Wolfman, Bob Brown, Gene Colan",
     "ano": "1974",
 	"analise": "",
@@ -71,7 +71,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor - Edição Definitiva - Volume 07",
+    "titulo": "Demolidor - Edição Definitiva - Vol. 07",
 	"autor": "Marv Wolfman, Jim Shooter, Gerry Conway, Bob Brown, Gil Kane, Carmine Infantino",
     "ano": "1976",
 	"analise": "",
@@ -101,7 +101,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor por Frank Miller e Klaus Janson vol. 01",
+    "titulo": "Demolidor por Frank Miller e Klaus Janson Vol. 01",
 	"autor": "Frank Miller, Klaus Janson",
     "ano": "1979",
 	"analise": "",
@@ -111,7 +111,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor por Frank Miller e Klaus Janson vol. 02",
+    "titulo": "Demolidor por Frank Miller e Klaus Janson Vol. 02",
 	"autor": "Frank Miller, Klaus Janson",
     "ano": "1981",
 	"analise": "",
@@ -121,7 +121,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor por Frank Miller e Klaus Janson vol. 03",
+    "titulo": "Demolidor por Frank Miller e Klaus Janson Vol. 03",
 	"autor": "Frank Miller, Klaus Janson",
     "ano": "1982",
 	"analise": "",
@@ -646,6 +646,156 @@
     "ano": "2003",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2003aliasvol3.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor: O Rei da Cozinha do Inferno",
+	"autor": "Brian Michael Bendis, Alex Mallev",
+    "ano": "2003",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2003demolidororeidacozinhadoinferno.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Daredevil - Parts of a Hole",
+	"autor": "David Mack, Joe Quesada, Jimmy Palmiotti",
+    "ano": "2003",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2003daredevilpartsofahole.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Daredevil",
+	"autor": "Mark Steven Johnson",
+    "ano": "2003",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2003daredevil.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Daredevil Director's Cut ",
+	"autor": "",
+    "ano": "2004",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2004daredevildirectorscut.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Kingpin Vol. 2",
+	"autor": "Bruce Jones, Sean Phillips",
+    "ano": "2003",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2003kingpin.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor: Pai",
+	"autor": "Joe Quesada",
+    "ano": "2004",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2004demolidorpai.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Ultimate Daredevil and Elektra",
+	"autor": "Greg Rucka, Salvador Larroca",
+    "ano": "2003",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2003ultimatedaredevilandelektra.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "",
+	"autor": "",
+    "ano": "",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-.jpg",
 	"destaque": "",
 	"feito":""
   },
