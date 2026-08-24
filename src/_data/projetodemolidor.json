@@ -551,6 +551,16 @@
   },
      {
     "tipo": "HQ",
+    "titulo": "Marvel Knights: Defenders of the Streets",
+	"autor": "Chuck Dixon, Ed Barreto",
+    "ano": "2000",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2000marvelknightsdefendersofthestreets.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
     "titulo": "Daredevil - Ninja",
 	"autor": "Brian Michael Bendis, Rob Haynes",
     "ano": "2001",
@@ -566,16 +576,6 @@
     "ano": "2001",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2001daredevilandspidermanunusualsuspects.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Marvel Knights: Defenders of the Streets",
-	"autor": "Chuck Dixon, Ed Barreto",
-    "ano": "2000",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2000marvelknightsdefendersofthestreets.jpg",
 	"destaque": "",
 	"feito":""
   },
@@ -680,32 +680,12 @@
 	"feito":""
   },
      {
-    "tipo": "Filme",
-    "titulo": "Daredevil Director's Cut ",
-	"autor": "Mark Steven Johnson",
-    "ano": "2004",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2004daredevildirectorscut.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
     "tipo": "HQ",
     "titulo": "Kingpin Vol. 2",
 	"autor": "Bruce Jones, Sean Phillips",
     "ano": "2003",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2003kingpin.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Demolidor: Pai",
-	"autor": "Joe Quesada",
-    "ano": "2004",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2004demolidorpai.jpg",
 	"destaque": "",
 	"feito":""
   },
@@ -721,21 +701,41 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Elektra: The Hand",
-	"autor": "Akira Yoshida, Christian Gossett, Jim Cheung",
-    "ano": "2004",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2004elektrathehand.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
     "titulo": "Justiceiro: no Princípio",
 	"autor": "Garth Ennis, Darick Robertson, Lewis Larosa, Leandro Fernández",
     "ano": "2003",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2003justiceironoprincipio.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Daredevil Director's Cut ",
+	"autor": "Mark Steven Johnson",
+    "ano": "2004",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2004daredevildirectorscut.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor: Pai",
+	"autor": "Joe Quesada",
+    "ano": "2004",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2004demolidorpai.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Elektra: The Hand",
+	"autor": "Akira Yoshida, Christian Gossett, Jim Cheung",
+    "ano": "2004",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2004elektrathehand.jpg",
 	"destaque": "",
 	"feito":""
   },
@@ -961,6 +961,26 @@
   },
      {
     "tipo": "HQ",
+    "titulo": "Demolidor Vol. 1: Um Novo Começo",
+	"autor": "Mark Waid, Fred van Lente, Marcos Martin, Paolo Rivera",
+    "ano": "2011",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2011demolidormarkwaidvol1.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor Vol. 2: Os Amigões da Vizinhança",
+	"autor": "Mark Waid, Emma Rios, Paolo Rivera, Kano, Koi Pham",
+    "ano": "2011",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2011demolidormarkwaidvol2.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
     "titulo": "Demolidor: Fim dos Dias",
 	"autor": "Brian Michael Bendis, David Mack, Klaus Janson, Bill Sienkiewicz",
     "ano": "2012",
@@ -981,27 +1001,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 1: Um Novo Começo",
-	"autor": "Mark Waid, Fred van Lente, Marcos Martin, Paolo Rivera",
-    "ano": "2011",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2011demolidormarkwaidvol1.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 2: Os Amigões da Vizinhança",
-	"autor": "Mark Waid, Emma Rios, Paolo Rivera, Kano, Koi Pham",
-    "ano": "2011",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2011demolidormarkwaidvol2.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 3: Medo e Deílrio na Latvéria",
+    "titulo": "Demolidor Waid Vol. 3: Medo e Deílrio na Latvéria",
 	"autor": "Mark Waid, Marco Checchetto, Chris Samnee, Khoi Pham",
     "ano": "2012",
 	"analise": "",
@@ -1011,7 +1011,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 4: Teia de Mentiras",
+    "titulo": "Demolidor Vol. 4: Teia de Mentiras",
 	"autor": "Mark Waid, Chris Samnee, Mike Allred",
     "ano": "2012",
 	"analise": "",
@@ -1021,7 +1021,7 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 5: O Demônio e o Vingador Blindado",
+    "titulo": "Demolidor Vol. 5: O Demônio e o Vingador Blindado",
 	"autor": "Mark Waid, Chris Samnee",
     "ano": "2013",
 	"analise": "",
@@ -1031,61 +1031,11 @@
   },
      {
     "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 6: Fechando as Portas",
+    "titulo": "Demolidor Vol. 6: Fechando as Portas",
 	"autor": "Mark Waid, Chris Samnee, Jason Copland, Javier Rodriguez",
     "ano": "2013",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2013demolidormarkwaidvol6.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 7",
-	"autor": "Mark Waid, Chris Samnee, Peter Krause",
-    "ano": "2014",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2014demolidormarkwaidvol7.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 8",
-	"autor": "Mark Waid, Chris Samnee, Javier Rodriguez",
-    "ano": "2014",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2014demolidormarkwaidvol8.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 9",
-	"autor": "Mark Waid, Chris Samnee",
-    "ano": "2014",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2014demolidormarkwaidvol9.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 10",
-	"autor": "Mark Waid, Chris Samnee",
-    "ano": "2015",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2015demolidormarkwaidvol10.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Demolidor por Mark Waid Vol. 11",
-	"autor": "Mark Waid, Chris Samnee",
-    "ano": "2015",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2015demolidormarkwaidvol11.jpg",
 	"destaque": "",
 	"feito":""
   },
@@ -1096,6 +1046,36 @@
     "ano": "2013",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2013daredevildarknights.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor Vol. 7",
+	"autor": "Mark Waid, Chris Samnee, Peter Krause",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2014demolidormarkwaidvol7.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor Vol. 8",
+	"autor": "Mark Waid, Chris Samnee, Javier Rodriguez",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2014demolidormarkwaidvol8.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor Vol. 9",
+	"autor": "Mark Waid, Chris Samnee",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2014demolidormarkwaidvol9.jpg",
 	"destaque": "",
 	"feito":""
   },
@@ -1116,6 +1096,26 @@
     "ano": "2014",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2014punishervol2bordercrossing.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor Vol. 10",
+	"autor": "Mark Waid, Chris Samnee",
+    "ano": "2015",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2015demolidormarkwaidvol10.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Demolidor Vol. 11",
+	"autor": "Mark Waid, Chris Samnee",
+    "ano": "2015",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2015demolidormarkwaidvol11.jpg",
 	"destaque": "",
 	"feito":""
   },
@@ -1190,6 +1190,46 @@
 	"feito":""
   },
      {
+    "tipo": "Série",
+    "titulo": "Daredevil - S02",
+	"autor": "Doug Petrie, Marco Ramirez",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2016daredevils02.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Punisher Vol. 1: On The Road",
+	"autor": "Becky Cloonan, Steve Dillon",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2016punishervol1.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Jessica Jones Vol. 1: Afastada",
+	"autor": "Brian Michael Bendis, Michael Gaydos",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2016jessicajonesvol1.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Demolidor: O Homem Sem Medo",
+	"autor": "Paul Crilley",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2016demolidorohomemsemmedo.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
     "tipo": "HQ",
     "titulo": "Demolidor Vol. 15",
 	"autor": "Charles Soule, Goran Sudzuka, Ron Garney, Marc Laming",
@@ -1206,6 +1246,66 @@
     "ano": "2017",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2017demolidorvol16.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Punisher Vol. 2: End of the Line",
+	"autor": "Becky Cloonan, Matt Horak, Steve Dillon",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2017punishervol2.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Punisher Vol. 3: King of the New York Streets",
+	"autor": "Becky Cloonan, Kris Anka",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2017punishervol3.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Jessica Jones Vol. 2: The Secrets Of Maria Hill",
+	"autor": "Brian Michael Bendis, Michael Gaydos",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2017jessicajonesvol2.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Running with the Devil",
+	"autor": "Matthew Rosenberg, Ben Torres",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2017runingwithethedevil.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "The Defenders - S01",
+	"autor": "Douglas Petrie, Marco Ramirez",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2017thedefenderss01.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Punisher - S01",
+	"autor": "Steve Lightfoot",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2017punishers01.jpg",
 	"destaque": "",
 	"feito":""
   },
@@ -1251,6 +1351,16 @@
   },
      {
     "tipo": "HQ",
+    "titulo": "Justiceiro: O Pelotão",
+	"autor": "Garth Ennis, Goran Parlov",
+    "ano": "2018",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2018justiceiroopelotao.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
     "titulo": "Demolidor Vol. 21",
 	"autor": "Jed MacKay, Danilo Beyruth, Stefano Landini, Iban Coello, Paolo Villanelli",
     "ano": "2019",
@@ -1261,248 +1371,11 @@
   },
      {
     "tipo": "Série",
-    "titulo": "Daredevil - S02",
-	"autor": "Doug Petrie, Marco Ramirez",
-    "ano": "2016",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2016daredevils02.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Punisher Vol. 1: On The Road",
-	"autor": "Becky Cloonan, Steve Dillon",
-    "ano": "2016",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2016punishervol1.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Punisher Vol. 2: End of the Line",
-	"autor": "Becky Cloonan, Matt Horak, Steve Dillon",
-    "ano": "2017",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2017punishervol2.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Punisher Vol. 3: King of the New York Streets",
-	"autor": "Becky Cloonan, Kris Anka",
-    "ano": "2017",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2017punishervol3.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Jessica Jones Vol. 1: Afastada",
-	"autor": "Brian Michael Bendis, Michael Gaydos",
-    "ano": "2016",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2016jessicajonesvol1.jpg",
-	"destaque": "",
-	"feito":""
-  },
-     {
-    "tipo": "HQ",
-    "titulo": "Jessica Jones Vol. 2: The Secrets Of Maria Hill",
-	"autor": "Brian Michael Bendis, Michael Gaydos",
-    "ano": "2017",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2017jessicajonesvol2.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "Livro",
-    "titulo": "Demolidor: O Homem Sem Medo",
-	"autor": "Paul Crilley",
-    "ano": "2016",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2016demolidorohomemsemmedo.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "Série",
-    "titulo": "The Defenders - S01",
-	"autor": "Douglas Petrie, Marco Ramirez",
-    "ano": "2017",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2017thedefenderss01.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "Série",
-    "titulo": "Punisher - S01",
-	"autor": "Steve Lightfoot",
-    "ano": "2017",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2017punishers01.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "Série",
     "titulo": "Punisher - S02",
 	"autor": "Steve Lightfoot",
     "ano": "2019",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2019punishers02.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "Justiceiro: O Pelotão",
-	"autor": "Garth Ennis, Goran Parlov",
-    "ano": "2018",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2018justiceiroopelotao.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "Running with the Devil",
-	"autor": "Matthew Rosenberg, Ben Torres",
-    "ano": "2017",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-2017runingwithethedevil.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
-	"destaque": "",
-	"feito":""
-  }
-,
-     {
-    "tipo": "HQ",
-    "titulo": "",
-	"autor": "",
-    "ano": "",
-	"analise": "",
-	"imagem": "/images/projetos/projetodemolidor-.jpg",
 	"destaque": "",
 	"feito":""
   }
