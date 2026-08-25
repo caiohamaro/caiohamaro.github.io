@@ -4,7 +4,7 @@
     "titulo": "A Noiva de Coríntio",
 	"autor": "Goethe",
     "ano": "1797",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-noivacorintio.jpg",
 	"destaque": "Recomendo",
 	"feito": ""
@@ -14,7 +14,7 @@
     "titulo": "O Vampiro",
 	"autor": "John William Polidorirsum",
     "ano": "1819",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-vampiropolidori.jpg",
 	"destaque": "Recomendo",
 	"feito": ""
@@ -24,7 +24,7 @@
     "titulo": "A Noiva Morta",
 	"autor": "Gottfried Peter Rauschnik",
     "ano": "1820",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-anoivamorta.jpg",
 	"destaque": "",
 	"feito": "notdone"
@@ -34,7 +34,7 @@
     "titulo": "O Conde Esqueleto",
 	"autor": "Elizabeth Caroline Grey",
     "ano": "1828",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-ocondeesqueleto.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -44,7 +44,7 @@
     "titulo": "A Morta Apaixonada",
 	"autor": "Théophile Gautier",
     "ano": "1836",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-amortaapaixonada.jpg",
 	"destaque": "",
 	"feito":""
@@ -54,7 +54,7 @@
     "titulo": "Carmilla",
 	"autor": "Sheridan Le Fanu",
     "ano": "1872",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-carmilla.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -64,7 +64,7 @@
     "titulo": "Le manoir du diable",
 	"autor": "Georges Méliès",
     "ano": "1896",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-lemanoirdudiable.jpg",
 	"destaque": "",
 	"feito":""
@@ -74,7 +74,7 @@
     "titulo": "Drácula",
 	"autor": "Bram Stoker",
     "ano": "1897",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "Confira meu texto sobre <b> as múltiplas adaptações do personagem Van Helsing!</b>: <p> - <a href=\"https://caiohamaro.com.br/posts/van-helsing-heroi/\"> Van Helsing: De professor multifunção a herói de ação (preso em uma rivalidade eterna)</a>",
 	"imagem": "/images/projetos/projetovampiro-draculabramstoker.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -94,7 +94,7 @@
     "titulo": "Os sete dedos da morte & A toca do verme branco",
 	"autor": "Bram Stoker",
     "ano": "1903",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "Confira meu texto sobre <b>esse livro e suas duas histórias</b>: <p> - <a href=\"https://caiohamaro.com.br/posts/demolidor-karen-page-capacitismo/\"> O Bram Stoker depois de Drácula</a>",
 	"imagem": "/images/projetos/projetovampiro-setededosdamorte.jpg",
 	"destaque": "",
 	"feito":""
@@ -114,7 +114,7 @@
     "titulo": "Nosferatu",
 	"autor": "F. W. Murnau",
     "ano": "1922",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-nosferatu1922.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -124,7 +124,7 @@
     "titulo": "Dracula",
 	"autor": "Tod Browning",
     "ano": "1931",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-dracula1931.jpg",
 	"destaque": "",
 	"feito":""
@@ -144,7 +144,7 @@
     "titulo": "M",
 	"autor": "Fritz Lang",
     "ano": "1931",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-m.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -164,7 +164,7 @@
     "titulo": "Dracula's Daughter",
 	"autor": "Lambert Hillyer",
     "ano": "1936",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-draculasdaughter.jpg",
 	"destaque": "",
 	"feito":""
@@ -174,7 +174,7 @@
     "titulo": "Son of Dracula",
 	"autor": "Robert Siodmak",
     "ano": "1943",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-sonofdracula.jpg",
 	"destaque": "",
 	"feito":""
@@ -214,7 +214,7 @@
     "titulo": "Isle of the Dead",
 	"autor": "Mark Robson",
     "ano": "1945",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-isleofthedead.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -234,7 +234,7 @@
     "titulo": "Eu Sou a Lenda",
 	"autor": "Richard Matheson",
     "ano": "1954",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1954eusoualenda.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -325,7 +325,7 @@
     "titulo": "Vampiros",
 	"autor": "Osamu Tezuka",
     "ano": "1967",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1967vampiros.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -385,7 +385,7 @@
     "titulo": "The Vampire Lovers",
 	"autor": "Roy Ward Baker",
     "ano": "1970",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-thevampirelovers.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -605,7 +605,7 @@
     "titulo": "Salem",
 	"autor": "Stephen King",
     "ano": "1975",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-salem.jpg",
 	"destaque": "",
 	"feito":""
@@ -615,7 +615,7 @@
     "titulo": "The Vampire of Copacabana",
 	"autor": "Xavier de Oliveira",
     "ano": "1976",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-thevampireofcopacabana.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -625,7 +625,7 @@
     "titulo": "Martin",
 	"autor": "George A. Romero",
     "ano": "1977",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1977martin.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -645,7 +645,7 @@
     "titulo": "House",
 	"autor": "Nobuhiko Obayashi",
     "ano": "1977",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetvampiro-1977house.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -665,7 +665,7 @@
     "titulo": "Entrevista com o Vampiro",
 	"autor": "Anne Rice",
     "ano": "1978",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1978entrevistacomovampiro.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -715,7 +715,7 @@
     "titulo": "Salem's Lot",
 	"autor": "Tobe Hooper",
     "ano": "1979",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1979salemslot.jpg",
 	"destaque": "",
 	"feito":""
@@ -735,7 +735,7 @@
     "titulo": "The Tomb of Dracula",
 	"autor": "Minoru Okazaki",
     "ano": "1980",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1980thetomb ofdracula.jpg",
 	"destaque": "",
 	"feito":""
@@ -795,7 +795,7 @@
     "titulo": "The Hunger",
 	"autor": "Tony Scott",
     "ano": "1983",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1983thehunger.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -805,7 +805,7 @@
     "titulo": "O Vampiro Lestat",
 	"autor": "Anne Rice",
     "ano": "1985",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1985ovampirolestat.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -815,7 +815,7 @@
     "titulo": "Fright Night",
 	"autor": "Tom Holland",
     "ano": "1985",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1985frightnight.jpg",
 	"destaque": "",
 	"feito":""
@@ -825,7 +825,7 @@
     "titulo": "Lifeforce",
 	"autor": "Tobe Hooper",
     "ano": "1985",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1985lifeforce.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -835,7 +835,7 @@
     "titulo": "Vampire Hunter D",
 	"autor": "Toyoo Ashida",
     "ano": "1985",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1985vampire hunterd.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -885,7 +885,7 @@
     "titulo": "The Lost Boys",
 	"autor": "Joel Schumacher",
     "ano": "1987",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1987thelostboys.jpg",
 	"destaque": "",
 	"feito":""
@@ -915,7 +915,7 @@
     "titulo": "The Night Flier",
 	"autor": "Stephen King",
     "ano": "1988",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1988thenightflier.jpg",
 	"destaque": "",
 	"feito":""
@@ -935,7 +935,7 @@
     "titulo": "The Lair of the White Worm",
 	"autor": "Ken Russell",
     "ano": "1988",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "Confira meu texto sobre o filme e livro <b>A Toca do Verme Branco</b>: <p> - <a href=\"https://caiohamaro.com.br/posts/demolidor-karen-page-capacitismo/\"> O Bram Stoker depois de Drácula</a>",
 	"imagem": "/images/projetos/projetovampiro-1988thelairofthewihiteworm.jpg",
 	"destaque": "",
 	"feito":""
@@ -965,7 +965,7 @@
     "titulo": "Vampire's Kiss",
 	"autor": "Robert Bierman",
     "ano": "1989",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1989vampireskiss.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -985,7 +985,7 @@
     "titulo": "Batman & Dracula: Red Rain",
 	"autor": "Doug Moench, Kelley Jones, Malcom Jones III & Les Doescheid",
     "ano": "1991",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1991batmanedracularedrain.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -995,7 +995,7 @@
     "titulo": "My Soul Is Slashed",
 	"autor": "Shusuke Kaneko",
     "ano": "1991",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1991mysoulisslashed.jpg",
 	"destaque": "",
 	"feito":""
@@ -1005,7 +1005,7 @@
     "titulo": "Bram Stoker's Dracula",
 	"autor": "Francis Ford Coppola",
     "ano": "1992",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1992bramstokersdracula.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -1015,7 +1015,7 @@
     "titulo": "Bram Stoker's Dracula",
 	"autor": "Toy THomas & Mike Mignola",
     "ano": "1992",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1992bramstokersdraculamignola.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -1045,7 +1045,7 @@
     "titulo": "Cronos",
 	"autor": "Guillermo del Toro",
     "ano": "1992",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1992cronos.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -1065,7 +1065,7 @@
     "titulo": "Dracula, Dracul, Vlad?, Bah...",
 	"autor": "Alberto Breccia",
     "ano": "1993",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1993draculadraculvladbah.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -1085,7 +1085,7 @@
     "titulo": "Interview with the Vampire",
 	"autor": "Neil Jordan",
     "ano": "1994",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
+	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-1994interviewwiththevampire.jpg",
 	"destaque": "Recomendo",
 	"feito":""
@@ -1515,7 +1515,7 @@
     "titulo": "Van Helsing",
 	"autor": "Stephen Sommers",
     "ano": "2004",
-	"analise": "",
+	"analise": "Confira meu texto sobre <b> a trajetória do personagem Van Helsing até chegar a esse filme!</b>: <p> - <a href=\"https://caiohamaro.com.br/posts/van-helsing-heroi/\"> Van Helsing: De professor multifunção a herói de ação (preso em uma rivalidade eterna)</a>",
 	"imagem": "/images/projetos/projetovampiro-2004vanhelsing.jpg",
 	"destaque": "Recomendo",
 	"feito":""
