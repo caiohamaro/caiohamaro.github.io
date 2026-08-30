@@ -61,6 +61,16 @@
   },
      {
     "tipo": "HQ",
+    "titulo": "Luke Cage Epic Collection Vol. 1",
+	"autor": "Archie Goodwin, Steve Englehart, George Tuska",
+    "ano": "1972",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1972lukecageepiccollectionvol1.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
     "titulo": "Demolidor - Edição Definitiva - Vol. 06",
 	"autor": "Steve Gerber, Tony Isabella, Marv Wolfman, Bob Brown, Gene Colan",
     "ano": "1974",
@@ -96,6 +106,16 @@
     "ano": "1978",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-1978daredevilepiccollectionvol08.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Power Man and Iron Fist Vol 1 #50-53",
+	"autor": "Chris Claremont, John Byrne",
+    "ano": "1978",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-1978powermanandironfist.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -741,6 +761,16 @@
   },
      {
     "tipo": "HQ",
+    "titulo": "The Pulse",
+	"autor": "Brian Michael Bendis, Mark Bagley",
+    "ano": "2004",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2004thepulse.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
     "titulo": "Black Widow: Homecoming",
 	"autor": "Richard K. Morgan, Bill Sienkiewicz",
     "ano": "2005",
@@ -901,6 +931,16 @@
   },
      {
     "tipo": "HQ",
+    "titulo": "Luke Cage Noir",
+	"autor": "Mike Benson, Adam Glass, Shawn Martinbrough",
+    "ano": "2009",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2009lukecagenoir.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
     "titulo": "Demolidor: Terra Das Sombras",
 	"autor": "Andy Diggle, Billy Tan, Roberto de la Torre",
     "ano": "2010",
@@ -926,6 +966,16 @@
     "ano": "2010",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2010justiceiromaxvol2.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "New Avengers: Luke Cage",
+	"autor": "John Arcudi, Eric Canete",
+    "ano": "2010",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2010newavengerslukecage.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -976,6 +1026,16 @@
     "ano": "2011",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2011demolidormarkwaidvol2.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Avengers Origins: Luke Cage",
+	"autor": "Adam Glass, Mike Benson, Dalibor Talajic",
+    "ano": "2011",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2011avengersoriginslukecage.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -1140,6 +1200,16 @@
 	"feito":""
   },
      {
+    "tipo": "Série",
+    "titulo": "Jessica Jones - S01",
+	"autor": "Melissa Rosenberg",
+    "ano": "2015",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2015jessicajoness01.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
     "tipo": "HQ",
     "titulo": "Daredevil Annual Vol. 4",
 	"autor": "Charles Soule, Vanesa Del Rey",
@@ -1230,6 +1300,36 @@
 	"feito":"notdone"
   },
      {
+    "tipo": "Série",
+    "titulo": "Luke Cage - S01",
+	"autor": "Cheo Hodari Coker",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2016lukecages01.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Luke Cage e Punho de Ferro Vol. 1: Eles Voltaram!",
+	"autor": "David Walker, Sanford Greene",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2016lukecageepunhodeferrovol1.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Luke Cage e Punho de Ferro Vol. 2: Guerra Civil II",
+	"autor": "David Walker, Sanford Greene",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2016lukecageepunhodeferrovol2.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
     "tipo": "HQ",
     "titulo": "Demolidor Vol. 15",
 	"autor": "Charles Soule, Goran Sudzuka, Ron Garney, Marc Laming",
@@ -1311,6 +1411,26 @@
   },
      {
     "tipo": "HQ",
+    "titulo": "Luke Cage e Punho de Ferro Vol. 3: Harlem em Chamas",
+	"autor": "David Walker, Sanford Greene",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2017lukecageepunhodeferrovol3.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Luke Cage: Sins of the father",
+	"autor": "David Walker, Nelson Blake II",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2017lukecagesinsofthefather.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
     "titulo": "Demolidor Vol. 17",
 	"autor": "Charles Soule, Stefano Landini, Ron Garney",
     "ano": "2018",
@@ -1361,6 +1481,16 @@
   },
      {
     "tipo": "Série",
+    "titulo": "Jessica Jones - S02",
+	"autor": "Melissa Rosenberg",
+    "ano": "2018",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2018jessicajoness02.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
     "titulo": "Daredevil - S03",
 	"autor": "Erik Oleson",
     "ano": "2018",
@@ -1406,6 +1536,26 @@
     "ano": "2018",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2018motoqueirofantasmacosmicovol1.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Luke Cage - S02",
+	"autor": "Cheo Hodari Coker",
+    "ano": "2018",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2018lukecages02.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Luke Cage: Everyman",
+	"autor": "Anthony Del Col, Jahnoy Lindsay",
+    "ano": "2018",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2018lukecageeveryman.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -1471,6 +1621,16 @@
   },
      {
     "tipo": "HQ",
+    "titulo": "Jessica Jones: Filha Púrpura",
+	"autor": "Kelly Thompson, Mattia De Iulis",
+    "ano": "2019",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2019jessicajonesfilhapurpura.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
     "titulo": "Demolidor Vol. 4: Fim do Inferno",
 	"autor": "Chip Zdarsky, Jorge Fornés, Marco Checchetto",
     "ano": "2020",
@@ -1486,6 +1646,16 @@
     "ano": "2020",
 	"analise": "",
 	"imagem": "/images/projetos/projetodemolidor-2020daredevilannual.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Jessica Jones - S03",
+	"autor": "Melissa Rosenberg",
+    "ano": "2019",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2019jessicajoness03.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -1670,6 +1840,16 @@
 	"feito":"notdone"
   },
      {
+    "tipo": "Livro",
+    "titulo": "Breaking the Dark: A Jessica Jones Marvel Crime Novel",
+	"autor": "Lisa Jewell",
+    "ano": "2024",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2024breakingthedark.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
     "tipo": "HQ",
     "titulo": "Demolidor: Um Dia Frio No Inferno",
 	"autor": "Charles Soule, Steve McNiven",
@@ -1718,8 +1898,27 @@
 	"imagem": "/images/projetos/projetodemolidor-2026thepunisheronelastkill.jpg",
 	"destaque": "",
 	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Enemy of My Enemy: A Daredevil Marvel Crime Novel",
+	"autor": "Alex Segura",
+    "ano": "2026",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2026enemyofmyenemy.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Truth to Power: A Luke Cage Marvel Crime Novel",
+	"autor": "S.A. Cosby",
+    "ano": "2026",
+	"analise": "",
+	"imagem": "/images/projetos/projetodemolidor-2026truthtopower.jpg",
+	"destaque": "",
+	"feito":"notdone"
   }
-
 
   
 ]
