@@ -1711,6 +1711,36 @@
 	"feito":"notdone"
   },
      {
+    "tipo": "Série",
+    "titulo": "True Blood - S01",
+	"autor": "Alan Ball",
+    "ano": "2009",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2009truebloods01.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "True Blood - S02",
+	"autor": "Alan Ball",
+    "ano": "2009",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2009truebloods02.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "True Blood - S03",
+	"autor": "Alan Ball",
+    "ano": "2010",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2010truebloods03.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
     "tipo": "HQ",
     "titulo": "American Vampire Vol. 1",
 	"autor": "Scott Snyder, Rafael Albuquerque & Stephen King",
@@ -1781,6 +1811,16 @@
 	"feito":""
   },
      {
+    "tipo": "Série",
+    "titulo": "True Blood - S04",
+	"autor": "Alan Ball",
+    "ano": "2011",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2011truebloods04.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
     "tipo": "Filme",
     "titulo": "Fright Night",
 	"autor": "Craig Gillespie",
@@ -1807,6 +1847,16 @@
     "ano": "2012",
 	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-2012byzantium.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "True Blood - S05",
+	"autor": "Alan Ball",
+    "ano": "2012",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2012truebloods05.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -1929,6 +1979,26 @@
 	"imagem": "/images/projetos/projetovampiro-2013rigormortis.jpg",
 	"destaque": "",
 	"feito":""
+  },
+     {
+    "tipo": "Série",
+    "titulo": "True Blood - S06",
+	"autor": "Brian Buckner",
+    "ano": "2013",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2013truebloods06.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "True Blood - S07",
+	"autor": "Brian Buckner",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2014truebloods07.jpg",
+	"destaque": "",
+	"feito":"notdone"
   },
      {
     "tipo": "Série",
