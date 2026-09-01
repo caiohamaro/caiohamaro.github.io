@@ -1,23 +1,473 @@
 [
      {
     "tipo": "Livro",
-    "titulo": "Drácula",
-	"autor": "Bram Stoker",
-    "ano": "1897",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
-	"imagem": "/images/projetos/projetovampiro-draculabramstoker.jpg",
+    "titulo": "A ilha do tesouro",
+	"autor": "Robert Louis Stevenson",
+    "ano": "1883",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1883ailhadotesouro.jpg",
+	"destaque": "Recomendo",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blackbeard",
+	"autor": "Francis Boggs",
+    "ano": "1911",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1911blackbeard.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "The Sea Hawk",
+	"autor": "Rafael Sabatini",
+    "ano": "1915",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1915theseahawk.jpg",
 	"destaque": "Recomendo",
 	"feito":""
   },
      {
     "tipo": "Livro",
-    "titulo": "Os sete dedos da morte & A toca do verme branco",
-	"autor": "Bram Stoker",
-    "ano": "1903",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
-	"imagem": "/images/projetos/projetovampiro-setededosdamorte.jpg",
+    "titulo": "Capitão Blood",
+	"autor": "Rafael Sabatini",
+    "ano": "1922",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1922capitaoblood.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Sea Hawk",
+	"autor": "Frank Lloyd",
+    "ano": "1924",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1924theseahawk.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Black Pirate",
+	"autor": "Albert Parker",
+    "ano": "1926",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1926theblackpirate.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Treasure Island",
+	"autor": "Victor Fleming",
+    "ano": "1934",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1934treasureisland.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Mutiny on the Bounty",
+	"autor": "Frank Lloyd",
+    "ano": "1935",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1935mutinyonthebounty.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Captain Blood",
+	"autor": "Michael Curtiz",
+    "ano": "1935",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1935captainblood.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Captains Courageous",
+	"autor": "Victor Fleming",
+    "ano": "1937",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1937captainscourageous.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Buccaneer",
+	"autor": "Cecil B. DeMille",
+    "ano": "1938",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1938thebuccaneer.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Sea Hawk",
+	"autor": "Michael Curtiz",
+    "ano": "1940",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1940theseahawk.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Black Swan",
+	"autor": "Henry King",
+    "ano": "1942",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1942theblackswan.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Treasure Island",
+	"autor": "Byron Haskin",
+    "ano": "1950",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1950treasureisland.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Anne of the Indies",
+	"autor": "Jacques Tourneur",
+    "ano": "1951",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1951anneoftheindies.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Scaramouche",
+	"autor": "George Sidney",
+    "ano": "1952",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1952scaramouche.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Peter Pan",
+	"autor": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "ano": "1953",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1953peterpan.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Buccaneer",
+	"autor": "Anthony Quinn",
+    "ano": "1958",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1958thebuccanneer.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Mutiny on the Bounty",
+	"autor": "Lewis Milestone",
+    "ano": "1962",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1962mutinyonthebounty.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Blackbeard's Ghost",
+	"autor": "Robert Stevenson",
+    "ano": "1968",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1968blackbeardsghost.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "O Trapalhão na Ilha do Tesouro",
+	"autor": "J.B. Tanko",
+    "ano": "1975",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1975otrapalhaonailhadotesouro.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Pirates of Penzance",
+	"autor": "Wilford Leach",
+    "ano": "1983",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1983thepiratesofpenzance.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Yellowbeard",
+	"autor": "Mel Damski",
+    "ano": "1983",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1983yellowbeard.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Project A",
+	"autor": "Jackie Chan",
+    "ano": "1983",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1983projecta.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Hook",
+	"autor": "Steven Spielberg",
+    "ano": "1991",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1991hook.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Cutthroat Island",
+	"autor": "Renny Harlin",
+    "ano": "1995",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1995cutthroatisland.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Muppet Treasure Island",
+	"autor": "Brian Henson",
+    "ano": "1996",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-1996muppettreasureisland.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Pirates of the Caribbean: The Curse of the Black Pearl",
+	"autor": "Gore Verbinski",
+    "ano": "2003",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2003piratesofthecaribbeanthecurseoftheblackpearl.jpg",
 	"destaque": "",
 	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Master and Commander: The Far Side of the World",
+	"autor": "Peter Weir",
+    "ano": "2003",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2003masterandcommander.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Pirates of the Caribbean: Dead Man's Chest",
+	"autor": "Gore Verbinski",
+    "ano": "2006",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2006piratesofthecaribbeandeadmanschest.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Pirates of the Caribbean: At World's End",
+	"autor": "Gore Verbinski",
+    "ano": "2007",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2007piratesofthecaribbeanatworldsend.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Pirate Latitudes",
+	"autor": "Michael Crichton",
+    "ano": "2009",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2009piratelatitudes.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Pirates of the Caribbean: On Stranger Tides",
+	"autor": "Rob Marshall",
+    "ano": "2011",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2011piratesofthecaribbeanonstrangertides.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Pirates! In an Adventure with Scientists!",
+	"autor": "Peter Lord",
+    "ano": "2012",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2012thepirates.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Jogo",
+    "titulo": "Assassin's Creed IV: Black Flag",
+	"autor": "Ashraf Ismail, Shadi Mallak",
+    "ano": "2013",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2013assassinscreedivblackflag.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Assassin's Creed: Freedom Cry",
+	"autor": "Amanda Wyatt",
+    "ano": "2013",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2013assassinscreedfreedomcry.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Assassin's Creed: Barba Negra: O diário perdido",
+	"autor": "Golden Christie ",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2014assassinscreedbarbanegra.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Black Sails - S01",
+	"autor": "Jonathan E. Steinberg",
+    "ano": "2014",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2014blacksailss01.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Black Sails - S02",
+	"autor": "Jonathan E. Steinberg",
+    "ano": "2015",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2015blacksailss02.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Black Sails - S03",
+	"autor": "Jonathan E. Steinberg",
+    "ano": "2016",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2016blacksailss03.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "Pirates of the Caribbean: Dead Men Tell No Tales",
+	"autor": "Joachim Rønning, Espen Sandberg",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2017piratesofthecaribbeandeadmentellnotales.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A filha do Rei Pirata",
+	"autor": "Tricia Levenseller",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2017afilhadoreipirata.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Black Sails - S04",
+	"autor": "Jonathan E. Steinberg",
+    "ano": "2017",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2017blacksailss04.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Filme",
+    "titulo": "The Pirates: The Last Royal Treasure",
+	"autor": "Kim Joung-hoon",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2022thepiratesthelastroyaltreasure.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Our Flag Means Death - S01",
+	"autor": "David Jenkins",
+    "ano": "2022",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2022ourflagmeansdeaths01.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Série",
+    "titulo": "Our Flag Means Death - S02",
+	"autor": "David Jenkins",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2023ourflagmeansdeaths02.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Jogo",
+    "titulo": "Assassin's Creed Black Flag Resynced",
+	"autor": "Paul Fu, Richard Knight",
+    "ano": "2026",
+	"analise": "",
+	"imagem": "/images/projetos/projetopirata-2026assassinscreedblackflagresynced.jpg",
+	"destaque": "",
+	"feito":"notdone"
   }
 
   
