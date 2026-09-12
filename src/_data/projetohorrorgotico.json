@@ -1,23 +1,413 @@
 [
      {
     "tipo": "Livro",
-    "titulo": "Drácula",
-	"autor": "Bram Stoker",
-    "ano": "1897",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
-	"imagem": "/images/projetos/projetovampiro-draculabramstoker.jpg",
+    "titulo": "O Castelo de Otranto",
+	"autor": "Horace Walpole",
+    "ano": "1764",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1764ocastelodeotranto.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Aparicionista",
+	"autor": "Friedrich Schiller",
+    "ano": "1789",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1789oaparicionista.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Necromante",
+	"autor": "Lorenz Flammenberg",
+    "ano": "1792",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1792onecromante.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Monge",
+	"autor": "Matthew Gregory Lewis",
+    "ano": "1796",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1796omonge.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Christabel",
+	"autor": "Samuel Taylor Coleridge",
+    "ano": "1797",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1797christabel.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Noiva de Coríntio",
+	"autor": "Goethe",
+    "ano": "1797",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1797anoivadecorintio.jpg",
 	"destaque": "Recomendo",
 	"feito":""
   },
      {
     "tipo": "Livro",
-    "titulo": "Os sete dedos da morte & A toca do verme branco",
-	"autor": "Bram Stoker",
-    "ano": "1903",
-	"analise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. ",
-	"imagem": "/images/projetos/projetovampiro-setededosdamorte.jpg",
+    "titulo": "Fantasmagoriana",
+	"autor": "Johann August Apel, Friedrich Laun, Johann Karl August Musäus, Heinrich Clauren",
+    "ano": "1812",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1812fantasmagoriana.jpg",
 	"destaque": "",
 	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Frankenstein",
+	"autor": "Mary Shelley",
+    "ano": "1818",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1818frankenstein.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Vampiro",
+	"autor": "John William Polidori",
+    "ano": "1819",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1819ovampiro.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Lenda do Cavaleiro sem Cabeça",
+	"autor": "Washington Irving",
+    "ano": "1820",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1820alendadocavaleirosemcabeca.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Noiva Morta",
+	"autor": "Gottfried Peter Rauschnik",
+    "ano": "1820",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1820anoivamorta.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Noiva Morta e outras vampiras antes de Carmilla",
+	"autor": "Gottfried Peter Rauschnik",
+    "ano": "1820",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1820anoivamortaeoutrasvampiras.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Bruxas e Bruxaria: Contos das Ilhas Britânicas ",
+	"autor": " James Hogg, Thomas de Quincey, William H. G. Kingston, Robert Louis Stevenson,  Speranza (Jane Wilde), Anna Kingsford, Baillie Reynolds",
+    "ano": "1829",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1829bruxasebruxaria.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Morta Apaixonada",
+	"autor": "Théophile Gautier",
+    "ano": "1836",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1836amortaapaixonada.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Tênebra: Narrativas brasileiras de horror (1839-1899)",
+	"autor": "Machado de Assis, Olavo Bilac, Júlia Lopes de Almeida e Aluísio Azevedo",
+    "ano": "1839",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1839tenebra.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Edgar Alan Poe Vol. 1",
+	"autor": "Edgar Alan Poe",
+    "ano": "1845",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1845edgaralanpoevol1.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Edgar Alan Poe Vol. 2",
+	"autor": "Edgar Alan Poe",
+    "ano": "1845",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1845edgaralanpoevol2.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Noite na taverna",
+	"autor": "Álvares de Azevedo",
+    "ano": "1855",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1855noitanataverna.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Labor da Morte",
+	"autor": "Ferdinand Barth",
+    "ano": "1865",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1865olabordamorte.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Góticas Brasileiras",
+	"autor": "Júlia Lopes de Almeida, Emília Freitas, Francisca Júlia, Rachel Prado, Carmen Dolores, Maria Benedita Bormann, Corina Coaraci, Maria de Albuquerque, Delminda Silveira, Amélia Beviláqua, Chrysanthéme, Maria Firmina dos Reis",
+    "ano": "1867",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1867goticasbrasileiras.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Carmilla",
+	"autor": "Sheridan Le Fanu",
+    "ano": "1872",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1872carmilla.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O mundo fantástico de H.P. Lovecraft: contos, poesias e ensaios - H.P. Lovecraft ",
+	"autor": "H.P. Lovecraft",
+    "ano": "1890",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1890omundofantasticodehplovecraft.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Missal para o Diabo: Contos e Poemas Assombrosos",
+	"autor": "Cruz e Sousa",
+    "ano": "1893",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1893missalparaodiabo.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Grande Deus Pã",
+	"autor": "Arthur Macen",
+    "ano": "1894",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1894ograndedeuspa.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Rei de Amarelo",
+	"autor": "Robert Chambers",
+    "ano": "1895",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1895oreideamarelo.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A mortalha de Alzira e outros vampiros",
+	"autor": "Aluísio Azeved",
+    "ano": "1895",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1895amortalhadealzira.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Sertão ",
+	"autor": "Coelho Neto",
+    "ano": "1896 ",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1896sertao.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Medo Imortal",
+	"autor": "Machado de Assis, Álvares de Azevedo, Bernardo Guimarães, Fagundes Varela, Coelho Neto, Aluísio Azevedo, Afonso Celso, Inglês de Sousa, Medeiros de Albuquerque, Afonso Arinos, João do Rio, Humberto de Campos, Júlia Lopes de Almeida",
+    "ano": "1897",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1897medoimortal.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Drácula",
+	"autor": "Bram Stoker",
+    "ano": "1897",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1897dracula.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Poderes das trevas",
+	"autor": "Bram Stoker",
+    "ano": "1900",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1900poderesdastrevas.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Tênebra 2: narrativas brasileiras de horror (1900-1949)",
+	"autor": "Clarice Lispector, Mário de Andrade, Rachel de Queiroz, Lygia Fagundes Telles, Erico Verissimo, Lima Barreto, Patrícia Galvão",
+    "ano": "1900",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1900tenebra2.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Os sete dedos da Morte & A toca do verme Branco",
+	"autor": "Bram Stoker",
+    "ano": "1903",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1903ossetededosdamorte.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Casa no Limiar e outras histórias macabras",
+	"autor": "Willian Hope Hodgson",
+    "ano": "1908",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1908acasanolimiar.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Magia das Trevas",
+	"autor": "Marjorie Bowen",
+    "ano": "1909",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1909magiadastrevas.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Carnacki",
+	"autor": "William Hope Hodgson",
+    "ano": "1913",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1913carnacki.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Os Cães de Tíndalos",
+	"autor": "Frank Belknap Long",
+    "ano": "1925",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1925oscaesdetindalos.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Nosferatu: Uma Sinfonia do Horror",
+	"autor": "Hughes Chelton",
+    "ano": "1925",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1925nosferatu.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "História da Bruxaria e da Demonologia",
+	"autor": "Montague Summers",
+    "ano": "1926",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1926historiadabruxariaedademonologia.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Filosofia do Horror ou Paradoxos do Coração",
+	"autor": "Noel Carroll",
+    "ano": "1990",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1990afilosofiadohorror.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Gótico",
+	"autor": "Fred Botting",
+    "ano": "1995",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1995gotico.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Onde vivem os monstros",
+	"autor": "Camila Aline Zanon",
+    "ano": "2018",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-2018ondevivemosmonstros.jpg",
+	"destaque": "",
+	"feito":"notdone"
   }
 
   

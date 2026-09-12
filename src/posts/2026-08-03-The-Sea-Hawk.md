@@ -1,19 +1,28 @@
 ---
-title: O Gavião do Mar&#58; A história de pirata esquecida!
+title: The Sea Hawk&#58; Um tesouro escondido da Literatura e Cinema!
 
 author: Caio Amaro
 layout: post
 permalink: /posts/captain-blood/
-description: Que pérola eu encontrei ao ir atrás de filmes e livros sobre piratas!
+description: Descubra a obra que foi ofuscada por seus irmãos mais famosos&#58; Capitão Blood e Scaramouche!
+
 categories:
   - Posts
 excerpt: Processo Ilustracao Witcher...
 tags:  ["Pirata", "Filmes", "Livros"]
-thumbnail: "/images/the-sea-hawk-0.jpg"
+thumbnail: "/images/the-sea-hawk-00.jpg"
 timeread: 6
 ---
 
-## Opa aaQuero escrever o que eu gostaria de ler 
+Embarquei em mais uma empreitada irresponsável: um projeto que consiste em descobrir mais sobre a representação dos piratas no imaginário coletivo (e você pode acompanhar esse meu novo projeto aqui)!
+
+Além do óbvio *Robert Louis Stevenson* (escritor de **A Ilha do Tesouro**), outro autor que obrigatoriamente me depararia seria Rafael Sabatini. Mesmo que não esteja tanto em voga hoje em dia, deixou seu marco na literatura e, principalmente, no cinema com o sucesso da adaptação *“Capitão Blood”* de 1935 que levou o ator Errol Flynn ao estrelato (falaremos mais desta história em um próximo texto!)
+
+Embora *“Scaramouche”* (1921) e *“Capitão Blood”* (1922) sejam seus livros mais famosos, sinto-me no dever moral de exaltar *“The Sea Hawk”* de 1915 como uma história fascinante que merece tantos louros quanto as outras.
+
+## O Odisseu do século XVI
+
+
 
 **Oasasas asa prasassocesso criativo é algo que envolve muito esforço, estudo e é tão importante para o artista quanto o seu resultado.** Não há muito lugar para compartilhar esse processo no lugar insalubre que a Internet se tornou. Sua divulgação por vezes é relegada à um vídeo tipo *timelapse* de 10 segundos em formato vertical em uma rede social. 
 Esse texto, portanto, é meu ato de resistência (o site inteiro é, se parar para pensar). Escrever sobre meu processo criativo foi, desde o começo, parte da intenção desse site e o texto de hoje é sobre minha ilustração baseada em The Witcher!
