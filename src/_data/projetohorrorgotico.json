@@ -211,11 +211,21 @@
   },
      {
     "tipo": "Livro",
-    "titulo": "O mundo fantástico de H.P. Lovecraft: contos, poesias e ensaios - H.P. Lovecraft ",
-	"autor": "H.P. Lovecraft",
+    "titulo": "O Médico e o Monstro",
+	"autor": "Robert Louis Stevenson",
+    "ano": "1886",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1886omedicoeomonstro.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Retrato de Dorian Gray",
+	"autor": "Oscar Wilde",
     "ano": "1890",
 	"analise": "",
-	"imagem": "/images/projetos/projetohorrorgotico-1890omundofantasticodehplovecraft.jpg",
+	"imagem": "/images/projetos/projetohorrorgotico-1890oretratodedoriangray.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -268,6 +278,16 @@
 	"imagem": "/images/projetos/projetohorrorgotico-1896sertao.jpg",
 	"destaque": "",
 	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Ilha do Dr. Moreau",
+	"autor": "H. G. Wells",
+    "ano": "1896",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1896ailhadodrmoreau.jpg",
+	"destaque": "Recomendo",
+	"feito":""
   },
      {
     "tipo": "Livro",
@@ -371,11 +391,51 @@
   },
      {
     "tipo": "Livro",
+    "titulo": "O mundo fantástico de H.P. Lovecraft: contos, poesias e ensaios",
+	"autor": "H.P. Lovecraft",
+    "ano": "1926",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1926omundofantasticodehplovecraft.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
     "titulo": "História da Bruxaria e da Demonologia",
 	"autor": "Montague Summers",
     "ano": "1926",
 	"analise": "",
 	"imagem": "/images/projetos/projetohorrorgotico-1926historiadabruxariaedademonologia.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Nas Montanhas da Loucura - H. P. Lovecraft",
+	"autor": "H.P. Lovecraft",
+    "ano": "1936",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1936nasmontanhasdaloucura.jpg",
+	"destaque": "",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "Eu Sou a Lenda",
+	"autor": "Richard Matheson",
+    "ano": "1954",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1954eusoualenda.jpg",
+	"destaque": "Recomendo",
+	"feito":""
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Assombração da Casa da Colina",
+	"autor": "Shirley Jackson",
+    "ano": "1959",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1959assombracaodacasadacolina.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -409,6 +469,4 @@
 	"destaque": "",
 	"feito":"notdone"
   }
-
-  
 ]

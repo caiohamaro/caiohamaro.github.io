@@ -29,6 +29,16 @@
 	"destaque": "",
 	"feito": "notdone"
   },
+     {
+    "tipo": "Livro",
+    "titulo": "A Noiva Morta e outras vampiras antes de Carmilla",
+	"autor": "Gottfried Peter Rauschnik",
+    "ano": "1820",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1820anoivamortaeoutrasvampiras.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
   {
     "tipo": "Livro",
     "titulo": "O Conde Esqueleto",
