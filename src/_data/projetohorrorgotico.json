@@ -231,6 +231,26 @@
   },
      {
     "tipo": "Livro",
+    "titulo": "As Trevas de uma Era",
+	"autor": "Mary Elizabeth Braddon",
+    "ano": "1892",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1892astrevasdeumaera.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "A Noite dos Vultos",
+	"autor": "Edith Nesbit",
+    "ano": "1893",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1893anoitedosvultos.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
     "titulo": "Missal para o Diabo: Contos e Poemas Assombrosos",
 	"autor": "Cruz e Sousa",
     "ano": "1893",
@@ -406,6 +426,16 @@
     "ano": "1926",
 	"analise": "",
 	"imagem": "/images/projetos/projetohorrorgotico-1926historiadabruxariaedademonologia.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "Livro",
+    "titulo": "O Lado Mais Sombrio",
+	"autor": "L. M. Montgomery",
+    "ano": "1931",
+	"analise": "",
+	"imagem": "/images/projetos/projetohorrorgotico-1931oladomaissombrio.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },

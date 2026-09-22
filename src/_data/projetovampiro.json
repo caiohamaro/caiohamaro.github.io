@@ -611,6 +611,16 @@
 	"feito":"notdone"
   },
      {
+    "tipo": "HQ",
+    "titulo": "Giant-Size Spider-Man and Dracula",
+	"autor": "Len Wein, Ross Andru",
+    "ano": "1974",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1974giantsizespidermananddracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
     "tipo": "Livro",
     "titulo": "Salem",
 	"autor": "Stephen King",
@@ -629,6 +639,16 @@
 	"imagem": "/images/projetos/projetovampiro-thevampireofcopacabana.jpg",
 	"destaque": "Recomendo",
 	"feito":""
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Marvel Vintage - Dr. Estranho Contra Drácula",
+	"autor": "Gene Colan, Marv Wolfman, Roger Stern, Dan Green",
+    "ano": "1976",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1976marvelvintagedrestranhocontradracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
   },
      {
     "tipo": "Filme",
@@ -992,6 +1012,16 @@
   },
      {
     "tipo": "HQ",
+    "titulo": "Dracula - A Sombra da Noite",
+	"autor": "Ataíde Braz, Neide",
+    "ano": "1990",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-1990draculaasombradanoite.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
     "titulo": "Batman & Dracula: Red Rain",
 	"autor": "Doug Moench, Kelley Jones, Malcom Jones III & Les Doescheid",
     "ano": "1991",
@@ -1337,6 +1367,16 @@
     "ano": "2001",
 	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-2001jesuschristvampirehunter.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Tales of the Vampires",
+	"autor": "Joss Whedon",
+    "ano": "2001",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2001talesofthevampires.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -2771,6 +2811,26 @@
 	"feito":""
   },
      {
+    "tipo": "HQ",
+    "titulo": "Bram Stokers Dracula",
+	"autor": "Georges Bess",
+    "ano": "2023",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2023bramstokersdracula.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Carmilla - The Last Vampire Hunter",
+	"autor": "Amy Chu, Soo Lee",
+    "ano": "2024",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2024carmillathelastvampirehunter.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
     "tipo": "Filme",
     "titulo": "Salem's Lot",
 	"autor": "Gary Dauberman",
@@ -2877,6 +2937,16 @@
     "ano": "2024",
 	"analise": "",
 	"imagem": "/images/projetos/projetovampiro-2024drclvol03.jpg",
+	"destaque": "",
+	"feito":"notdone"
+  },
+     {
+    "tipo": "HQ",
+    "titulo": "Dracula: A Visual Storybook",
+	"autor": "J.H. Williams III",
+    "ano": "2024",
+	"analise": "",
+	"imagem": "/images/projetos/projetovampiro-2024draculaavisualstorybook.jpg",
 	"destaque": "",
 	"feito":"notdone"
   },
@@ -3020,7 +3090,5 @@
 	"destaque": "",
 	"feito":"notdone"
   }
-  
-  
   
 ]
